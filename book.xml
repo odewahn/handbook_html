@@ -9604,17 +9604,18 @@
     </informalfigure>
   </sect1>
   </chapter>
-<chapter id="filing_a_complaint">
+</part>
+<part id="part_filing_a_complaint">
   <title>Filing A Complaint</title>
+  <chapter id="filing_a_complaint">
     <para>
       Even the savviest consumer has problems with a good or service at
       one time or another. It is your right to complain if you have a
       genuine consumer problem. It is also your responsibility. A
       problem can’t be fixed if no one knows it exists.
     </para>
-    <para>
-      CONTACT THE SELLER
-    </para>
+    <sect1>
+      <title>Contact The Seller</title>
     <para>
       The first step in resolving a consumer problem is contacting the
       seller. You can solve most consumer problems by talking to a
@@ -9663,8 +9664,6 @@
           manufacturers of thousands of products.
         </para>
       </listitem>
-    </itemizedlist>
-    <itemizedlist>
       <listitem>
         <para>
           With each person you contact, calmly and accurately explain
@@ -9721,9 +9720,9 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      CONTACT THIRD PARTIES
-    </para>
+    </sect1>
+  <sect1>
+    <title>Contact Third Parties</title>
     <para>
       Don’t give up if you are not satisfied with the seller’s response
       to your complaint. Once you have given the seller a reasonable
@@ -9731,35 +9730,18 @@
       more of these outside organizations:
     </para>
     <para>
-      State or local consumer protection offices
-    </para>
-    <variablelist>
-      <varlistentry>
-        <term>
-          (p.
-        </term>
-        <listitem>
-          <para>
-            112). These government agencies mediate complaints, conduct
-            investigations, and prosecute those who break consumer laws.
-          </para>
-        </listitem>
-      </varlistentry>
-    </variablelist>
+      <emphasis role="strong">State or local consumer protection offices</emphasis> 
+      (p. 112). These government agencies mediate complaints, conduct 
+      investigations, and prosecute those who break consumer laws.
+     </para>
     <para>
-      (p.
-    </para>
-    <para>
+      <emphasis role="strong">State regulatory agencies</emphasis> that have jurisdiction 
+      over the business. For example, banking (p. 126), insurance
       130), securities (p. 134), and utilities (p. 138) are regulated at
       the state level.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_194.jpg" />
-        </imageobject>
-      </inlinemediaobject>STEPS TO FOLLOW TO RESOLVE A COMPLAINT
-    </para>
+    <sidebar>
+      <title>Steps To Follow To Resolve A Complaint</title>
     <itemizedlist>
       <listitem>
         <para>
@@ -9784,11 +9766,7 @@
       </listitem>
       <listitem>
         <para>
-          Contact local and state consumer protection/regulatory/<literallayout>
-</literallayout> <literallayout>
-</literallayout>licensing officers.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+          Contact local and state consumer protection/regulatory/licensing officers.
         </para>
       </listitem>
       <listitem>
@@ -9797,28 +9775,9 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_195.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_196.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_197.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_198.jpg" />
-        </imageobject>
-      </inlinemediaobject>FILE A COMPLAINT USING SOCIAL MEDIA
-    </para>
+    </sidebar>
+    <sidebar>
+      <title>File A Complaint Using Social Media</title>
     <para>
       Social media offer an alternative to filing a formal consumer
       complaint. The customer relations staff at many major corporations
@@ -9827,11 +9786,13 @@
       perceptions of their company’s performance by other potential
       customers. While there is no guarantee that you’ll get your
       problem resolved, it can be a worthwhile effort.
+    </para>
+    </sidebar>
+    <para>
       <emphasis role="strong">Local politicians.</emphasis> Your local
-      and state politicians may
+      and state politicians may be able to help you get your complaint addressed.
     </para>
     <para>
-      be able to help you get your complaint addressed.
       <emphasis role="strong">State and local licensing
       agencies.</emphasis> Doctors, lawyers, home improvement
       contractors, auto repair shops, debt collectors, and child care
@@ -9849,25 +9810,18 @@
       information for the seller’s future customers. The umbrella
       organization for the BBBs assists with complaints concerning the
       truthfulness of national advertising and helps to settle disputes
-      with automobile manufacturers through the BBB AUTO LINE program
+      with automobile manufacturers through the BBB AUTO LINE program (p. 66).
     </para>
     <para>
-      (p. 66). <emphasis role="strong">Trade associations.</emphasis>
+      <emphasis role="strong">Trade associations.</emphasis>
       Companies selling similar products or services often belong to an
-      industry association that
-    </para>
+      industry association that will help resolve problems between its 
+      members and consumers (p. 142).
+</para>
     <para>
-      will help resolve problems between its members and<literallayout>
-</literallayout> <literallayout>
-</literallayout>consumers (p. 142).<literallayout>
-</literallayout> <literallayout>
-</literallayout><emphasis role="strong">National consumer
-      organizations.</emphasis> Some of these<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      organizations assist consumers with complaints. Others may be
+    <emphasis role="strong">National consumer
+      organizations.</emphasis> Some of these organizations assist 
+      consumers with complaints. Others may be
       unable to help individuals but are interested in hearing about
       problems that could influence their education and advocacy efforts
       (p. 109).
@@ -9882,9 +9836,9 @@
       <ulink url="http://www.callforaction.org">www.callforaction.org</ulink>
       to find your local action office, or call 240-747-0225.
     </para>
-    <para>
-      DISPUTE RESOLUTION PROGRAMS
-    </para>
+  </sect1>
+  <sect1>
+    <title>Dispute Resolution Programs</title>
     <para>
       Some companies and industries offer programs to address
       disagreements between buyers and sellers. The auto industry (p.
@@ -9920,9 +9874,9 @@
       company. If you have no other option, write on the contract that
       you don’t agree with the clause and initial next to the statement.
     </para>
-    <para>
-      SMALL CLAIMS COURT
-    </para>
+  </sect1>
+    <sect1>
+      <title>Small Claims Court</title>
     <para>
       Small claims courts resolve disputes over small amounts of money.
       While the maximum amount that can be claimed differs from state to
