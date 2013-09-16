@@ -6899,12 +6899,15 @@
       </itemizedlist>
     </sect1>
     </chapter>
-    <chapter id="">
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_129.jpg" />
+    <chapter id="privacy">
+      <title>Protecting Your Privacy</title>
+     <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_25.png" format="PNG"/>
         </imageobject>
-      </inlinemediaobject>
+      </mediaobject>
+     </informalfigure>
     </para>
     <para>
       Identity thieves steal your personal information to commit fraud.
@@ -6916,13 +6919,13 @@
       <listitem>
         <para>
           <emphasis role="strong">Don’t carry your Social Security
-          card</emphasis>in your wallet or write your number on your
+          card</emphasis> in your wallet or write your number on your
           checks. Only give out your SSN when absolutely necessary.
         </para>
       </listitem>
       <listitem>
         <para>
-          <emphasis role="strong">Protect your PIN.</emphasis>Never
+          <emphasis role="strong">Protect your PIN.</emphasis> Never
           write a PIN on a credit/debit card or on a slip of paper kept
           in your wallet.
         </para>
@@ -6944,7 +6947,7 @@
       <listitem>
         <para>
           <emphasis role="strong">Pay attention to your billing
-          cycles.</emphasis>If bills or financial statements are late,
+          cycles.</emphasis> If bills or financial statements are late,
           contact the sender.
         </para>
       </listitem>
@@ -6958,7 +6961,7 @@
       </listitem>
       <listitem>
         <para>
-          <emphasis role="strong">Tear up or shred</emphasis>unwanted
+          <emphasis role="strong">Tear up or shred</emphasis> unwanted
           receipts, credit offers, account statements, expired cards,
           etc., to prevent “dumpster divers” (see p. 7) from getting
           your personal information.
@@ -6980,14 +6983,14 @@
       </listitem>
       <listitem>
         <para>
-          <emphasis role="strong">Install firewalls</emphasis>and
+          <emphasis role="strong">Install firewalls</emphasis> and
           virus-detection software on your home computer.
         </para>
       </listitem>
       <listitem>
         <para>
           <emphasis role="strong">Create complex
-          passwords</emphasis>that identity thieves cannot guess easily.
+          passwords</emphasis> that identity thieves cannot guess easily.
           For tips on creating secure passwords, see p. 40.
         </para>
       </listitem>
@@ -6996,30 +6999,12 @@
           <emphasis role="strong">Check your credit report once a
           year.</emphasis> Check it more frequently if you suspect
           someone has gained access to your account information. See
-          Free Credit Reports
+          Free Credit Reports (p. 12).
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      (p. 12).
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_130.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_131.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_132.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      REPORTING IDENTITY THEFT
+    <sect1>
+      <title>Reporting Identity Theft</title>
     </para>
     <para>
       If you suspect or become a victim of identity theft, follow these
@@ -7065,12 +7050,8 @@
       to <ulink url="http://www.ftc.gov">www.ftc.gov</ulink> or request free
       copies of brochures by calling 1-877-FTC-HELP (382-4357).
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_133.jpg" />
-        </imageobject>
-      </inlinemediaobject>IF YOUR WALLET IS STOLEN
+    <sidebar>
+      <title>If Your Wallet Is Stolen</title>
     </para>
     <para>
       Your wallet contains some of your most important personal items,
@@ -7086,11 +7067,8 @@
       </listitem>
       <listitem>
         <para>
-          Cancel your credit and debit cards and request new<literallayout>
-</literallayout> <literallayout>
-</literallayout>cards and account numbers.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+          Cancel your credit and debit cards and request new cards 
+          and account numbers.
         </para>
       </listitem>
       <listitem>
@@ -7101,24 +7079,20 @@
       </listitem>
       <listitem>
         <para>
-          Report your missing license to the department of
+          Report your missing license to the department of 
+          motor vehicles.
         </para>
       </listitem>
     </itemizedlist>
     <para>
-      motor vehicles.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Visit
+      Visit 
       <ulink url="http://www.ftc.gov/opa/1996/08/purse.shtm">www.ftc.gov/opa/1996/08/purse.shtm</ulink>
-      for a<literallayout>
-</literallayout> <literallayout>
-</literallayout>complete list of steps you should take.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      for a complete list of steps you should take.
     </para>
-    <para>
-      PROTECTING YOUR PRIVACY
-    </para>
+    </sidebar>
+    </sect1>
+      <sect1>
+        <title>Protecting Your Privacy</title>
     <para>
       Today, it’s quick and easy to get a credit card approved, transfer
       money from one account to another, renew your driver’s license,
@@ -7130,49 +7104,29 @@
       their future marketing efforts or can sell the information to
       other companies.
     </para>
+    <sidebar>
+      <title>Child ID Theft</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_134.jpg" />
-        </imageobject>
-      </inlinemediaobject>CHILD ID THEFT
+      Children are especially vulnerable to identity theft. The 
+      danger is that child ID theft goes unnoticed for years,
+      until the child becomes an adult and tries to apply for credit
+      or to college. Scam artists use the stolen ID to get
+      credit, jobs, medical care, and more. To protect your 
+      child’s future, shred all documents with their personal 
+      information. Also check your child’s credit report (if there 
+      is a credit report, this is a clue that theft has occurred). 
+      For more information contact the FTC (p. 107).
     </para>
-    <para>
-      Children are especially vulnerable to identity theft. The<literallayout>
-</literallayout> <literallayout>
-</literallayout>danger is that child ID theft goes unnoticed for years,
-      until<literallayout>
-</literallayout> <literallayout>
-</literallayout>the child becomes an adult and tries to apply for credit
-      or<literallayout>
-</literallayout> <literallayout>
-</literallayout>to college. Scam artists use the stolen ID to get
-      credit,<literallayout>
-</literallayout> <literallayout>
-</literallayout>jobs, medical care, and more. To<literallayout>
-</literallayout> <literallayout>
-</literallayout>protect your child’s future, shred<literallayout>
-</literallayout> <literallayout>
-</literallayout>all documents with their personal<literallayout>
-</literallayout> <literallayout>
-</literallayout>information. Also check your child’s<literallayout>
-</literallayout> <literallayout>
-</literallayout>credit report (if there is a credit<literallayout>
-</literallayout> <literallayout>
-</literallayout>report, this is a clue that theft has<literallayout>
-</literallayout> <literallayout>
-</literallayout>occurred). For more information<literallayout>
-</literallayout> <literallayout>
-</literallayout>contact the FTC (p. 107).<literallayout>
-</literallayout> <literallayout>
-</literallayout>To help protect your privacy, follow these tips:
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_135.jpg" />
-        </imageobject>
-      </inlinemediaobject>
+      <informalfigure>
+        <mediaobject>
+          <imageobject role="web">
+            <imagedata fileref="images/pdf5131_img_26.png" format="PNG"/>
+          </imageobject>
+        </mediaobject>
+      </informalfigure>
+</sidebar>
+        <para>
+          To help protect your privacy, follow these tips:
     </para>
     <itemizedlist>
       <listitem>
@@ -7209,9 +7163,9 @@
       companies and industry groups have also adopted voluntary policies
       that address privacy concerns.
     </para>
-    <para>
-      FINANCIAL PRIVACY
-    </para>
+    </sect1>
+      <sect1>
+        <title>Financial Privacy</title>
     <para>
       The FDIC (p. 106) and other federal regulators require banks,
       insurance companies, brokerage firms, and certain businesses that
@@ -7233,12 +7187,12 @@
       </listitem>
       <listitem>
         <para>
-          What types of businesses may be provided this
+          What types of businesses may be provided this information
         </para>
       </listitem>
     </itemizedlist>
     <para>
-      information If a business is going to share the information with
+      If a business is going to share the information with
       anyone outside its corporate family, it must also give you the
       chance to “opt out” or say no to information sharing. Even if you
       don’t opt out, your account numbers may not be shared with third
@@ -7246,34 +7200,28 @@
     </para>
     <para>
       You cannot prevent certain types of information from being shared,
-      including information needed to conduct
+      including information needed to conduct normal business or protect 
+      against fraud, or information that is
+      already publicly available. Also, a bank can share your
+      information with a partner company to market products.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_136.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_137.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      TAX ID THEFT
-    </para>
+    <sidebar>
+      <title>Tax ID Theft</title>
     <para>
       Identity theft occurs when someone uses your personal information
       such as your name, Social Security number (SSN), or other
       identifying information, without your permission, to commit fraud
       or other crimes. Usually, an identity thief uses a legitimate
-      taxpayer’s identity to file a
+      taxpayer’s identity to file a tax return fraudulently and claim 
+      a refund early in the filing season.
     </para>
     <para>
-      normal business or protect against fraud, or information that is
-      already publicly available. Also, a bank can share your
-      information with a partner company to market products.
+      If you believe someone has used your SSN fraudulently, contact the 
+      IRS immediately at 1-800-908-4490. You will need to fill out the 
+      IRS Identity Theft Affidavit, Form 14039. For more information, visit 
+      <ulink url="http://www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft">www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft</ulink>.
     </para>
+    </sidebar>
     <para>
       Your credit information has additional privacy protections under
       the FCRA. Only people with a legitimate business need can get a
@@ -7282,9 +7230,9 @@
       this federal law, and to find out how you can get a copy of your
       credit reports, see Credit Reports and Scores on page 13.
     </para>
-    <para>
-      MEDICAL PRIVACY
-    </para>
+      </sect1>
+      <sect1>
+        <title>Medical Privacy</title>
     <para>
       Personal information you give to your doctor is shared with
       insurance companies, pharmacies, researchers, and employers based
@@ -7300,17 +7248,13 @@
       </listitem>
       <listitem>
         <para>
-          Sets rules and limits on who is allowed to receive<literallayout>
-</literallayout> <literallayout>
-</literallayout>and/or see your health information<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+          Sets rules and limits on who is allowed to receive 
+          and/or see your health information
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      CREATE SECURE PASSWORDS
-    </para>
+    <sidebar>
+      <title>Create Secure Passwords</title>
     <para>
       The number of passwords you need daily can be overwhelming. It is
       tempting to use the same password across several sites; however to
@@ -7356,31 +7300,11 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      tax return fraudulently and claim a refund early in the
-    </para>
-    <para>
-      filing season.
-    </para>
-    <para>
-      If you believe someone has used your SSN fraudulently,
-    </para>
-    <para>
-      contact the IRS immediately at 1-800-908-4490. You will
-    </para>
-    <para>
-      need to fill out the IRS Identity Theft Affidavit,
-    </para>
-    <para>
-      Form 14039. For more information, visit
-    </para>
-    <para>
-      <ulink url="http://www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft">www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft</ulink>.
-    </para>
-    <para>
+    </sidebar>
+      <para>
       The U.S. Department of Health and Human Services,
-      <ulink url="http://www.dhhs.gov/ocr">Office for Civil Rights
-      (www.dhhs.gov/ocr</ulink> or 1-800368-1019) is an excellent
+      Office for Civil Rights
+      (<ulink url="http://www.dhhs.gov/ocr"/> or 1-800368-1019) is an excellent
       resource for complete details and advice about the HIPAA ruling.
       The Office for Civil Rights provides a listing of resources for
       consumers, providers, and advocates, along with fact sheets and
@@ -7405,9 +7329,9 @@
       and Human Services, Office for Civil Rights website at
       <ulink url="http://www.hhs.gov/ocr/privacy">www.hhs.gov/ocr/privacy</ulink>.
     </para>
-    <para>
-      ONLINE PRIVACY
-    </para>
+      </sect1>
+    <sect1>
+      <title>Online Privacy</title>
     <para>
       In addition to following the general advice on protecting your
       privacy, make sure you only use websites with acceptable privacy
@@ -7443,6 +7367,9 @@
       You can also install anti-spyware software to stop this threat to
       your privacy. For more information, see Internet on page 41.
     </para>
+    </sect1>
+    </chapter>
+  <chapter id="">
     <para>
       <inlinemediaobject>
         <imageobject>
