@@ -8790,15 +8790,10 @@
           when they expect fewer guests. Once you get a fare quote from
           an airline, ask if you can save money by leaving a day earlier
           or later, by taking a different flight on the same day, or by
-          using a different
+          using a different airport. Changing planes during your trip is sometimes cheaper
+          than a nonstop flight.
         </para>
       </listitem>
-    </itemizedlist>
-    <para>
-      airport. Changing planes during your trip is sometimes cheaper
-      than a nonstop flight.
-    </para>
-    <itemizedlist>
       <listitem>
         <para>
           <emphasis role="strong">Check out the seller.</emphasis> Ask
@@ -8816,31 +8811,28 @@
           service charges, taxes, processing fees, etc.
         </para>
       </listitem>
-    </itemizedlist>
-    <para>
-      <emphasis role="strong">• Beware of unusually cheap prices and
-      freebies.</emphasis>These could be a scam, and you could end up
+    <listitem>
+      <para>
+      <emphasis role="strong">Beware of unusually cheap prices and
+      freebies.</emphasis> These could be a scam, and you could end up
       paying more than the cost of a regular package tour. See
       information on Drip Pricing on p. 2.
     </para>
+    </listitem>
+      <listitem>
     <para>
-      <emphasis role="strong">• Make sure you understand the terms of
-      the deal.</emphasis>If you hear you’ve won a free vacation, ask
+      <emphasis role="strong">Make sure you understand the terms of
+      the deal.</emphasis> If you hear you’ve won a free vacation, ask
       whether you have to buy something in order to get it. If the
       destination is a beach resort, ask the seller how far the hotel is
       from the beach. Then ask the hotel.
     </para>
-    <itemizedlist>
+      </listitem>
       <listitem>
         <para>
           <emphasis role="strong">Ask about cancellation
           policies.</emphasis> You may want to look into travel
-          insurance for added protection (see
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          34). The website
+          insurance for added protection (see 34). The website
           <ulink url="http://www.insuremytrip.com">www.insuremytrip.com</ulink>
           offers pricing and policy information on plans from different
           companies and describes the different forms of policies
@@ -8877,41 +8869,26 @@
       The American Society of Travel Agents (p. 143) also helps to
       resolve disputes with member agents.
     </para>
-    <para>
-      RESOLVING AIR TRAVEL PROBLEMS
-    </para>
+    <sect1>
+      <title>Resolving Air Travel Problems</title>
     <para>
       No matter how well you plan, you might encounter these common air
       travel hassles.
     </para>
-    <para>
-      Delayed and Canceled Flights
-    </para>
+    <sect2>
+      <title>Delayed and Canceled Flights</title>
     <para>
       Airline delays caused by bad weather, traffic control problems,
       and mechanical repairs are hard to predict. If your flight is
       canceled, most airlines will rebook you on the earliest flight
       possible to your destination, at no additional charge. If you’re
-      able to find a flight on another
+      able to find a flight on another airline, ask the first airline 
+      to endorse your ticket to the new
+      carrier. This could save you from a fare increase, but there is no
+      rule requiring the airline to do this.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_171.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_172.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_173.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      AIRLINE FEES
-    </para>
+    <sidebar>
+    <title>Airline Fees</title>
     <para>
       Many airlines charge extra fees for checked baggage and some
       charge for carry-ons. Others charge for advance seat assignments,
@@ -8932,11 +8909,7 @@
       frequent flyer points, airlines may still charge you a booking fee
       or pet fee.
     </para>
-    <para>
-      airline, ask the first airline to endorse your ticket to the new
-      carrier. This could save you from a fare increase, but there is no
-      rule requiring the airline to do this.
-    </para>
+    </sidebar>
     <para>
       Each airline has its own policies about what it will do for
       delayed passengers; there are no federal requirements. If your
@@ -8944,9 +8917,9 @@
       for meals or a phone call. Contrary to what many people believe,
       airlines are not required to do so.
     </para>
-    <para>
-      Delayed or Damaged Bags
-    </para>
+    </sect2>
+    <sect2>
+      <title>Delayed or Damaged Bags</title>
     <para>
       If your bags aren’t on the conveyor belt when you arrive, file a
       report with the airline before you leave the airport:
@@ -8966,12 +8939,13 @@
       </listitem>
       <listitem>
         <para>
-          Confirm that the airline will deliver the bag to you
+          Confirm that the airline will deliver the bag to you without 
+          charge when it’s found.
         </para>
       </listitem>
     </itemizedlist>
     <para>
-      without charge when it’s found. Some airlines will give you money
+       Some airlines will give you money
       to purchase a few necessities. If they don’t provide you with
       cash, ask what types of articles are reimbursable and keep all
       receipts.
@@ -8985,9 +8959,9 @@
       caused by your failure to pack something properly rather than by
       the airline’s handling.
     </para>
-    <para>
-      Lost Bags
-    </para>
+    </sect2>
+    <sect2>
+      <title>Lost Bags</title>
     <para>
       If your bag is declared officially lost, you will have to submit a
       second, more detailed form within a time period set by the
@@ -8996,12 +8970,12 @@
       delay, loss, and damage to baggage; however, they must prominently
       display a sign that explains the limit. According to the Office of
       Aviation Consumer Protection and Enforcement
-      <ulink url="airconsumer.ost.dot.gov/SA_Baggage_Limits.htm">(airconsumer.ost.dot.gov/SA_Baggage_Limits.</ulink>htm),
+      (<ulink url="airconsumer.ost.dot.gov/SA_Baggage_Limits.htm"/>),
       the maximum an airline pays on lost bags and their contents is
       limited to $3,300 per passenger on domestic flights, and
       approximately $1,500 per passenger for unchecked baggage on
       international flights. See
-      <ulink url="http://www.thetravelinsider.info/travelaccessories/lostbaggagerights.htm">www.thetravelinsider.info/travelaccessories/</ulink>lostbaggagerights.htm
+      <ulink url="http://www.thetravelinsider.info/travelaccessories/lostbaggagerights.htm">www.thetravelinsider.info/travelaccessories/lostbaggagerights.htm</ulink>
       for more information on maximum liability, including special rates
       that change daily.
     </para>
@@ -9020,9 +8994,9 @@
       airline may refuse, especially if the item is valuable or
       breakable.
     </para>
-    <para>
-      Overbooked Flights
-    </para>
+    </sect2>
+    <sect2>
+      <title>Overbooked Flights</title>
     <para>
       Selling more tickets than there are seats is not illegal. Most
       airlines overbook their flights to compensate for “no-shows.” If
@@ -9039,8 +9013,8 @@
       Federal rules protect you if you are “bumped” on most flights
       within the United States and on outbound international flights.
       Passengers who are bumped involuntarily are protected under
-      Federal Aviation <ulink url="http:www.faa.gov">Administration
-      guidelines (www.faa.gov). If you volunteer</ulink>to be bumped,
+      Federal Aviation Administration
+      guidelines (<ulink url="http:www.faa.gov"/>). If you volunteer to be bumped,
       your agreement with the airline is not regulated and will depend
       on negotiating at the gate.
     </para>
@@ -9058,28 +9032,16 @@
       An airline may offer you a free ticket on a future flight in place
       of a check, but you have the right to insist on a check.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_174.jpg" />
+    <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_33.png" format="PNG"/>
         </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_175.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_176.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_177.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Tarmac Delays
-    </para>
+      </mediaobject>
+    </informalfigure>
+    </sect2>
+      <sect2>
+        <title>Tarmac Delays</title>
     <para>
       Under new federal rules, U.S. airlines operating domestic flights
       must allow passengers to deplane after a tarmac delay of three
@@ -9096,9 +9058,10 @@
       <ulink url="http://www.airconsumer.ost.dot.gov">www.airconsumer.ost.dot.gov</ulink>,
       and search for Airline Passenger Protections.
     </para>
-    <para>
-      PASSPORTS
-    </para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Passports</title>
     <para>
       A valid U.S. passport is required to enter and leave most foreign
       countries. The Passport Services Office provides information and
@@ -9107,7 +9070,7 @@
       U.S. passport to re-enter the country, regardless of what nations
       they have been visiting while traveling. For more information on
       how to get a new passport, visit
-      <ulink url="http://www.travel.state.gov/passport">www.travel.state.gov/passport.</ulink>
+      <ulink url="http://www.travel.state.gov/passport">www.travel.state.gov/passport</ulink>.
     </para>
     <para>
       Acceptance facilities include many federal, state, and probate
@@ -9144,39 +9107,36 @@
       Passports can be renewed by mail if the applicant is an adult;
       however, passports for minors must be renewed in person.
       Guidelines for renewing passports as well as the
-      <ulink url="http://www.travel.state.gov/passport/renew/renew_833.html">appropriate
-      forms can be found at www.travel.state.gov/
-      passport/renew/renew_833.html.</ulink>
+      appropriate forms can be found at <ulink url="http://www.travel.state.gov/passport/renew/renew_833.html">www.travel.state.gov/passport/renew/renew_833.html</ulink>.
     </para>
-    <para>
-      TRAVEL SAFETY
-    </para>
+    </sect1>
+    <sect1>
+      <title>Travel Safety</title>
     <para>
       Several federal agencies offer advice and information on the
       Internet or mobile apps available at
       <ulink url="http:apps.usa.gov">apps.usa.gov</ulink> that can help
       you have a safe trip. For advice on:
     </para>
-    <para>
-      <emphasis role="strong">• Airline, highway, and rail safety
+      <itemizedlist>
+        <listitem>
+      <para>
+      <emphasis role="strong">Airline, highway, and rail safety
       information</emphasis>: Check out the U.S. Department of
-      Transportation
-    </para>
-    <para>
-      (p. 104) at <ulink url="http://www.dot.gov">www.dot.gov</ulink>. Look up
+      Transportation (p. 104) at <ulink url="http://www.dot.gov">www.dot.gov</ulink>. Look up
       crash-safety reports on cars or find out how weather is affecting
       air travel and road conditions at
       <ulink url="http://www.fly.faa.gov">www.fly.faa.gov</ulink> or
-      <ulink url="http://www.faa.gov/passengers">www.faa.gov/</ulink>passengers.
+        <ulink url="http://www.faa.gov/passengers">www.faa.gov/passengers</ulink>.
     </para>
-    <itemizedlist>
-      <listitem>
+        </listitem>
+          <listitem>
         <para>
           <emphasis role="strong">Safe travel by air, land, and
           sea</emphasis>: Contact the Transportation Security
           Administration (p. 101) at
-          <ulink url="http://www.tsa.gov/travelers.">www.tsa.gov/travelers.
-          This site posts tips on dealing</ulink>with airline security
+          <ulink url="http://www.tsa.gov/travelers.">www.tsa.gov/travelers</ulink>.
+          This site posts tips on dealing with airline security
           checks, traveling with kids, and warnings on prohibited items.
         </para>
       </listitem>
@@ -9185,8 +9145,8 @@
           <emphasis role="strong">What to do before, during, and when
           returning from a trip overseas</emphasis>: Visit the U.S.
           Department of State (p. 104) at
-          <ulink url="http://www.state.gov/travel.">www.state.gov/travel. You
-          can also get</ulink>warnings on locations to avoid and what to
+          <ulink url="http://www.state.gov/travel">www.state.gov/travel</ulink>. You
+          can also getwarnings on locations to avoid and what to
           do in an overseas emergency.
         </para>
       </listitem>
@@ -9194,19 +9154,15 @@
         <para>
           <emphasis role="strong">Health-related travel
           information</emphasis>: Consult the Centers for Disease
-          Control and Prevention
-        </para>
-      </listitem>
-    </itemizedlist>
-    <para>
-      (p. 99) at <ulink url="http://www.cdc.gov/travel.">www.cdc.gov/travel.
-      Research vaccination</ulink>requirements, find information on how
+          Control and Prevention (p. 99) at <ulink url="http://www.cdc.gov/travel">www.cdc.gov/travel</ulink>.
+      Research vaccination requirements, find information on how
       to avoid illnesses caused by food and water, and review inspection
       scores on specific cruise ships.
     </para>
-    <para>
-      CHECK BUS SAFETY RECORDS
-    </para>
+      </listitem>
+      </itemizedlist>
+    <sidebar>
+      <title>Check Bus Safety Records</title>
     <para>
       Some travelers have turned to commercial buses as an inexpensive
       option for traveling long distances. Before planning a trip on a
@@ -9231,17 +9187,22 @@
       </listitem>
       <listitem>
         <para>
-          Does the company conduct safety inspections of its
+          Does the company conduct safety inspections of its buses?
         </para>
       </listitem>
     </itemizedlist>
     <para>
-      buses? You can find more information about the FMCSA’s (p. 104)
+      You can find more information about the FMCSA’s (p. 104)
       bus safety database and interstate travel safety at
-      <ulink url="http://www.fmcsa.dot.gov/safety-security/pcs/Index.aspx">www.fmcsa.dot.gov/safety-security/pcs/Index.aspx.
-      If you</ulink>want to file a safety complaint, call
+      <ulink url="http://www.fmcsa.dot.gov/safety-security/pcs/Index.aspx">www.fmcsa.dot.gov/safety-security/pcs/Index.aspx</ulink>.
+      If you want to file a safety complaint, call
       1-888-368-7238.
     </para>
+    </sidebar>
+    </sect1>
+  </chapter>
+  <chapter id="utilities">
+    <title>Utilities</title>
     <para>
       <inlinemediaobject>
         <imageobject>
