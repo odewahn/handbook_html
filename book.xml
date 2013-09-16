@@ -4331,7 +4331,7 @@
       If you have a complaint about the medical services you received
       from a physician, you may file a complaint with your state medical
       board. For a complete directory from
-      the Federation of State Medical Boards, visit <ulink url="http://www.fsmb.org/directory_smb.html">.
+      the Federation of State Medical Boards, visit <ulink url="http://www.fsmb.org/directory_smb.html"/>.
       You can also call the Federation at 817-868-4000 to get the
       phone number of your state’s medical board.
     </para>
@@ -4552,11 +4552,9 @@
               Whether there any side effects to the medications
             </para>
           </listitem>
-          <listitem></listitem>
         </itemizedlist>
       <sidebar>
         <title>Where To Go For Medical Care</title>
-    </para>
     <para>
       When you are sick, you may not know the best place to go for
       medical care. In non-emergency situations, your first choice
@@ -4919,6 +4917,7 @@
       and Neighborworks America’s home ownership website at
       <ulink url="http://www.keystomyhome.org">www.keystomyhome.org</ulink>.
     </para>
+    </sect2>
     <sect2>
       <title>Mortgage Transfers</title>
     <para>
@@ -5191,7 +5190,6 @@
     </sect1>
     <sect1>
       <title>Moving Companies</title>
-    </para>
     <para>
       Not all moving companies are the same. Although many are
       legitimate, some attempt to take advantage of their clients.
@@ -5232,7 +5230,6 @@
     </sect1>
     <sect1>
       <title>Home Improvement And Repairs</title>
-    </para>
     <para>
       Home improvements and repairs can cost thousands of dollars and
       are the subject of frequent complaints. When selecting a
@@ -5691,7 +5688,6 @@
     </para>
     <sect1>
       <title>Auto Insurance</title>
-    </para>
     <para>
       The requirements for auto insurance vary from state to state.
       Check with your state insurance regulator (p. 130) to learn more
@@ -5732,7 +5728,6 @@
     </sect1>
     <sect1>
       <title>Disability Insurance</title>
-    </para>
     <para>
       Disability can be more disastrous financially than death. If you
       are disabled, you lose your earning power, but you still have
@@ -6527,7 +6522,6 @@
     </sect1>
     <sect1>
       <title>Financial Brokers and Advisors</title>
-    </para>
     <para>
       When selecting a broker or investment advisor, research the
       person’s education and professional history as well as the firm
@@ -6608,7 +6602,6 @@
     </sect1>
     <sect1>
       <title>Investing in Gold and Commodities</title>
-    </para>
     <para>
       Many financial experts recommend buying gold as part of a balanced
       portfolio. Some suggest buying only a small amount because values
@@ -6638,7 +6631,6 @@
     </sect1>
     <sect1>
       <title>Retirement Planning</title>
-    </para>
     <para>
       Part of smart investing is planning for retirement. The average
       American spends 20 years in retirement, but fewer than half of
@@ -6908,7 +6900,6 @@
         </imageobject>
       </mediaobject>
      </informalfigure>
-    </para>
     <para>
       Identity thieves steal your personal information to commit fraud.
       They can damage your credit status and cost you time and money to
@@ -7005,7 +6996,6 @@
     </itemizedlist>
     <sect1>
       <title>Reporting Identity Theft</title>
-    </para>
     <para>
       If you suspect or become a victim of identity theft, follow these
       steps:
@@ -7052,7 +7042,6 @@
     </para>
     <sidebar>
       <title>If Your Wallet Is Stolen</title>
-    </para>
     <para>
       Your wallet contains some of your most important personal items,
       from hard-earned money to credit cards and driver’s license. For
@@ -7369,22 +7358,15 @@
     </para>
     </sect1>
     </chapter>
-  <chapter id="">
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_138.jpg" />
+  <chapter id="telecommunications">
+    <title>Telecommunications</title>
+     <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_27.png" format="PNG" />
         </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_139.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_140.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+      </mediaobject>
+     </informalfigure>
     <para>
       Choices for phone service, Internet, and television have never
       been greater. As devices have multiple functions, such as the
@@ -7397,12 +7379,10 @@
       you buy, compare services and prices and think about what you
       really need.
     </para>
-    <para>
-      INTERNET
-    </para>
-    <para>
-      Choosing Service Providers
-    </para>
+    <sect1>
+      <title>Internet</title>
+    <sect2>
+      <title>Choosing Service Providers</title>
     <para>
       To connect your computer to the Internet, you’ll need an Internet
       Service Provider (ISP). Some ISPs are large and well known, while
@@ -7426,15 +7406,17 @@
     <para>
       Consider these factors when selecting a provider:
     </para>
-    <para>
-      <emphasis role="strong">• Speed</emphasis>. If you only want to
+      <itemizedlist>
+        <listitem>
+      <para>
+      <emphasis role="strong">Speed</emphasis>. If you only want to
       check e-mail and read web pages, a dial-up connection may be
       enough. But if you want to download music or television shows or
       watch videos, you will need a faster connection with broadband
       access, such as a digital subscriber line (DSL), cable modem, or
       satellite.
     </para>
-    <itemizedlist>
+    </listitem>
       <listitem>
         <para>
           <emphasis role="strong">Availability</emphasis>. Which
@@ -7488,9 +7470,9 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      WiFi (Wireless)
-    </para>
+    </sect2>
+    <sect2>
+      <title>WiFi (Wireless)</title>
     <para>
       Going wireless provides you with the freedom to use your computer
       in multiple locations, without dragging cables and cords with you.
@@ -7533,52 +7515,37 @@
         </para>
       </listitem>
     </itemizedlist>
+    <sidebar>
+      <title>Protecting Children Online</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_141.jpg" />
-        </imageobject>
-      </inlinemediaobject>PROTECTING CHILDREN ONLINE
+      The Children’s Online Privacy Protection Act requires 
+      commercial websites to obtain parental consent before 
+      collecting, using, or disclosing personal information
+      from children under age 13. For more information, 
+      contact the FTC (p. 107) or visit
+      <ulink url="http://www.ftc.gov">www.ftc.gov</ulink>.
     </para>
-    <para>
-      The Children’s Online Privacy Protection Act requires<literallayout>
-</literallayout> <literallayout>
-</literallayout>commercial websites to obtain parental consent before<literallayout>
-</literallayout> <literallayout>
-</literallayout>collecting, using, or disclosing personal information
-      from<literallayout>
-</literallayout> <literallayout>
-</literallayout>children under age 13. For more information, contact the<literallayout>
-</literallayout> <literallayout>
-</literallayout>FTC (p. 107) or visit
-      <ulink url="http://www.ftc.gov">www.ftc.gov</ulink>.<literallayout>
-</literallayout><literallayout>
-</literallayout>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_142.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_143.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_144.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_145.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      <emphasis role="strong">Turn off your router</emphasis> when you
+    </sidebar>
+    <sidebar>
+      <title>﻿Beware: Scareware</title>
+      <para>If you’ve ever received a “security alert” stating 
+        that malicious software was found on your computer, it 
+        may have been scareware. These messages will persuade 
+        you that your computer is infected with a virus that 
+        you can eliminate only by purchasing and installing specific 
+        software. Don’t follow that advice; shut down your browser 
+        without clicking on the message. If you believe your 
+        computer is infected, you should run a scan using a known 
+        anti-virus software. For more information about scareware 
+        and protecting your computer, visit <ulink url="http://www.onguardonline.gov">www.onguardonline.gov</ulink>.
+      </para>
+    </sidebar>
+      <itemizedlist>
+        <listitem>
+      <para><emphasis role="strong">Turn off your router</emphasis> when you
       are not using it.
     </para>
-    <itemizedlist>
+    </listitem>
       <listitem>
         <para>
           <emphasis role="strong">Be aware of cookies.</emphasis>Cookies
@@ -7586,35 +7553,46 @@
           to collect information about the pages you view and your
           activities on the site. They also allow the site to recognize
           you when you return. For more information, visit
-          <ulink url="http://www.ftc.gov/ftc/cookies.shtm">www.ftc.gov/ftc/cookies.shtm.</ulink>
+          <ulink url="http://www.ftc.gov/ftc/cookies.shtm">www.ftc.gov/ftc/cookies.shtm</ulink>.
         </para>
       </listitem>
     </itemizedlist>
+    <para>
+      On public wireless networks:
+    </para>
+      <itemizedlist>
+        <listitem>
     <para>
       <emphasis role="strong">Don’t assume the network is
       secure.</emphasis> Most public wireless networks don’t encrypt
       information you send. Avoid sending private information from
       public locations.
     </para>
+        </listitem>
+        <listitem>
     <para>
       <emphasis role="strong">Use encrypted websites.</emphasis>If you
       must send sensitive information from a public network, make
       certain that URL starts with “https” (“s” means secure). Look for
       that on every page you visit.
     </para>
+        </listitem>
+        <listitem>
     <para>
       <emphasis role="strong">Log off</emphasis>sites after you finish
       using them rather than using “remember me” features. It is better
       to log in again than give away your login credentials to someone
       else on the network.
     </para>
+        </listitem>
+      </itemizedlist>
     <para>
       For more information about wireless computing, visit
       <ulink url="http://www.onguardonline.gov">www.onguardonline.gov</ulink>.
     </para>
-    <para>
-      Online File Sharing
-    </para>
+    </sect2>
+    <sect2>
+      <title>Online File Sharing</title>
     <para>
       Every day, millions of computer users share files online. Whether
       music, games, video, or software, peer-topeer (P2P) file sharing
@@ -7669,9 +7647,9 @@
       For more information on P2P, visit
       <ulink url="http://www.onguardonline.gov">www.onguardonline.gov</ulink>.
     </para>
-    <para>
-      Online Copyright Issues
-    </para>
+    </sect2>
+    <sect2>
+      <title>Online Copyright Issues</title>
     <para>
       Quite simply, it’s illegal to make or download unauthorized copies
       of software or online media, such as books, music, and videos.
@@ -7694,9 +7672,8 @@
       For more information, visit the Business Software Alliance’s
       online piracy site, <ulink url="http://www.bsa.org">www.bsa.org</ulink>.
     </para>
-    <para>
-      DO YOU REALLY OWN THOSE SONGS?
-    </para>
+      <sidebar>
+    <title>Do You Really Own Those Songs?</title>
     <para>
       Today many consumers purchase music and e-books as digital
       downloads to play on digital music players or mobile devices.
@@ -7710,24 +7687,9 @@
       service agreement. For more information about digital copyright,
       contact the United States Patent and Trademark Office (p. 97).
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_146.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_147.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_148.jpg" />
-        </imageobject>
-      </inlinemediaobject>BUYING TICKETS ONLINE
-    </para>
+      </sidebar>
+      <sidebar>
+    <title>Buying Tickets Online</title>
     <para>
       When buying tickets online, be mindful of convenience or venue
       fees that can raise the price. Also, be mindful of the fine print.
@@ -7738,63 +7700,30 @@
       visit
       <ulink url="http://www.fanfreedom.org">fanfreedom.org</ulink>.
     </para>
+      </sidebar>
+    </sect2>
+    <sect2>
+      <title>Preventing Online Fraud</title>
     <para>
-      Preventing Online Fraud
+      The Internet gives you easy access to information, 
+      entertainment, financial offers, and countless other 
+      services. The flip side, however, is that it can leave
+      you vulnerable to online scammers, identity thieves, and criminals.
     </para>
     <para>
-      The Internet gives you easy access to information,<literallayout>
-</literallayout> <literallayout>
-</literallayout>entertainment, financial offers, and countless other<literallayout>
-</literallayout> <literallayout>
-</literallayout>services. The flip side, however, is that it can leave
-      you<literallayout>
-</literallayout> <literallayout>
-</literallayout>vulnerable to online scammers, identity thieves, and<literallayout>
-</literallayout> <literallayout>
-</literallayout>criminals.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      Online frauds are not limited to fake companies.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Thieves will often try to disguise a fraudulent website<literallayout>
-</literallayout> <literallayout>
-</literallayout>by giving the site a URL close to the URL of a
-      legitimate,<literallayout>
-</literallayout> <literallayout>
-</literallayout>well-known site. Internet criminals try to trick
-      customers<literallayout>
-</literallayout> <literallayout>
-</literallayout>of these legitimate sites into sharing their personal<literallayout>
-</literallayout> <literallayout>
-</literallayout>information on fake sites, so they can use that
-      information<literallayout>
-</literallayout> <literallayout>
-</literallayout>for identity theft or credit card fraud schemes. Some<literallayout>
-</literallayout> <literallayout>
-</literallayout>scam artists have even used the IRS name and logo to<literallayout>
-</literallayout> <literallayout>
-</literallayout>collect taxpayers’ personal information so they can
-      steal<literallayout>
-</literallayout> <literallayout>
-</literallayout>taxpayers’ identity. Visit<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      <ulink url="http://www.irs.gov/uac/Suspicious-e-Mails-and-Identity-Theft">www.irs.gov/uac/Suspicious-e-Mails-and-Identity-Theft<literallayout>
-</literallayout> <literallayout>
-</literallayout></ulink>
-    </para>
-    <para>
-      to learn more about tax-related online fraud and how to<literallayout>
-</literallayout> <literallayout>
-</literallayout>identify a fraudulent e-mail or website.<literallayout>
-</literallayout> <literallayout>
-</literallayout>To guard against Internet fraud, follow these tips:<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Online frauds are not limited to fake companies. 
+      Thieves will often try to disguise a fraudulent website 
+      by giving the site a URL close to the URL of a
+      legitimate, well-known site. Internet criminals try to trick
+      customers of these legitimate sites into sharing their personal 
+      information on fake sites, so they can use that
+      information for identity theft or credit card fraud schemes. Some 
+      scam artists have even used the IRS name and logo to collect 
+      taxpayers’ personal information so they can
+      steal taxpayers’ identity. Visit <ulink url="http://www.irs.gov/uac/Suspicious-e-Mails-and-Identity-Theft">www.irs.gov/uac/Suspicious-e-Mails-and-Identity-Theft</ulink>
+      to learn more about tax-related online fraud and how to 
+      identify a fraudulent e-mail or website. To guard against 
+      Internet fraud, follow these tips:
     </para>
     <itemizedlist>
       <listitem>
@@ -7815,7 +7744,7 @@
       </listitem>
       <listitem>
         <para>
-          <emphasis role="strong">Check with state</emphasis>and/or
+          <emphasis role="strong">Check with state</emphasis> and/or
           local consumer offices.
         </para>
       </listitem>
@@ -7851,8 +7780,6 @@
           are set up properly and update them regularly as well.
         </para>
       </listitem>
-    </itemizedlist>
-    <itemizedlist>
       <listitem>
         <para>
           <emphasis role="strong">Protect your passwords</emphasis>.
@@ -7879,9 +7806,8 @@
       suspected fraud to your bank, credit card company, or relevant
       authority.
     </para>
-    <para>
-      SOCIAL NETWORKING
-    </para>
+    <sidebar>
+      <title>Social Networking</title>
     <para>
       Social networking sites such as Facebook, Twitter, LinkedIn,
       Pinterest, and others continue to gain popularity. These sites
@@ -7938,90 +7864,69 @@
       </listitem>
     </itemizedlist>
     <para>
-      For more information go to:
+      <emphasis role="strong">For more information go to:</emphasis>
     </para>
-    <para>
-      • Federal Communications Commission:
-    </para>
-    <para>
+      <itemizedlist>
+      <listitem>
+      <para>
+      Federal Communications Commission: 
       <ulink url="http://www.reboot.fcc.gov/consumers">www.reboot.fcc.gov/consumers</ulink>
     </para>
+      </listitem>
+      <listitem>
     <para>
-      • Federal Trade Commission:
+      Federal Trade Commission: 
       <ulink url="http://www.onguardonline.gov">www.onguardonline.gov</ulink>
     </para>
+      </listitem>
+      <listitem>
     <para>
-      • GetNetWise:
+      GetNetWise:
       <ulink url="http://www.getnetwise.org">www.getnetwise.org</ulink>
     </para>
+      </listitem>
+      <listitem>
     <para>
       Internet Keep Safe Coalition:
       <ulink url="http://www.ikeepsafe.org">www.ikeepsafe.org</ulink>
     </para>
+      </listitem>
+      <listitem>
     <para>
       i-SAFE: <ulink url="http://www.i-safe.org">www.i-safe.org</ulink>
     </para>
-    <itemizedlist>
-      <listitem>
-        <para>
-          National Center for Missing &amp; Exploited Children:
-        </para>
       </listitem>
       <listitem>
         <para>
+          National Center for Missing &amp; Exploited Children: 
           <ulink url="http://www.missingkids.com">www.missingkids.com</ulink>
         </para>
       </listitem>
-    </itemizedlist>
-    <itemizedlist>
       <listitem>
         <para>
-          National Crime Prevention Council:
+          National Crime Prevention Council: 
+          <ulink url="http://www.ncpc.org">www.ncpc.org</ulink>; <ulink url="http://www.mcgruff.org">www.mcgruff.org</ulink>
         </para>
       </listitem>
-      <listitem>
+    <listitem>
         <para>
-          <ulink url="http://www.ncpc.org">www.ncpc.org</ulink><ulink url="http://www.mcgruff.org">;
-          www.mcgruff.org</ulink>
-        </para>
-      </listitem>
-    </itemizedlist>
-    <itemizedlist>
-      <listitem>
-        <para>
-          National Cyber Security Alliance:
-        </para>
-      </listitem>
-      <listitem>
-        <para>
+          National Cyber Security Alliance: 
           <ulink url="http://www.staysafeonline.org">www.staysafeonline.org</ulink>
         </para>
       </listitem>
-    </itemizedlist>
+    <listitem>
     <para>
       Wired Safety:
       <ulink url="http://www.wiredsafety.org">www.wiredsafety.org</ulink>
     </para>
+    </listitem>
+      </itemizedlist>
     <para>
       For additional information, visit
-      <ulink url="http://www.ftc.gov">www.ftc.gov</ulink>or call
+      <ulink url="http://www.ftc.gov">www.ftc.gov</ulink> or call
       1-877-382-4357; TTY: 1-866-653-4261.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_149.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_150.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_151.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+    </sidebar>
     <para>
       The FTC (p. 107) provides tips to help secure your computer, guard
       against Internet fraud, and protect your personal information. If
@@ -8036,9 +7941,9 @@
       alerts from the U.S. Department of Homeland Security at
       <ulink url="http://www.uscert.gov">www.uscert.gov</ulink>.
     </para>
-    <para>
-      Spam
-    </para>
+    </sect2>
+    <sect2>
+      <title>Spam</title>
     <para>
       E-mail spam is not just unwanted; it can be offensive. Decrease
       the number of spam e-mails you receive by making it difficult for
@@ -8047,10 +7952,8 @@
     <itemizedlist>
       <listitem>
         <para>
-          Don’t use an obvious e-mail address, such as JaneDoe@isp.com.
-          Instead use numbers or other
-          (<email>JaneDoe@isp.com</email>)digits, such as
-          Jane4oe6@isp.com. (<email>Jane4oe6@isp.com</email>)
+          Don’t use an obvious e-mail address, such as <email>JaneDoe@isp.com</email>.
+          Instead use numbers or other digits, such as <email>Jane4oe6@isp.com</email>.
         </para>
       </listitem>
       <listitem>
@@ -8119,15 +8022,16 @@
         <para>
           Report spam. Alert your ISP that spam is slipping through its
           filters. The FTC also wants to know about “unsolicited
-          commercial e-mail.” Forward spam to spam@uce.gov
-          (<email>spam@uce.gov</email>). For more information, visit
-          <ulink url="http://www.ftc.gov/spam.">www.ftc.gov/spam.</ulink>
+          commercial e-mail.” Forward spam to <email>spam@uce.gov</email>. 
+          For more information, visit
+          <ulink url="http://www.ftc.gov/spam.">www.ftc.gov/spam</ulink>.
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      PHONES
-    </para>
+    </sect2>
+    </sect1>
+    <sect1>
+    <title>Phones</title>
     <para>
       The choices for phone service have never been greater. Most
       consumers are now able to buy local and long-distance phone
@@ -8175,9 +8079,8 @@
       offer contracts for specific periods. Read the fine print and ask
       questions if there is anything you’re not clear about.
     </para>
-    <para>
-      BUNDLING, PROMOTIONS, AND DEALS
-    </para>
+    <sidebar>
+      <title>Bundling, Promotions, And Deals</title>
     <para>
       Do you want to get Internet, telephone, and TV service from the
       same provider? Buying a bundle of services from one provider can
@@ -8203,42 +8106,48 @@
       system requirements, and fine-print terms and conditions. Read the
       entire customer service agreement and print a copy for your
       records. For more information, visit
-      <ulink url="http://www.ftc.gov/bcp/consumer.shtm">www.ftc.gov/bcp/</ulink>consumer.shtm.
+      <ulink url="http://www.ftc.gov/bcp/consumer.shtm">www.ftc.gov/bcp/consumer.shtm</ulink>.
       For help deciding on the best values from Internet, telephone, and
       TV service providers; filing a complaint; or learning more about
       consumer protections, go to
-      <ulink url="http://www.reboot.fcc.gov/consumers">www.reboot.fcc.gov/consumers.</ulink>
+      <ulink url="http://www.reboot.fcc.gov/consumers">www.reboot.fcc.gov/consumers</ulink>.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_152.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_153.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_154.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_155.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+    </sidebar>
+    <sidebar>
+      <title>Beware: Caller ID Spoofing</title>
+      <para>
+        Scammers have adopted the practice of Caller ID spoofing to 
+        obtain personal information from consumers. In this fraud, 
+        someone calls you using a false name and phone number for 
+        the Caller ID screen. During the call, the scammer describes 
+        an urgent scenario, such as the cancellation of an account. 
+        The caller may say you can avoid the cancellation if you 
+        provide your bank account or credit card number to pay the 
+        company. If you give the sensitive information, the caller 
+        can use it to steal your identity or use your bank accounts.
+      </para>
+      <para>
+        You can prevent being a victim of caller ID spoofing. 
+        Don’t give out personal information on an incoming call. 
+        Hang up and call the customer service phone number printed 
+        on your statement, on the company’s website, or in the 
+        phonebook.
+      </para>
+      <para>
+        Report caller ID spoofers to the Federal Communications 
+        Commission at <ulink url="http://fcc.gov/complaints">fcc.gov/complaints</ulink> or 1-888-225-5322.
+      </para>
+    </sidebar>
     <para>
       The FCC (p. 106) offers consumer information about choosing a
       long-distance carrier, understanding new phone fees and taxes, and
-      more at <ulink url="http://www.fcc.gov/consumers">www.fcc.gov/consumers.
-      The National</ulink>Consumers League also maintains a web page
-      <ulink url="http://www.nclnet.org/technology/88-telecommunications/228-understanding-your-phone-bill">(www.nclnet.org/technology/88-telecommunications/228</ulink>understanding-your-phone-bill)
+      more at <ulink url="http://www.fcc.gov/consumers">www.fcc.gov/consumers</ulink>.
+      The National Consumers League also maintains a web page 
+      (<ulink url="http://www.nclnet.org/technology/88-telecommunications/228-understanding-your-phone-bill"/>) 
       to help you understand phone charges and recognize fraud.
     </para>
-    <para>
-      Slamming and Cramming
-    </para>
+    <sect2>
+      <title>Slamming and Cramming</title>
     <para>
       “Slamming” occurs when a phone company illegally switches your
       phone service without your permission. If you notice a different
@@ -8257,12 +8166,12 @@
       look like your regular phone charges.
     </para>
     <para>
-      Take These Steps to Avoid Slammers and Crammers:
+      <emphasis role="strong">Take These Steps to Avoid Slammers and Crammers:</emphasis>
     </para>
     <itemizedlist>
       <listitem>
         <para>
-          Block changes to your phone service. Ask your telephone
+          <emphasis role="strong">Block changes to your phone service.</emphasis> Ask your telephone
           service provider if it offers a blocking or account protection
           service, which usually requires the company to notify you
           before making any changes to your service.
@@ -8284,8 +8193,6 @@
           to be a government agency.
         </para>
       </listitem>
-    </itemizedlist>
-    <itemizedlist>
       <listitem>
         <para>
           <emphasis role="strong">Beware of “negative option
@@ -8307,9 +8214,9 @@
       consumer protection agency (p. 112), state public utilities
       commission (p. 138), or the FCC (p. 106).
     </para>
-    <para>
-      Cell Phones
-    </para>
+    </sect2>
+    <sect2>
+      <title>Cell Phones</title>
     <para>
       Before you sign a contract and choose a plan and a company that
       meets your needs, you should ask these types of questions:
@@ -8325,21 +8232,13 @@
       National plans are the most expensive, but they let you use your
       phone anywhere in the country for a single per-minute price.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_156.jpg" />
+    <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_28.png" format="PNG"/>
         </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_157.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_158.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+      </mediaobject>
+    </informalfigure>
     <para>
       <emphasis role="strong">How frequently will you use the
       phone?</emphasis> If you just want a phone for emergencies, an
@@ -8355,91 +8254,33 @@
       available?</emphasis>You can share one cellular service plan and a
       pool of monthly usage minutes among several phone lines. The cost
       of the additional numbers per month is usually less than if you
-      purchased
-    </para>
-    <itemizedlist>
-      <listitem>
-        <para>
-          Do you need to access the Internet with your phone? If so, a
-          data plan is required. Find out how much it costs; compare
-          options carefully. Data plans govern use and costs associated
-          with mobile access for e-mail, text messaging, web browsing,
-          social networking, and other applications.
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          Take advantage of special pricing and promotions.
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          Is there a limit on the amount of data you can use each month?
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          Be wary of buying phone insurance, which may sound tempting;
-          consumer groups generally advise against it.
-        </para>
-      </listitem>
-    </itemizedlist>
-    <para>
-      individual accounts.<literallayout>
-</literallayout> <literallayout>
-</literallayout><emphasis role="strong">Is there a trial
-      period?</emphasis> There are “dead spots” where a<literallayout>
-</literallayout> <literallayout>
-</literallayout>cell phone doesn’t work. A trial period lets you test
-      your<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      purchased individual accounts.
     </para>
     <para>
-      service and try the features of the phone without incurring<literallayout>
-</literallayout> <literallayout>
-</literallayout>a termination fee.<literallayout>
-</literallayout> <literallayout>
-</literallayout><emphasis role="strong">Know your options.</emphasis>
-      Make sure you are only buying the<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      <emphasis role="strong">Is there a trial
+      period?</emphasis> There are “dead spots” where a cell phone doesn’t 
+      work. A trial period lets you test your service and try the features 
+      of the phone without incurring a termination fee.
+</para>
+      <para>
+        <emphasis role="strong">Know your options.</emphasis>
+      Make sure you are only buying the options or features you really need. 
+      It is always easier to upgrade a plan later if you feel you need another 
+      feature.
+</para>
+      <para>
+        <emphasis role="strong">What if you want to cancel your
+      service?</emphasis> Most providers have a penalty. This is a concern if you have
+      to move out of the area covered by your plan.
+      </para>
+      <para>
+        Be sure to keep track of your usage and understand your 
+        cell phone bill to avoid “bill shock.” Visit
+        <ulink url="http://www.fcc.gov/encyclopedia/bill-shock">www.fcc.gov/encyclopedia/bill-shock</ulink> 
+        to learn more about reading your cell phone bill and how to better monitor your usage.
     </para>
-    <para>
-      options or features you really need. It is always easier to<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      upgrade a plan later if you feel you need another feature.<literallayout>
-</literallayout> <literallayout>
-</literallayout><emphasis role="strong">What if you want to cancel your
-      service?</emphasis> Most<literallayout>
-</literallayout> <literallayout>
-</literallayout>providers have a penalty. This is a concern if you have
-      to<literallayout>
-</literallayout> <literallayout>
-</literallayout>move out of the area covered by your plan.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Be sure to keep track of your usage and understand your<literallayout>
-</literallayout> <literallayout>
-</literallayout>cell phone bill to avoid “bill shock.” Visit
-      <ulink url="http://www.fcc.gov/encyclopedia/bill-shock">www.fcc.gov/<literallayout>
-</literallayout> <literallayout>
-</literallayout></ulink>encyclopedia/bill-shock to learn more about
-      reading your<literallayout>
-</literallayout> <literallayout>
-</literallayout>cell phone bill and how to better monitor your usage.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_159.jpg" />
-        </imageobject>
-      </inlinemediaobject>GPS ON YOUR SMARTPHONE
-    </para>
+    <sidebar>
+      <title>GPS on Your Smartphone</title>
     <para>
       Retailers can use your phone’s GPS for geofencing— sending you
       coupons and promotions when you are near their stores so you’ll
@@ -8448,9 +8289,10 @@
       messages from stores, they may send you an alert with a coupon
       when you are nearby, based on your phone’s GPS.
     </para>
-    <para>
-      Smart Phones
-    </para>
+    </sidebar>
+    </sect2>
+      <sect2>
+        <title>Smart Phones</title>
     <para>
       Smart phones are like miniature computers; they provide basic
       phone functions, along with advanced features, including browsing
@@ -8475,31 +8317,52 @@
           messages.
         </para>
       </listitem>
+        <listitem>
+          <para>
+            Do you need to access the Internet with your phone? If so, a
+            data plan is required. Find out how much it costs; compare
+            options carefully. Data plans govern use and costs associated
+            with mobile access for e-mail, text messaging, web browsing,
+            social networking, and other applications.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Take advantage of special pricing and promotions.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Is there a limit on the amount of data you can use each month?
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Be wary of buying phone insurance, which may sound tempting;
+            consumer groups generally advise against it.
+          </para>
+        </listitem>
     </itemizedlist>
-    <para>
-      MOBILE PAYMENTS USING A DIGITAL WALLET
-    </para>
+    <sidebar>
+      <title>Mobile Payments Using A Digital Wallet</title>
     <para>
       Paying for your purchases using a smart phone app has become more
       common and convenient. In a sense you have a digital wallet that
       contains your credit card numbers, store loyalty cards, and even
-      digital coupons. When you get to the checkout counter, you pay by
-      swiping
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_160.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      your phone at the checkout. You can also use it online. Before you
+      digital coupons. When you get to the checkout counter, you pay by 
+      swiping your phone at the checkout. You can also use it online. Before you
       decide to use a digital wallet provider, make certain that your
       phone has the required chip that allows you use the mobile payment
       app. Also find out how the company ensures the security of your
       cards and each transaction. Some questions to ask:
     </para>
+    <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_29.png" format="PNG"/>
+        </imageobject>
+      </mediaobject>
+    </informalfigure>
     <itemizedlist>
       <listitem>
         <para>
@@ -8540,20 +8403,9 @@
       For more information about e-payments, visit
       <ulink url="http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec01.shtm">www.ftc.gov/bcp/edu/pubs/consumer/tech/tec01.shtm</ulink>.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_161.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_162.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      APPS FOR YOUR SMARTPHONE
-    </para>
+    </sidebar>
+    <sidebar>
+      <title>Apps For Your Smartphone</title>
     <para>
       “Apps,” short for applications, are tools that help you accomplish
       tasks or find information when you are on the go. Apps are
@@ -8577,6 +8429,7 @@
       consumer apps for product recalls, fuel economy, food safety,
       nutrition, and health information.
     </para>
+    </sidebar>
     <para>
       Since smart phones are like miniature computers, many of the same
       privacy and safety concerns apply; however, unlike computers,
@@ -8585,9 +8438,9 @@
       from these concerns, see Online Privacy (p. 40) and Internet (p.
       41).
     </para>
-    <para>
-      Pay-As-You-Go Plans
-    </para>
+      </sect2>
+    <sect2>
+      <title>Pay-As-You-Go Plans</title>
     <para>
       If you want cell phone service only for emergencies, or you aren’t
       sure how much you will actually use a cell phone once you get it,
@@ -8598,9 +8451,10 @@
       per minute, and, if you don’t use the phone for an extended
       period, you may lose the money in your account.
     </para>
-    <para>
-      TV
-    </para>
+    </sect2>
+    </sect1>
+      <sect1>
+        <title>TV</title>
     <para>
       There are many choices for consumers looking to buy new
       televisions today. Before buying a new TV, do your homework. It is
@@ -8609,11 +8463,10 @@
       and reviews, check out <emphasis>Consumer Reports</emphasis> at
       <ulink url="http://www.consumerreports.org">www.consumerreports.org</ulink>.
       Additional information is also available at
-      <ulink url="http://www.energystar.gov">www.energystar.gov.</ulink>
+      <ulink url="http://www.energystar.gov">www.energystar.gov</ulink>.
     </para>
-    <para>
-      Cable
-    </para>
+    <sect2>
+      <title>Cable</title>
     <para>
       You can start with a basic lineup of channels and go from there.
       The more channels you want, the more it will cost. You may want to
@@ -8624,9 +8477,9 @@
       Bear in mind, however, that you may be asked to sign a contract
       for bundled services.
     </para>
-    <para>
-      Satellite
-    </para>
+    </sect2>
+    <sect2>
+    <title>Satellite</title>
     <para>
       This requires a dish that’s mounted outside (service requires an
       unobstructed view of the satellite) and a receiver that’s placed
@@ -8638,16 +8491,16 @@
       cable TV, you may be asked to sign a contract for a package of
       services.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_163.jpg" />
+    </sect2>
+    <sect2>
+      <title>Internet TV</title>
+    <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_30.png" format="PNG"/>
         </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Internet TV
-    </para>
+      </mediaobject>
+    </informalfigure>
     <para>
       If you have a high-speed Internet connection, you’re already able
       to watch thousands of videos on your computer. Movies and TV shows
@@ -8658,25 +8511,20 @@
       Several services allow Internet streaming for a fee, along with
       free access to shows on network websites.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_164.jpg" />
+    </sect2>
+      </sect1>
+  </chapter>
+  <chapter id="telemarketing">
+    <title>Telemarketing</title>
+    <sect1>
+      <title>Telemarketing and Unwanted Mail</title>
+      <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_31.png" format="PNG"/>
         </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_165.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_166.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_167.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+      </mediaobject>
+        </informalfigure>
     <para>
       What can you do about the growing pile of unwanted mail in your
       mailbox and unwelcome telemarketers on your phone? Actually,
