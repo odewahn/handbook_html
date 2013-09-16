@@ -9203,25 +9203,13 @@
   </chapter>
   <chapter id="utilities">
     <title>Utilities</title>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_178.jpg" />
+    <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_34.png" format="PNG"/>
         </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_179.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_180.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_181.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+      </mediaobject>
+    </informalfigure>
     <para>
       In many states, consumers can choose their telephone and energy
       service provider. Contact your state utility commission (p. 138)
@@ -9230,9 +9218,8 @@
       and most state utility commissions will take any complaints you
       have concerning utility sales and service.
     </para>
-    <para>
-      STARTING UTILITY SERVICE
-    </para>
+    <sect1>
+      <title>Starting Utility Service</title>
     <para>
       When you move into a new home or apartment, you may also be
       required to have the utilities (electricity, gas, water, waste
@@ -9252,9 +9239,9 @@
       to get a refund of your installation fee. If that doesn’t work,
       contact your state’s utility commission (p. 138).
     </para>
-    <para>
-      BILLING
-    </para>
+    </sect1>
+    <sect1>
+      <title>Billing</title>
     <para>
       Once you have established service, you should start receiving your
       bills at regular intervals, normally monthly or quarterly. Utility
@@ -9287,13 +9274,16 @@
       amount of your income each month. Programs like these from utility
       companies and local government are usually based on your income.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_182.jpg" />
+    </sect1>
+  </chapter>
+  <chapter id="wills_and_funerals">
+    <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_35.png" format="PNG"/>
         </imageobject>
-      </inlinemediaobject>
-    </para>
+      </mediaobject>
+    </informalfigure>
     <para>
       It’s unfortunate how many people believe that estate planning is
       only for the wealthy. People at all economic levels benefit from
@@ -9301,9 +9291,8 @@
       distributes property based on your wishes and the needs of your
       family and/or survivors with the fewest tax consequences.
     </para>
-    <para>
-      WILLS
-    </para>
+    <sect1>
+      <title>Wills</title>
     <para>
       A will is the most practical first step in estate planning. It
       makes clear how you want your property to be distributed after you
@@ -9323,20 +9312,9 @@
       leave him or her. Fees for the execution of a will vary according
       to its complexity.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_183.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_184.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      CHOOSE AN EXECUTOR
-    </para>
+    </sect1>
+    <sect1>
+      <title>Choose an Executor</title>
     <para>
       An executor is the person who is responsible for settling the
       estate after death. Duties of an executor include:
@@ -9359,45 +9337,124 @@
       </listitem>
       <listitem>
         <para>
-          Settling debts owed by the deceased Most important, the
-          executor is legally obligated to act in the interests of the
-          deceased, following the wishes provided by the will. Here
-          again, it can be helpful to consult an attorney to help with
-          the probate process or offer legal guidance. In most states,
-          any person over the age of 18 who hasn’t been convicted of a
-          felony can be named executor of a will. Some people choose a
-          lawyer, accountant, or financial consultant based on his or
-          her professional experience. Others choose a spouse, adult
-          child, relative, or friend. Since the role of executor can be
+          Settling debts owed by the deceased
         </para>
       </listitem>
     </itemizedlist>
     <para>
+      Most important, the
+      executor is legally obligated to act in the interests of the
+      deceased, following the wishes provided by the will. Here
+      again, it can be helpful to consult an attorney to help with
+      the probate process or offer legal guidance. In most states,
+      any person over the age of 18 who hasn’t been convicted of a
+      felony can be named executor of a will. Some people choose a
+      lawyer, accountant, or financial consultant based on his or
+      her professional experience. Others choose a spouse, adult
+      child, relative, or friend. Since the role of executor can be 
       demanding, it’s often a good idea to ask the person if he or she
-      is willing to serve. If you’ve been named executor in someone’s
-      will but
+      is willing to serve.
     </para>
     <para>
-      are not able or do not want to serve, you need to file a
+      If you’ve been named executor in someone’s
+      will but are not able or do not want to serve, you need to file a
       “declination,” which is a legal document that declines your
       designation as an executor. The contingent executor named in the
       will then assumes responsibility. If no contingent executor is
       named, the court will appoint one.
     </para>
+    <sidebar>
+      <title>Rules To Remember When Writing A Will</title>
+<itemizedlist>
+  <listitem>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_185.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_186.jpg" />
-        </imageobject>
-      </inlinemediaobject>
+      In most states, you must be 18 years of age or older.
     </para>
+  </listitem>
+  <listitem>
     <para>
-      FUNERALS
+      To be valid, a will must be written when you are of sound judgment 
+      and have adequate mental capacity.
     </para>
+  </listitem>
+  <listitem>
+    <para>
+      The document must clearly state that it is your will.
+    </para>
+  </listitem>
+  <listitem>
+    <para>
+      An executor of your will, who ensures your estate is 
+      distributed according to your wishes, must be named.
+    </para>
+  </listitem>
+  <listitem>
+    <para>
+      It is not necessary to notarize or record your will, 
+      but doing so can safeguard any claims that it is invalid. 
+      To be valid, you must sign a will in the presence of at 
+      least two witnesses.
+    </para>
+  </listitem>
+  <listitem>
+    <para>
+      A financial will and testament will always supersede a 
+      last will and testament when bestowing financial assets.
+    </para>
+  </listitem>
+</itemizedlist>
+    </sidebar>
+      <sidebar>
+        <title>Write A Social Media Will</title>
+        <para>
+          Social media are a part of daily life, so what happens 
+          to the online content you created once you die? If you 
+          are active online, you should consider creating a social 
+          media will, or statement of how you would like your online 
+          identity to be handled. You should appoint someone you 
+          trust as an online executor. This person will be responsible 
+          for closing your email addresses, social media profiles, 
+          and blogs after you are deceased.
+        </para>
+        <para>
+          Take these steps to help you write a social media will:
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>
+              Review the privacy policies and the terms and conditions 
+              of each website where you have a presence.
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              State how you would like your profiles to be handled. 
+              You may want to cancel your profile completely or keep 
+              it up for friends and family to visit. Some sites allow 
+              users to create a memorial profile where other users can 
+              still see your profile but can’t post anything new.
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Give the responsible person a document that lists all 
+              of the websites where you have a profile, along with 
+              your usernames and passwords.
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Stipulate in your will that the online executor should 
+              have a copy of your death certificate. The online executor 
+              may need this as proof for websites to take any actions on 
+              your behalf.
+            </para>
+          </listitem>
+        </itemizedlist>
+      </sidebar>
+    </sect1>
+  <sect1>
+    <title>Funerals</title>
     <para>
       One of the most expensive purchases many consumers will ever make
       is arranging for a funeral. A traditional burial, including a
@@ -9423,24 +9480,8 @@
       right to buy the individual products and services you prefer. As
       outlined by the Funeral Rule:
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_187.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_188.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_189.jpg" />
-        </imageobject>
-      </inlinemediaobject>THE FUNERAL RULE
-    </para>
+    <sidebar>
+      <title>The Funeral Rule</title>
     <para>
       A federal law makes it easier for you to choose only the goods and
       services you want or need when planning a funeral, and to pay only
@@ -9448,6 +9489,7 @@
       requires funeral directors to give you itemized prices in person
       and, if you ask, over the phone.
     </para>
+    </sidebar>
     <itemizedlist>
       <listitem>
         <para>
@@ -9491,41 +9533,19 @@
       </listitem>
     </itemizedlist>
     <para>
-      For more information about the Funeral Rule, visit<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      For more information about the Funeral Rule, visit <ulink url="http://www.ftc.gov/bcp/edu/microsites/funerals">www.ftc.gov/bcp/edu/microsites/funerals</ulink>.
     </para>
     <para>
-      <ulink url="http://www.ftc.gov/bcp/edu/microsites/funerals">www.ftc.gov/bcp/edu/microsites/funerals.<literallayout>
-</literallayout><literallayout>
-</literallayout></ulink>Planning ahead is the best way to make informed<literallayout>
-</literallayout> <literallayout>
-</literallayout>decisions about funeral arrangements. An advance plan<literallayout>
-</literallayout> <literallayout>
-</literallayout>also spares your family from having to make choices<literallayout>
-</literallayout> <literallayout>
-</literallayout>in the middle of grief and under time constraints.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Every family is different, and funeral arrangements are<literallayout>
-</literallayout> <literallayout>
-</literallayout>influenced by religious and cultural traditions,
-      budgets,<literallayout>
-</literallayout> <literallayout>
-</literallayout>and personal preferences.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Planning ahead is the best way to make informed decisions about funeral 
+      arrangements. An advance plan also spares your family from having to 
+      make choices in the middle of grief and under time constraints. 
+      Every family is different, and funeral arrangements are influenced by 
+      religious and cultural traditions, budgets, and personal preferences.
     </para>
     <para>
-      You are not legally required to use a funeral home to<literallayout>
-</literallayout> <literallayout>
-</literallayout>plan and conduct a funeral, but most people find that
-      the<literallayout>
-</literallayout> <literallayout>
-</literallayout>services of a professional funeral home make the process<literallayout>
-</literallayout> <literallayout>
-</literallayout>easier.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      You are not legally required to use a funeral home to plan and conduct 
+      a funeral, but most people find that the services of a professional 
+      funeral home make the process easier.
     </para>
     <para>
       Comparison shopping, either in person or by phone, can save you
@@ -9543,9 +9563,8 @@
       board that regulates the funeral industry. You can contact the
       board in your state for information or help.
     </para>
-    <para>
-      Prepaying
-    </para>
+    <sect2>
+      <title>Prepaying</title>
     <para>
       Millions of Americans have entered into contracts to prearrange
       their funerals and prepay some or all of the expenses involved.
@@ -9558,11 +9577,12 @@
       the death benefits assigned to the funeral home or cemetery. For a
       list of questions to consider before prepaying for a funeral,
       visit
-      <ulink url="http://www.ftc.gov/bcp/edu/pubs/consumer/products/pro19.shtm">www.ftc.gov/bcp/edu/</ulink>pubs/consumer/products/pro19.shtm.
+      <ulink url="http://www.ftc.gov/bcp/edu/pubs/consumer/products/pro19.shtm">www.ftc.gov/bcp/edu/pubs/consumer/products/pro19.shtm</ulink>.
     </para>
-    <para>
-      VETERANS CEMETERIES
-    </para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Veterans Cemeteries</title>
     <para>
       All veterans are entitled to a free burial in a national cemetery
       and a grave marker. This eligibility also applies to some
@@ -9575,25 +9595,17 @@
       Affairs (p. 105) at
       <ulink url="http://www.cem.va.gov">www.cem.va.gov</ulink>.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_190.jpg" />
+    <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_36.png" format="PNG" />
         </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_191.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_192.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_193.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+      </mediaobject>
+    </informalfigure>
+  </sect1>
+  </chapter>
+<chapter id="filing_a_complaint">
+  <title>Filing A Complaint</title>
     <para>
       Even the savviest consumer has problems with a good or service at
       one time or another. It is your right to complain if you have a
