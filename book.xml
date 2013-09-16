@@ -8565,14 +8565,14 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      NATIONAL DO NOT CALL REGISTRY
-    </para>
+    </sect1>
+    <sect1>
+      <title>National Do Not Call Registry</title>
     <para>
       The federal government’s Do Not Call Registry allows you to
       restrict telemarketing calls permanently by registering your phone
       number at
-      <ulink url="http://www.donotcall.gov">www.donotcall.gov</ulink>or by
+      <ulink url="http://www.donotcall.gov">www.donotcall.gov</ulink> or by
       calling 1-888-382-1222. If you receive telemarketing calls after
       your number has been in the national registry for three months,
       you can file a complaint using the same web page and toll-free
@@ -8588,14 +8588,13 @@
     <para>
       In addition, the standard has always been that telemarketers are
       not allowed to call cell phones. Cell phone numbers can also be
-      added to the Do Not Call
-      <ulink url="https://www.donotcall.gov/">Registry
-      (www.donotcall.gov</ulink>), but it is not necessary, since
+      added to the Do Not Call Registry (<ulink url="https://www.donotcall.gov/"/>), 
+      but it is not necessary, since
       telemarketers are already forbidden to call them.
     </para>
-    <para>
-      PRE-RECORDED MESSAGES
-    </para>
+    </sect1>
+    <sect1>
+      <title>Pre-recorded Messages</title>
     <para>
       Pre-recorded sales calls or robocalls are illegal. Companies
       cannot transmit these messages to consumers who have not agreed,
@@ -8640,9 +8639,9 @@
       FTC at <ulink url="http://www.donotcall.gov">www.donotcall.gov</ulink> or
       by calling 1-888-382-1222.
     </para>
-    <para>
-      TELEMARKETING SALES CALLS
-    </para>
+    </sect1>
+    <sect1>
+      <title>Telemarketing Sales Calls</title>
     <para>
       An FTC rule defines what telemarketers can and cannot do when
       making a sales call. Callers must:
@@ -8676,9 +8675,8 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      OPTING OUT
-    </para>
+    <sidebar>
+      <title>Opting Out</title>
     <para>
       Tired of unwanted e-mail filling up your inbox? You can opt out of
       most unsolicited e-mail lists by going to the “unsubscribe”
@@ -8698,17 +8696,7 @@
       <ulink url="http://www.optoutprescreen.com">www.optoutprescreen.com</ulink>,
       which is managed by the major credit reporting companies.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_168.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_169.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+    </sidebar>
     <para>
       If a prize is involved, the caller must give you the odds of
       winning, inform you that no purchase is necessary, and tell you
@@ -8728,12 +8716,13 @@
       </listitem>
       <listitem>
         <para>
-          Threaten, intimidate, or harass you, or call again if you
+          Threaten, intimidate, or harass you, or call again if you 
+          ask them not to
         </para>
       </listitem>
     </itemizedlist>
     <para>
-      ask them not to This FTC rule applies even when you receive a call
+      This FTC rule applies even when you receive a call
       from a telemarketer in another state or country. It also applies
       when you make a call to a company in another state or country in
       response to a mail solicitation.
@@ -8770,13 +8759,17 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_170.jpg" />
+    </sect1>
+  </chapter>
+  <chapter id="travel">
+    <title>Travel</title>
+    <informalfigure>
+      <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_32.png" format="PNG"/>
         </imageobject>
-      </inlinemediaobject>
-    </para>
+      </mediaobject>
+    </informalfigure>
     <para>
       Whether reserving a hotel room, buying plane tickets, or making
       other travel arrangements, these tips will help you get the deal
