@@ -4765,7 +4765,7 @@
           <imagedata fileref="images/pdf5131_img_20.png" format="PNG"/>
         </imageobject>
         </mediaobject>
-      </inlinemediaobject>
+      </informalfigure>
     <para>
       When choosing among housing options, there are many decisions you
       must make. Should you rent or buy? If you buy, what sort of
@@ -5115,10 +5115,9 @@
         </tbody>
       </tgroup>
     </informaltable>
-
-    <para>
-      MORTGAGE REFINANCING
-    </para>
+      </sidebar>
+    <sidebar>
+      <title>Mortgage Refinancing</title>
     <para>
       Consider refinancing your mortgage if you can get a rate that is
       at least one percentage point lower than your existing mortgage
@@ -5134,11 +5133,12 @@
       monthly payments more affordable. It also includes the Home
       Affordable Foreclosure Alternatives Program for homeowners who are
       interested in a short sale or deed-in-lieu of foreclosure. Visit
-      <ulink url="http://www.makinghomeaffordable.gov">www.makinghomeaffordable.gov</ulink>or
+      <ulink url="http://www.makinghomeaffordable.gov">www.makinghomeaffordable.gov</ulink> or
       call 1-888-995HOPE (4673).
     </para>
+    </sidebar>
     <para>
-      These steps can help:
+      <emphasis role="bold">These steps can help:</emphasis>
     </para>
     <itemizedlist>
       <listitem>
@@ -5186,27 +5186,25 @@
     <para>
       Housing and Urban Development (p. 102). Additional advice,
       resources, and tips for homeowners can be found under Home Equity
-      Loans (p. 16), Insurance
+      Loans (p. 16), Insurance (p. 33), and Home Improvement and Repairs (p. 29).
     </para>
-    <para>
-      (p. 33), and Home Improvement and Repairs (p. 29).
-    </para>
-    <para>
-      MOVING COMPANIES
+    </sect1>
+    <sect1>
+      <title>Moving Companies</title>
     </para>
     <para>
       Not all moving companies are the same. Although many are
       legitimate, some attempt to take advantage of their clients.
       Follow these guidelines to help you choose the right mover:
+    </para>
+    <para>
       <emphasis role="strong">Get a written estimate from several
-      movers.</emphasis>Be wary of very low estimates. Some companies
+      movers.</emphasis> Be wary of very low estimates. Some companies
       quote a low price to get a contract and later ask for more money
       before they will remove your belongings from their truck.
     </para>
     <para>
-      Make sure the mover has an operating license.
-    </para>
-    <para>
+      <emphasis role="strong">Make sure the mover has an operating license.</emphasis> 
       For moves from one state to another, visit
       <ulink url="http://www.protectyourmove.gov">www.protectyourmove.gov</ulink>
       to verify a mover’s license. For moves within a state, check your
@@ -5214,16 +5212,13 @@
     </para>
     <para>
       <emphasis role="strong">Make sure the mover has
-      insurance.</emphasis>If furniture is damaged during the move, the
+      insurance.</emphasis> If furniture is damaged during the move, the
       mover’s insurance should cover it. Ask how to file a complaint if
       there are limits to the coverage. For more information about the
-      levels of mover’s insurance coverage, visit
+      levels of mover’s insurance coverage, visit <ulink url="http://www.protectyourmove.gov/consumer/awareness/valuation/valuation-insurance.htm">www.protectyourmove.gov/consumer/awareness/valuation/valuation-insurance.htm</ulink>.
     </para>
     <para>
-      <ulink url="http://www.protectyourmove.gov/consumer/awareness/valuation/valuation-insurance.htm">www.protectyourmove.gov/consumer/awareness/</ulink>
-    </para>
-    <para>
-      valuation/valuation-insurance.htm. <emphasis role="strong">Check
+      <emphasis role="strong">Check
       the mover’s record.</emphasis> Contact your state or local
       consumer protection agency (p. 112) or the Better Business Bureau
       (p. 67) to see whether there is a history of complaints.
@@ -5234,8 +5229,9 @@
       calling 1-888-368-7238 or by visiting
       <ulink url="http://www.fmcsa.dot.gov">www.fmcsa.dot.gov</ulink>.
     </para>
-    <para>
-      HOME IMPROVEMENT AND REPAIRS
+    </sect1>
+    <sect1>
+      <title>Home Improvement And Repairs</title>
     </para>
     <para>
       Home improvements and repairs can cost thousands of dollars and
@@ -5295,25 +5291,76 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_101.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_102.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_103.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_104.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+    <sidebar>
+      <title>﻿Beware: Foreclosure Rescue Scams</title>
+      <para>
+        Scam artists often target homeowners who are struggling to meet 
+        their mortgage commitment or are anxious to sell their homes. 
+        Recognize and avoid common scams:
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+            <emphasis role="bold">Lease-back or rent-to-buy scams:</emphasis> 
+            You are asked to transfer 
+            the title to your home “temporarily” to the scam artist who 
+            promises to obtain better financing for your mortgage and 
+            allow you to stay in your home as a renter with the option 
+            to purchase the home back. However, if you do not comply 
+            with the terms of the rent-to-buy agreement, you will lose 
+            your money and be evicted like any other tenant.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <emphasis role="bold">Fake “government” modification programs:</emphasis> 
+            These scams claim to be affiliated with the government or 
+            require that you pay high fees to benefit from government 
+            modification programs. Remember that you do not have to pay 
+            any fees to participate in government-approved programs. Some 
+            frauds may even use words like “Federal” or “government-approved” 
+            or acquire website names that make consumers think they are 
+            associated with the government.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <emphasis role="bold">Refinance fraud:</emphasis> The scam 
+            artist offers to be an intermediary between you and your 
+            mortgage lender to negotiate a loan modification. The scam 
+            artist may even instruct you to make payments directly to 
+            him or her, which the scammer will send to the lender. 
+            However, the scam artist will not forward the payments 
+            to your lender and you could still lose your home.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <emphasis role="bold">“Eliminate your debt” claims:</emphasis> 
+            Some companies may make false legal claims that you are 
+            not required to repay your mortgage or that they know 
+            of “secret laws” that can eliminate your debt. Do not 
+            believe these claims.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <emphasis role="bold">Refinance scams:</emphasis> You 
+            are encouraged to sign “foreclosure rescue” loan documents 
+            to refinance your loan. In reality, you have surrendered 
+            ownership of your home because the loan documents are 
+            actually deed transfer documents. You may falsely believe 
+            that your home has been saved from foreclosure until you 
+            receive an eviction notice months or even years later.
+          </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        Remember: Foreclosure assistance from a HUD-approved housing 
+        counselor is free. Visit <ulink url="http://www.makinghomeaffordable.gov">www.makinghomeaffordable.gov</ulink>
+        or call 1-800-569-4287.
+      </para>
+    </sidebar>
     <itemizedlist>
       <listitem>
         <para>
@@ -5353,7 +5400,7 @@
       </listitem>
     </itemizedlist>
     <para>
-      Be especially cautious if the contractor:
+      <emphasis role="strong">Be especially cautious if the contractor:</emphasis>
     </para>
     <itemizedlist>
       <listitem>
@@ -5387,21 +5434,24 @@
           service
         </para>
       </listitem>
+      <listitem>
+        <para>
+          Asks you to pay for the entire job up front
+        </para>
+      </listitem>
     </itemizedlist>
     <para>
-      • Asks you to pay for the entire job up front With most home
+      With most home
       improvements, federal law gives you three business days to cancel
       without penalty. See the 3-Day Cooling-Off Rule (p. 4). Of course,
       you would be liable for any benefit already received. State laws
       may also provide some protection. And remember, if you finance
-    </para>
-    <para>
       home improvements with a home equity loan (p. 16) and don’t make
       your payments, you could lose your home.
     </para>
-    <para>
-      RENTING/LEASING
-    </para>
+    </sect1>
+      <sect1>
+    <title>Renting/Leasing</title>
     <para>
       A lease is an agreement that outlines the obligations of the owner
       and the tenants of a house or apartment. It is a legally binding
@@ -5444,30 +5494,14 @@
           and pets
         </para>
       </listitem>
-    </itemizedlist>
+    <listitem>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_105.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      <ulink url="http:www.USA.gov">www.USA.gov</ulink>To contact an
-      organization, use the directory beginning on page 63.
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_106.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      • Information regarding utility providers, how to arrange for
+      Information regarding utility providers, how to arrange for
       service and whether the landlord or tenant is responsible for
       paying the bills (see Utilities, p. 52)
     </para>
+    </listitem>
+    </itemizedlist>
     <para>
       Read the lease carefully and discuss anything you don’t understand
       or any issues you might have. All landlord responsibilities should
@@ -5484,31 +5518,24 @@
     <para>
       The Fair Housing Act protects tenants who lease or rent property.
       If you think your rights have been violated, you may write a
-      letter to or call the HUD office nearest you
-    </para>
-    <para>
-      (p. 102). You have one year after the alleged violation to file a
+      letter to or call the HUD office nearest you (p. 102). You have 
+      one year after the alleged violation to file a
       complaint with HUD, but you should file as soon as possible.
     </para>
     <para>
       Each state has its own set of tenant rights, laws, and
       protections. For a state-by-state directory, visit
-      <ulink url="http://www.hud.gov/local">www.hud.gov/local. You can also
-      find available public</ulink>housing at
+      <ulink url="http://www.hud.gov/local">www.hud.gov/local</ulink>. You can also
+      find available public housing at
       <ulink url="http://www.hud.gov">www.hud.gov</ulink>. HUD (p. 102) offers
       several housing assistance programs for tenants and landlords as
       well as information on rights of residents and displaced tenants.
     </para>
-    <para>
-      Ten Tips for Renters
-    </para>
-    <variablelist>
-      <varlistentry>
-        <term>
-          1. 
-        </term>
-        <listitem>
-          <para>
+    <sect2>
+      <title>Ten Tips for Renters</title>
+    <orderedlist>
+      <listitem>
+        <para>
             The best way to win over a prospective landlord is to be
             prepared by bringing a completed rental application with
             you; written references from previous landlords, employers,
@@ -5516,106 +5543,72 @@
             report.
           </para>
         </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          2. 
-        </term>
         <listitem>
           <para>
             Carefully review all of the important conditions of the
             tenancy before you sign.
           </para>
         </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          3. 
-        </term>
         <listitem>
           <para>
             To avoid disputes or misunderstandings with your landlord,
             get everything in writing.
           </para>
         </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          4. 
-        </term>
         <listitem>
           <para>
             Ask about your privacy rights before you sign the lease.
           </para>
         </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          5. 
-        </term>
         <listitem>
           <para>
             Know your rights to live in a habitable rental unit— and
             don’t give them up.
           </para>
         </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          6. 
-        </term>
-        <listitem>
+      <listitem>
           <para>
             Keep communication open with your landlord.
           </para>
         </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          7. 
-        </term>
         <listitem>
           <para>
             Purchase renters insurance to cover your valuables. See more
             information under Homeowners/Renters Insurance (p. 33).
           </para>
         </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          8. 
-        </term>
         <listitem>
           <para>
             Make sure the security deposit refund procedures are spelled
             out in your lease or rental agreement.
           </para>
         </listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>
-          9. 
-        </term>
         <listitem>
           <para>
             Learn whether your building and neighborhood are safe, and
             what you can expect your landlord to do if they aren’t.
           </para>
         </listitem>
-      </varlistentry>
-    </variablelist>
+      <listitem>
     <para>
-      10.Know when to fight an eviction notice and when to move. Unless
+      Know when to fight an eviction notice and when to move. Unless
       you have the law and provable facts on your side, fighting an
       eviction notice is usually shortsighted.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_107.jpg" />
+      </listitem>
+    </orderedlist>
+    </sect2>
+      </sect1>
+      </chapter>
+    <chapter id="insurance">
+      <title>Insurance</title>
+      <informalfigure>
+        <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_22.png" format="PNG"/>
         </imageobject>
-      </inlinemediaobject>
-    </para>
+      </mediaobject>
+      </informalfigure>
     <para>
       General sources of insurance information include the American
       Council of Life Insurers (p. 142), the Insurance Information
@@ -5628,15 +5621,15 @@
       When buying any type of insurance (home, life, auto, rental, or
       other), you should:
     </para>
-    <para>
-      • Find out whether your state insurance department
-    </para>
-    <para>
-      (p. 130) offers any information concerning insurance companies and
+      <itemizedlist>
+        <listitem>
+      <para>
+      Find out whether your state insurance department (p. 130) offers 
+      any information concerning insurance companies and
       rates. This is a good way to get a feeling for the range of prices
       and the lowest-cost providers in your area.
     </para>
-    <itemizedlist>
+        </listitem>
       <listitem>
         <para>
           Check several sources for the best deal. Try getting quotes
@@ -5658,12 +5651,10 @@
         <para>
           Check the financial stability and soundness of the insurance
           company. Ratings from A.M. Best
-          <ulink url="http:www.ambest.com">(www.ambest.com), Standard
-          &amp;
-          Poor’s</ulink><ulink url="http:www.standardandpoors.com">(www.standardandpoors.com),
-          and Moody’s
-          Investors</ulink><ulink url="http:www.moodys.com">Services
-          (www.moodys.com) are available online and</ulink>at most
+          (<ulink url="http:www.ambest.com"/>), Standard
+          &amp; Poor’s (<ulink url="http:www.standardandpoors.com"/>),
+          and Moody’s Investors Services
+          (<ulink url="http://www.moodys.com"/>) are available online and at most
           public libraries.
         </para>
       </listitem>
@@ -5672,8 +5663,8 @@
           Research the complaint record of the company. Contact your
           state insurance department (p. 130), or visit the website of
           the National Association of Insurance
-          <ulink url="http:www.naic.org">Commissioners (www.naic.org),
-          which has a database</ulink>of complaints filed with state
+          Commissioners (<ulink url="http:www.naic.org"/>),
+          which has a database of complaints filed with state
           regulators.
         </para>
       </listitem>
