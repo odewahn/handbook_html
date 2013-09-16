@@ -10173,29 +10173,30 @@
     <chapter id="key_information_resources">
   <title>Key Information Resources</title>
       <informalfigure>
-        <imageobject>
+        <mediaobject>
+        <imageobject role="web">
           <imagedata fileref="images/pdf5131_img_40.png" format="PNG"/>
         </imageobject>
       </mediaobject>
       </informalfigure>
     <para>
-      Federal Citizen Information Center (FCIC)
+      <emphasis role="strong">Federal Citizen Information Center (FCIC)</emphasis>
     </para>
     <para>
       FCIC is a one-stop source that provides government information and
       services directly to the public. FCIC offers information across
-      various channels, including <ulink url="http://www.USA.gov">websites
-      USA.gov</ulink>and<ulink url="http://www.GobiernoUSA.gov">GobiernoUSA.gov</ulink>
+      various channels, including websites
+      <ulink url="http://www.USA.gov">USA.gov</ulink> and <ulink url="http://www.GobiernoUSA.gov">GobiernoUSA.gov</ulink>
       (in Spanish), telephone at 1-888-333-4636, print publications
       available through the <emphasis>Consumer Information
       Catalog</emphasis> and at
-      <ulink url="http:Publications.USA.gov">Publications.USA.gov, and
-      via social media on Facebook</ulink>at
-      <ulink url="http://www.facebook.com/USAgov">www.facebook.com/USAgov, and
-      Twitter</ulink><ulink url="https://twitter.com/USAgov">@USAgov</ulink>.
+      <ulink url="http://Publications.USA.gov">Publications.USA.gov</ulink>, and
+      via social media on Facebook at
+      <ulink url="http://www.facebook.com/USAgov">www.facebook.com/USAgov</ulink>, and
+      Twitter <ulink url="https://twitter.com/USAgov">@USAgov</ulink>.
     </para>
     <para>
-      Center for the Study of Services
+      <emphasis role="strong">Center for the Study of Services</emphasis>
     </para>
     <para>
       <ulink url="http://www.checkbook.org">www.checkbook.org</ulink> Evaluates
@@ -10203,7 +10204,7 @@
       see page 109.
     </para>
     <para>
-      Consumer Reports
+      <emphasis role="strong">Consumer Reports</emphasis>
     </para>
     <para>
       <ulink url="http://www.consumerreports.org">www.consumerreports.org</ulink>
@@ -10211,7 +10212,7 @@
       appliances, food, clothing, luggage, and insurance; see page 110.
     </para>
     <para>
-      Consumer World
+      <emphasis role="strong">Consumer World</emphasis>
     </para>
     <para>
       <ulink url="http://www.consumerworld.org">www.consumerworld.org</ulink> A
@@ -10219,7 +10220,7 @@
       resources, corporations and government agencies.
     </para>
     <para>
-      National Institute of Food and Agriculture (NIFA)
+      <emphasis role="strong">National Institute of Food and Agriculture (NIFA)</emphasis>
     </para>
     <para>
       Programs cover food and nutrition, housing, gardening, budgeting,
@@ -10229,16 +10230,15 @@
       96.
     </para>
     <para>
-      Libraries
+      <emphasis role="strong">Libraries</emphasis>
     </para>
     <para>
       Publications from many of the organizations mentioned on this page
       are available at your local public library or by visiting
       <ulink url="http://www.publiclibraries.com">www.publiclibraries.com</ulink>.
     </para>
-    <para>
-      EMERGENCY PREPAREDNESS
-    </para>
+    <sect1>
+      <title>Emergency Preparedness</title>
     <para>
       Disasters can strike in many forms—fires, floods, hurricanes,
       tornadoes, and even national emergencies. Protecting yourself,
@@ -10247,99 +10247,40 @@
       for help and information. You may even be eligible for government
       assistance.
     </para>
+    <sidebar>
+      <title>Services And Resources For Consumers With Disabilities</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_212.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_213.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_214.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      SERVICES AND RESOURCES FOR CONSUMERS<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      WITH DISABILITIES
-    </para>
-    <para>
-      Relay Services:
-    </para>
-    <para>
-      Telecommunications relay services link telephone conversations
+      <emphasis role="strong">Relay Services:</emphasis> Telecommunications 
+      relay services link telephone conversations
       between individuals who use standard voice telephones and those
       who use text telephones (TTYs). Calls may be made from either type
-      of telephone to the other
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_215.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      type through the relay service.<literallayout>
-</literallayout> <literallayout>
-</literallayout><emphasis role="strong">Local Relay Services</emphasis>:
-      States provide relay services for<literallayout>
-</literallayout> <literallayout>
-</literallayout>local and long-distance calls. Consult your local
-      telephone<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      directory for information on use, fees (if any), services, and<literallayout>
-</literallayout> <literallayout>
-</literallayout>dialing instructions for that area.<literallayout>
-</literallayout> <literallayout>
-</literallayout><emphasis role="strong">Federal Relay
-      Service</emphasis>: The FRS, a program of the U.S.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      General Services Administration (GSA), provides access to<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY users who wish to conduct official business
-      nationwide<literallayout>
-</literallayout> <literallayout>
-</literallayout>with and within the federal government. The toll-free<literallayout>
-</literallayout> <literallayout>
-</literallayout>number is 1-866-377-8642. For more information on relay<literallayout>
-</literallayout> <literallayout>
-</literallayout>communications or to obtain a brochure on using the FRS,<literallayout>
-</literallayout> <literallayout>
-</literallayout>call 1-800-877-0996.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      of telephone to the other type through the relay service.
+</para>
+      <para>
+        <emphasis role="strong">Local Relay Services</emphasis>:
+      States provide relay services for local and long-distance 
+      calls. Consult your local telephone directory for information 
+      on use, fees (if any), services, and dialing instructions 
+      for that area.
+</para>
+      <para>
+        <emphasis role="strong">Federal Relay
+      Service</emphasis>: The FRS, a program of the U.S. 
+      General Services Administration (GSA), provides access to 
+      TTY users who wish to conduct official business nationwide 
+      with and within the federal government. The toll-free 
+      number is 1-866-377-8642. For more information on relay 
+      communications or to obtain a brochure on using the FRS, 
+      call 1-800-877-0996.
     </para>
     <para>
       <emphasis role="strong">Other Services</emphasis>: Consumers who
-      are deaf or hard of<literallayout>
-</literallayout> <literallayout>
-</literallayout>hearing, or who have speech impairment and use a TTY,
-      may<literallayout>
-</literallayout> <literallayout>
-</literallayout>receive operator and directory assistance for calls by
-      calling<literallayout>
-</literallayout> <literallayout>
-</literallayout>1-800-855-1155. Check the introductory pages of your
-      local<literallayout>
-</literallayout> <literallayout>
-</literallayout>telephone directory for additional TTY services.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      are deaf or hard of hearing, or who have speech impairment and use a TTY,
+      may receive operator and directory assistance for calls by
+      calling 1-800-855-1155. Check the introductory pages of your
+      local telephone directory for additional TTY services.
     </para>
+    </sidebar>
     <para>
       There are numerous sources of information to help you prepare. To
       get started, check out these sites:
@@ -10347,57 +10288,73 @@
     <itemizedlist>
       <listitem>
         <para>
-          <ulink url="http://www.redcross.org">www.redcross.org</ulink>In case
-          of a disaster, make certain that you have your ID, cash, debit
-          and credit cards, and a list of your account numbers and
-          insurance policy numbers. It is also helpful to have a home
-          inventory; you can create one online that you can access
-          anywhere at
-          <ulink url="http://www.knowyourstuff.org">www.knowyourstuff.org</ulink>.
+          <ulink url="http://www.disasterassistance.gov">www.disasterassistance.gov</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="http://www.fema.gov">www.fema.gov</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="http://www.ready.gov">www.ready.gov</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="http://www.redcross.org">www.redcross.org</ulink>
         </para>
       </listitem>
     </itemizedlist>
+      <para>
+      In case of a disaster, make certain that you have your ID, cash, debit
+      and credit cards, and a list of your account numbers and
+      insurance policy numbers. It is also helpful to have a home
+      inventory; you can create one online that you can access
+      anywhere at
+      <ulink url="http://www.knowyourstuff.org">www.knowyourstuff.org</ulink>.
+      </para>
     <para>
       For more detailed information about financial preparation in
       disasters see the FDIC publication,
     </para>
     <para>
-      <ulink url="http://www.fdic.gov/consumers/consumer/news/cnsum11/protectingyourfinances.html">www.fdic.gov/consumers/consumer/news/cnsum11/
-      protectingyourfinances.html.</ulink>
+      <ulink url="http://www.fdic.gov/consumers/consumer/news/cnsum11/protectingyourfinances.html">www.fdic.gov/consumers/consumer/news/cnsum11/protectingyourfinances.html</ulink>.
     </para>
-    <para>
-      FOR TEACHERS
-    </para>
+    </sect1>
+    <sect1>
+      <title>For Teachers</title>
     <para>
       Teachers often use the <emphasis>Consumer Action
       Handbook</emphasis> to teach essential information about credit,
       insurance, major purchases, complaint letters, saving and
       investing, and other consumer topics. For classroom copies of the
-      <emphasis>Handbook</emphasis>, e-mail action.handbook@gsa.gov
-      (<email>action.handbook@gsa.gov</email>); include the name and
+      <emphasis>Handbook</emphasis>, e-mail <email>action.handbook@gsa.gov</email>;
+      include the name and
       address of your school and the number of copies you would like to
       receive.
     </para>
+    </sect1>
+    <sect1>
+      <title>For Persons With Disabilities</title>
     <para>
-      FOR PERSONS WITH DISABILITIES
+      <emphasis role="strong">National Council on Disability</emphasis>
     </para>
     <para>
-      National Council on Disability
-    </para>
-    <para>
-      <ulink url="http://www.ncd.gov">www.ncd.gov</ulink>A federal agency whose
+      <ulink url="http://www.ncd.gov">www.ncd.gov</ulink> A federal agency whose
       mission is to improve the quality of life for Americans with
       disabilities and their families; see page 107.
     </para>
     <para>
-      National Disability Rights Network
+      <emphasis role="strong">National Disability Rights Network</emphasis>
     </para>
     <para>
       <ulink url="http://www.ndrn.org">www.ndrn.org</ulink> Provides legally
       based advocacy services for people with disabilities.
     </para>
     <para>
-      Department of Education
+      <emphasis role="strong">Department of Education</emphasis>
     </para>
     <para>
       <ulink url="http://www.ed.gov">www.ed.gov</ulink> Provides training and
@@ -10405,7 +10362,7 @@
       with them; see page 97.
     </para>
     <para>
-      Department of Housing and Urban Development
+      <emphasis role="strong">Department of Housing and Urban Development</emphasis>
     </para>
     <para>
       <ulink url="http://www.hud.gov/offices/fheo/disabilities">www.hud.gov/offices/fheo/disabilities</ulink>
@@ -10414,7 +10371,7 @@
       design professionals; see page 102.
     </para>
     <para>
-      National Library Service for the Blind and Physically Handicapped
+      <emphasis role="strong">National Library Service for the Blind and Physically Handicapped</emphasis>
     </para>
     <para>
       <ulink url="http://www.loc.gov/nls">www.loc.gov/nls</ulink> Administers a
@@ -10422,20 +10379,17 @@
       music scores in Braille and large print, plus specially designed
       playback equipment.
     </para>
-    <para>
-      FOR MILITARY PERSONNEL
-    </para>
+    </sect1>
+    <sect1>
+      <title>For Military Personnel</title>
     <para>
       Today’s military families face many common consumer challenges as
       well as the additional stress associated with frequent separation.
       To ease such difficulties, Family Centers, along with the other
-      programs described below,
+      programs described below, provide help and support for military families.
     </para>
     <para>
-      provide help and support for military families.
-    </para>
-    <para>
-      U.S. Military Family Centers
+      <emphasis role="strong">U.S. Military Family Centers</emphasis>
     </para>
     <para>
       Located on most military installations, Family Centers provide
@@ -10455,25 +10409,22 @@
       sector.
     </para>
     <para>
-      Air Force Community Readiness and Family Support
+      <emphasis role="strong">Air Force Community Readiness and Family Support</emphasis>
     </para>
     <para>
-      AF/A1SF 4E235, Force Sustainment Division 1040 Air Force Pentagon
-      Washington, DC 20330-1040 Phone: 703-697-0067
+      AF/A1SF 4E235, Force Sustainment Division
+    </para>
+      <para>
+     1040 Air Force Pentagon
+      </para>
+      <para>
+      Washington, DC 20330-1040
+      </para>
+      <para>
+        Phone: 703-697-0067
     </para>
     <para>
       <ulink url="http://www.afcrossroads.com">www.afcrossroads.com</ulink>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_216.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_217.jpg" />
-        </imageobject>
-      </inlinemediaobject>
     </para>
     <para>
       Air Force Crossroads is a comprehensive resource for Air Force
@@ -10485,11 +10436,22 @@
       to news sources.
     </para>
     <para>
-      Marine Corps Community Services (MCCS)
+      <emphasis role="strong">Marine Corps Community Services (MCCS)</emphasis>
     </para>
     <para>
-      3280 Russell Rd. Quantico, VA 22134-5103 703-784-0275 DSN:
-      278-0275 Toll-free: 1-800-627-4637
+      3280 Russell Rd.
+    </para>
+    <para>
+      Quantico, VA 22134-5103
+    </para>  
+    <para>  
+      703-784-0275
+    </para>
+    <para>
+      DSN: 278-0275
+    </para>
+    <para>
+      Toll-free: 1-800-627-4637
     </para>
     <para>
       <ulink url="http://www.usmc-mccs.org">www.usmc-mccs.org</ulink>
@@ -10501,14 +10463,22 @@
       Postal Services, and Personal Claims.
     </para>
     <para>
-      FedsHireVets
+      <emphasis role="strong">FedsHireVets</emphasis>
     </para>
     <para>
       Veterans Employment Program Office
     </para>
     <para>
-      U.S. Office of Personnel Management 1900 E St., NW Washington, DC
-      20415-0001 Phone: 202-606-5090
+      U.S. Office of Personnel Management
+    </para>
+      <para>
+      1900 E St., NW
+      </para>
+      <para>
+      Washington, DC 20415-0001
+      </para>
+      <para>
+      Phone: 202-606-5090
     </para>
     <para>
       <ulink url="http://www.fedshirevets.gov">www.fedshirevets.gov</ulink>
@@ -10518,15 +10488,23 @@
       information.
     </para>
     <para>
-      Fleet and Family Support Programs
+      <emphasis role="strong">Fleet and Family Support Programs</emphasis>
     </para>
     <para>
-      Commander, Navy Installations Command 716 Sicard St., SE Suite
-      1000 Washington Navy Yard, DC 20374-5140
+      Commander, Navy Installations Command
+    </para>
+      <para>
+      716 Sicard St., SE Suite 1000
+      </para>
+      <para>
+      Washington Navy Yard, DC 20374-5140
     </para>
     <para>
-      <ulink url="ffsp.navy.mil%20">ffsp.navy.mil</ulink>Visit
-      <ulink url="ffsp.navy.mil%20">ffsp.navy.mil</ulink>and submit
+      <ulink url="ffsp.navy.mil%20">ffsp.navy.mil</ulink>
+    </para>
+      <para>
+      Visit
+      <ulink url="ffsp.navy.mil%20">ffsp.navy.mil</ulink> and submit
       questions to “Sailor and Family Information &amp; Referral”.
       Response will be provided within one business day. The Fleet and
       Family Support Program delivered by Commander, Navy Installations
@@ -10538,15 +10516,25 @@
       healthy lifestyles, casualties, domestic violence, and retirement.
     </para>
     <para>
-      Family and Morale, Welfare and Recreation Command Family Programs
+      <emphasis role="strong">Family and Morale, Welfare and Recreation Command Family Programs</emphasis>
     </para>
     <para>
-      Directorate, Army Community Service 4700 King St. Alexandria, VA
-      22302 Phone: 703-681-5375 DSN: 761-5375
+      Directorate, Army Community Service
     </para>
-    <para>
-      PREDATORY LENDING RESTRICTIONS
+      <para>
+      4700 King St.
+      </para>
+      <para>
+      Alexandria, VA 22302
+      </para>
+      <para>
+      Phone: 703-681-5375
+      </para>
+      <para>
+      DSN: 761-5375
     </para>
+    <sidebar>
+      <title>Predatory Lending Restrictions</title>
     <para>
       As of October 1, 2007, the Talent-Nelson Amendment to the John
       Warner National Defense Authorization Act allows the Department of
@@ -10575,8 +10563,9 @@
       tax refund loans can propel an already overextended borrower into
       a deeper spiral of debt.
     </para>
+    </sidebar>
     <para>
-      MyArmyLifeToo
+      <emphasis role="strong">MyArmyLifeToo</emphasis>
     </para>
     <para>
       <ulink url="http://www.myarmylifetoo.com">www.myarmylifetoo.com</ulink>
@@ -10589,12 +10578,22 @@
       with links to other key resources.
     </para>
     <para>
-      U.S. Coast Guard
+      <emphasis role="strong">U.S. Coast Guard</emphasis>
     </para>
     <para>
-      2100 Second St., SW, Room 6320 Washington, DC 20593 Phone:
-      202-267-6160 Toll-free: 1-800-368-5647 (Safety) Toll-free:
-      1-877-669-8724 (Recruiting)
+      2100 Second St., SW, Room 6320
+    </para>
+      <para>
+      Washington, DC 20593
+      </para>
+      <para>
+      Phone: 202-267-6160
+      </para>
+      <para>
+      Toll-free: 1-800-368-5647 (Safety)
+      </para>
+      <para>
+      Toll-free: 1-877-669-8724 (Recruiting)
     </para>
     <para>
       <ulink url="http://www.uscg.mil">www.uscg.mil</ulink>
@@ -10606,7 +10605,7 @@
       history, photos, and reports.
     </para>
     <para>
-      Military HOMEFRONT
+      <emphasis role="strong">Military HOMEFRONT</emphasis>
     </para>
     <para>
       <ulink url="http://www.militaryhomefront.dod.mil">www.militaryhomefront.dod.mil</ulink>
@@ -10617,27 +10616,14 @@
       their families. Members of all branches of the military service
       and their families will find reliable, up-to-date details and
       advice on such topics as education, housing, legal matters,
-      parenting, personal
+      parenting, personal finances, pay and benefits, relocation, and health care. Military
+      HOMEFRONT also makes it easier for leaders to locate official
+      quality-of-life program information and resources for its troops
+      and families. In addition, service providers can access desk
+      guides, policies, forms, and other resources.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_218.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_219.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      KEY INFORMATION RESOURCES<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      BETTER BUSINESS BUREAU MILITARY LINE
-    </para>
+    <sidebar>
+      <title>Better Business Bureau Military Line</title>
     <para>
       The BBB Military Line,
       <ulink url="http://www.military.bbb.org">www.military.bbb.org,
@@ -10647,8 +10633,19 @@
       other sites with useful consumer information:
     </para>
     <para>
-      <ulink url="http://www.bbb.org/us/army">www.bbb.org/us/army</ulink><ulink url="http://www.bbb.org/us/navy">www.bbb.org/us/navy</ulink><ulink url="http://www.bbb.org/us/airforce">www.bbb.org/us/airforce</ulink><ulink url="http://www.bbb.org/us/usmc">www.bbb.org/us/usmc</ulink><ulink url="http://www.bbb.org/us/uscg">www.bbb.org/us/uscg</ulink>
+      <ulink url="http://www.bbb.org/us/army">www.bbb.org/us/army</ulink>
     </para>
+      <para>
+        <ulink url="http://www.bbb.org/us/navy">www.bbb.org/us/navy</ulink>
+      </para>
+      <para><ulink url="http://www.bbb.org/us/airforce">www.bbb.org/us/airforce</ulink>
+      </para>
+      <para>
+        <ulink url="http://www.bbb.org/us/usmc">www.bbb.org/us/usmc</ulink>
+      </para>
+      <para>
+        <ulink url="http://www.bbb.org/us/uscg">www.bbb.org/us/uscg</ulink>
+      </para>
     <para>
       Users may request reports, file complaints, and sign up for a
       custom consumer newsletter. At the local level, area BBBs provide
@@ -10656,15 +10653,9 @@
       and work with local businesses to promote ethical treatment of
       military consumers.
     </para>
+    </sidebar>
     <para>
-      finances, pay and benefits, relocation, and health care. Military
-      HOMEFRONT also makes it easier for leaders to locate official
-      quality-of-life program information and resources for its troops
-      and families. In addition, service providers can access desk
-      guides, policies, forms, and other resources.
-    </para>
-    <para>
-      Military Sentinel
+      <emphasis role="strong">Military Sentinel</emphasis>
     </para>
     <para>
       <ulink url="http://www.ftc.gov/sentinel/military">www.ftc.gov/sentinel/military</ulink>
@@ -10684,13 +10675,16 @@
       families from consumer protection–related problems.
     </para>
     <para>
-      Military OneSource
+      <emphasis role="strong">Military OneSource</emphasis>
     </para>
     <para>
       <ulink url="http://www.militaryonesource.com">www.militaryonesource.com</ulink>
     </para>
     <para>
-      Toll-free: 1-800-342-9647 Military OneSource is an excellent hub
+      Toll-free: 1-800-342-9647
+    </para>
+      <para>
+      Military OneSource is an excellent hub
       of information and assistance for military personnel and their
       families. This 24/7 resource offers a variety of services and
       tools to meet the special needs and improve the lives of service
@@ -10703,7 +10697,7 @@
       resolve problems.
     </para>
     <para>
-      Commissaries and Exchanges
+      <emphasis role="strong">Commissaries and Exchanges</emphasis>
     </para>
     <para>
       Consumers who shop at military commissaries and exchanges and who
@@ -10715,7 +10709,7 @@
       headquarters.
     </para>
     <para>
-      Wounded Warrior Resource Center
+      <emphasis role="strong">Wounded Warrior Resource Center</emphasis>
     </para>
     <para>
       <ulink url="http://www.woundedwarriorresourcecenter.com">www.woundedwarriorresourcecenter.com</ulink>
@@ -10727,14 +10721,12 @@
       services, and benefits. It supports access to the Wounded Warrior
       Resource Call Center and trained specialists who are available 24
       hours a day, seven days a week by phone at 1-800-342-9647 or by
-      e-mail at wwrc@militaryonesource.
-      (<email>wwrc@militaryonesource.com</email>)com
-      (<email>wwrc@militaryonesource.com</email>). Information is also
+      e-mail at <email>wwrc@militaryonesource.com</email>. Information is also
       available on how to connect to other families for support and
       recreation.
     </para>
     <para>
-      National Resource Directory
+      <emphasis role="strong">National Resource Directory</emphasis>
     </para>
     <para>
       <ulink url="http://www.nationalresourcedirectory.gov">www.nationalresourcedirectory.gov</ulink>
@@ -10753,42 +10745,21 @@
       nonprofit, community-based, and philanthropic organizations;
       professional associations; and academic institutions.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_220.jpg" />
-        </imageobject>
-      </inlinemediaobject>HELP FROM THE CONSUMER FINANCIAL<literallayout>
-</literallayout> <literallayout>
-</literallayout>PROTECTION BUREAU<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
+    <sidebar>
+      <title>Help From The Consumer Financial Protection Bureau</title>
     <para>
       The Consumer Financial Protection Bureau (CFPB)
-    </para>
-    <para>
       offers resources specifically for service members and
-    </para>
-    <para>
       their families. The Office of Service Member Affairs is
-    </para>
-    <para>
       dedicated to helping military personnel to plan for their
-    </para>
-    <para>
       financial futures and protect themselves from frauds
-    </para>
-    <para>
       that are targeted at military communities.
     </para>
     <para>
       For more information visit,
+      <ulink url="http://www.consumerfinance.gov/servicemembers">www.consumerfinance.gov/servicemembers</ulink>.
     </para>
-    <para>
-      <ulink url="http://www.consumerfinance.gov/servicemembers">www.consumerfinance.gov/servicemembers.</ulink>
-    </para>
-    <para>
+    </sidebar>
       <inlinemediaobject>
         <imageobject>
           <imagedata fileref="images/pdf5131_img_221.jpg" />
