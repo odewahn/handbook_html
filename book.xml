@@ -5672,38 +5672,25 @@
         <para>
           Find out what others think about the company’s customer
           service. Consumers can rate homeowner insurance companies at
-          <ulink url="http://www.jdpower.com/insurance">www.jdpower.com/insurance.</ulink>
+          <ulink url="http://www.jdpower.com/insurance">www.jdpower.com/insurance</ulink>.
         </para>
       </listitem>
-    </itemizedlist>
+    <listitem>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_108.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_109.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_110.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      • Once you pay your first insurance premium, make sure you receive
+      Once you pay your first insurance premium, make sure you receive
       a written policy. This tells you that the agent forwarded your
       premium to the insurance company. If you don’t receive a policy
       within 60 days, contact your agent and the insurance company.
     </para>
+    </listitem>
+      </itemizedlist>
     <para>
       If you suspect fraud, call the National Insurance Crime Bureau’s
       hotline, 1-800-835-6422. For more information, check out
       <ulink url="http://www.insurancefraud.org">www.insurancefraud.org</ulink>.
     </para>
-    <para>
-      AUTO INSURANCE
+    <sect1>
+      <title>Auto Insurance</title>
     </para>
     <para>
       The requirements for auto insurance vary from state to state.
@@ -5742,8 +5729,9 @@
       You can also find valuable information about car ownership in Cars
       (p. 11), as well as information about insurance for rental cars.
     </para>
-    <para>
-      DISABILITY INSURANCE
+    </sect1>
+    <sect1>
+      <title>Disability Insurance</title>
     </para>
     <para>
       Disability can be more disastrous financially than death. If you
@@ -5775,13 +5763,8 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_111.jpg" />
-        </imageobject>
-      </inlinemediaobject>INSURANCE VOCABULARY
-    </para>
+    <sidebar>
+      <title>Insurance Vocabulary</title>
     <para>
       <emphasis role="strong">Claim</emphasis>—a request for your
       insurance provider to pay for services provided by a medical
@@ -5800,20 +5783,14 @@
     </para>
     <para>
       <emphasis role="strong">Explanation of benefits (EOB)</emphasis>—a
-      statement from<literallayout>
-</literallayout> <literallayout>
-</literallayout>your health insurance company that shows what<literallayout>
-</literallayout> <literallayout>
-</literallayout>claims it has paid on your behalf<literallayout>
-</literallayout> <literallayout>
-</literallayout>Visit
-      <ulink url="http://www.HealthCare.gov">www.HealthCare.gov</ulink> for
-      more important<literallayout>
-</literallayout> <literallayout>
-</literallayout>definitions related to health insurance.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      statement from your health insurance company that shows what 
+      claims it has paid on your behalf
+</para>
+<para>
+      Visit <ulink url="http://www.HealthCare.gov">www.HealthCare.gov</ulink> for
+      more important definitions related to health insurance.
     </para>
+    </sidebar>
     <itemizedlist>
       <listitem>
         <para>
@@ -5838,18 +5815,17 @@
       For more information on disability insurance, visit
       <ulink url="http://www.iii.org">www.iii.org</ulink>.
     </para>
-    <para>
-      HEALTH INSURANCE
-    </para>
-    <para>
-      Affordable Care Act
-    </para>
+    </sect1>
+    <sect1>
+      <title>Health Insurance</title>
+    <sect2>
+      <title>Affordable Care Act</title>
     <para>
       The 2010 Affordable Care Act (ACA) puts in place comprehensive
       health insurance reforms that will roll out over several years.
       Most provisions will take effect by 2014; a timeline is available
       at
-      <ulink url="healthcare.gov/law/timeline">healthcare.gov/law/timeline.</ulink>The
+      <ulink url="healthcare.gov/law/timeline">healthcare.gov/law/timeline</ulink>. The
       law is intended to lower health care costs, provide more health
       care choices, and enhance the quality of health care for all
       Americans. Major provisions affecting consumers include:
@@ -5886,64 +5862,54 @@
           Medicaid.
         </para>
       </listitem>
-    </itemizedlist>
+    <listitem>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_112.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_113.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      • In 2013, you can set aside up to $2,500 in a flexible spending
+      In 2013, you can set aside up to $2,500 in a flexible spending
       account (FSA) for medical expenses that aren’t covered by
       insurance.
     </para>
+    </listitem>
+    </itemizedlist>
     <para>
       For more information about the law as well as basic information
       about health insurance, go to
       <ulink url="http://www.healthcare.gov">www.healthcare.gov</ulink>.
     </para>
-    <para>
-      Group Policies
-    </para>
+    </sect2>
+    <sect2>
+      <title>Group Policies</title>
     <para>
       Many consumers have health care coverage from their employers.
       Others have medical care paid through a government program such as
-      Medicare (p. 100), Medicaid
+      Medicare (p. 100), Medicaid (p. 100), or the Veterans Health 
+      Administration (p. 105).
     </para>
     <para>
-      (p. 100), or the Veterans Health Administration (p. 105). If you
-      have lost your group coverage from an employer as the result of
+      If you have lost your group coverage from an employer as the result of
       unemployment, death, divorce, or loss of “dependent child” status,
       you may be able to continue your coverage temporarily under the
       Consolidated Omnibus Budget Reconciliation Act (COBRA). You, not
-      the employer, pay for this coverage. When one of these
+      the employer, pay for this coverage. When one of these events 
+      occurs, you must be given at least 60 days to decide
+      whether you wish to purchase the coverage.
     </para>
-    <para>
-      events occurs, you must be given at least 60 days to decide
-      whether you wish to purchase the coverage. Some states offer an
-      insurance pool to residents who are
-    </para>
-    <para>
-      unable to obtain coverage because of a health condition. To find
+      <para>
+      Some states offer an
+      insurance pool to residents who are unable to obtain coverage 
+      because of a health condition. To find
       out whether a pool is available in your state, check with your
       state department of insurance (p. 130).
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_114.jpg" />
+      <informalfigure>
+        <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_23.png" format="PNG"/>
         </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Medicare and Medicaid
-    </para>
+      </mediaobject>
+      </informalfigure>
+    </sect2>
+    <sect2>
+      <title>Medicare and Medicaid</title>
     <para>
       There are also health insurance programs for people who are
       seniors, disabled, or have low incomes.
@@ -5965,21 +5931,20 @@
       </listitem>
     </itemizedlist>
     <para>
-      Contact the Centers for Medicare &amp; Medicaid Services
+      Contact the Centers for Medicare &amp; Medicaid Services 
+      (p. 100) for more information on benefits.
     </para>
     <para>
-      (p. 100) for more information on benefits. Most states also offer
+      Most states also offer
       free or low-cost coverage for children who do not have health
-      insurance.
-    </para>
-    <para>
-      Visit
+      insurance. Visit
       <ulink url="http://www.insurekidsnow.gov">www.insurekidsnow.gov</ulink>
       or call 1-877-KIDS-NOW (543-7669) for more information.
     </para>
-    <para>
-      HEALTH CARE PLANS
-    </para>
+    </sect2>
+    </sect1>
+      <sect1>
+    <title>Health Care Plans</title>
     <para>
       When purchasing health insurance, your choices typically will fall
       into one of three categories:
@@ -5995,12 +5960,8 @@
       </listitem>
       <listitem>
         <para>
-          Health maintenance organizations (HMOs)
-        </para>
-      </listitem>
-    </itemizedlist>
-    <para>
-      offer lower co-payments and cover the costs of more preventive
+          <emphasis role="strong">Health maintenance organizations (HMOs)</emphasis> 
+          offer lower co-payments and cover the costs of more preventive
       care, but your choice of health care providers is limited. The
       National Committee for Quality Assurance evaluates and accredits
       HMOs. You can find out whether one is accredited in your state by
@@ -6008,15 +5969,19 @@
       as report cards on HMOs, by visiting
       <ulink url="http://www.ncqa.org">www.ncqa.org</ulink>.
     </para>
+      </listitem>
+      <listitem>
     <para>
-      • <emphasis role="strong">Preferred provider organizations
+      <emphasis role="strong">Preferred provider organizations
       (PPOs)</emphasis> offer lower co-payments like HMOs, but give you
       more flexibility in selecting a provider. A PPO gives you a list
       of providers you can choose from.
     </para>
+      </listitem>
+    </itemizedlist>
     <para>
-      WARNING: If you go outside the HMO or PPO network of providers,
-      you may have to pay a portion or all of the cost.
+      <emphasis role="strong">WARNING: If you go outside the HMO or PPO network of providers,
+        you may have to pay a portion or all of the cost.</emphasis>
     </para>
     <para>
       When choosing among different health care plans, you’ll need to
@@ -6070,9 +6035,9 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      HOMEOWNERS/RENTERS INSURANCE
-    </para>
+      </sect1>
+    <sect1>
+      <title>Homeowners/Renters Insurance</title>
     <para>
       You may be able to save hundreds of dollars a year on homeowners
       insurance by shopping around. You can also save money by following
@@ -6091,32 +6056,10 @@
           Ask your insurance agent about discounts. You may be able to
           get a lower premium if your home has safety features such as
           dead-bolt locks, smoke detectors, an alarm system, storm
-          shutters, or fire-retardant roofing
-        </para>
-      </listitem>
-    </itemizedlist>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_115.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_116.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_117.jpg" />
-        </imageobject>
-      </inlinemediaobject>
+          shutters, or fire-retardant roofing material. Persons over 
+          55 years of age or long-term customers may also be offered discounts.
     </para>
-    <para>
-      material. Persons over 55 years of age or long-term
-    </para>
-    <para>
-      customers may also be offered discounts.
-    </para>
-    <itemizedlist>
+    </listitem>
       <listitem>
         <para>
           Insure your house, NOT the land under it. After a disaster,
@@ -6154,21 +6097,20 @@
           standard homeowners policy. The cost of a separate earthquake
           policy will depend on the likelihood of earthquakes in your
           area. Homeowners who live in areas prone to flooding should
-          take advantage of the National Flood Insurance Program
+          take advantage of the National Flood Insurance Program (p. 102).
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          If you are a renter, do not assume your landlord carries
+          insurance on your personal belongings. Purchase a separate policy
+          for renters.
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      (p. 102).
-    </para>
-    <para>
-      • If you are a renter, do not assume your landlord carries
-      insurance on your personal belongings. Purchase a separate policy
-      for renters.
-    </para>
-    <para>
-      LIFE INSURANCE
-    </para>
+    </sect1>
+    <sect1>
+      <title>Life Insurance</title>
     <para>
       Your need for life insurance will change with changes in your
       life. For example, the arrival of children usually triggers a
@@ -6196,30 +6138,20 @@
       If you have misplaced a life insurance policy, your state’s
       insurance commission may be able to help you locate it. Or you can
       search for it at
-      <ulink url="http://www.policylocator.org">www.policylocator.org. If
-      the</ulink>insurance company knows that an insured person has
+      <ulink url="http://www.policylocator.org">www.policylocator.org</ulink>. If
+      the insurance company knows that an insured person has
       died, but cannot locate the beneficiaries, the company must turn
-      the benefits over to the state’s unclaimed
+      the benefits over to the state’s unclaimed property office. Check 
+      with that office if you believe that you are due a benefit.
     </para>
-    <para>
-      property office. Check with that office if you believe that<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      <para>
+      You can avoid losing your life insurance policy by
+      alerting the policy beneficiaries and filing a copy with your
+      will.
     </para>
-    <para>
-      you are due a benefit.<literallayout>
-</literallayout> <literallayout>
-</literallayout>You can avoid losing your life insurance policy by
-      alerting<literallayout>
-</literallayout> <literallayout>
-</literallayout>the policy beneficiaries and filing a copy with your
-      will.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      LONG-TERM CARE INSURANCE
-    </para>
+    </sect1>
+    <sect1>
+      <title>Long-Term Care Insurance</title>
     <para>
       Medical advances have resulted in greater need for nursing home
       care and assisted living. Most health insurance plans and Medicare
@@ -6281,23 +6213,19 @@
       </listitem>
       <listitem>
         <para>
-          Is there a waiting period before benefits begin?
-        </para>
+          <emphasis role="strong">Is there a waiting period before benefits begin?</emphasis> 
+          A 20- to 100-day period is not unusual. See page 26 for more 
+          information about advance medical directives.
+    </para>
       </listitem>
     </itemizedlist>
-    <para>
-      A 20- to 100-day period is not unusual. See page 26 for
-    </para>
-    <para>
-      more information about advance medical directives.
-    </para>
-    <para>
-      OTHER INSURANCE
-    </para>
+    </sect1>
+    <sect1>
+      <title>Other Insurance</title>
     <itemizedlist>
       <listitem>
         <para>
-          Travel Insurance. There are four kinds of travel insurance:
+          <emphasis role="strong">Travel Insurance.</emphasis> There are four kinds of travel insurance:
           Travel Cancellation Insurance, Baggage or Personal Effects
           Coverage, Emergency Medical Coverage, and Accidental Death. To
           learn more, a helpful website is
@@ -6309,30 +6237,14 @@
       <listitem>
         <para>
           <emphasis role="strong">Dental and Vision
-          Insurance.</emphasis>Some companies that offer health
+          Insurance.</emphasis> Some companies that offer health
           insurance plans may also allow employees to purchase separate
           dental and vision plans, which are not part of most standard
           health plans. Contact your state insurance commission (p. 130)
-          or
-        </para>
+          or individual insurance companies to find out more about purchasing
+          dental and vision insurance.
+    </para>
       </listitem>
-    </itemizedlist>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_118.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_119.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      individual insurance companies to find out more about purchasing
-      dental and vision insurance.
-    </para>
-    <itemizedlist>
       <listitem>
         <para>
           <emphasis role="strong">Identity Theft Insurance</emphasis>.
@@ -6378,13 +6290,17 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_120.jpg" />
+    </sect1>
+    </chapter>
+    <chapter id="investing">
+      <title>Investing</title>
+      <informalfigure>
+        <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_24.png" format="PNG" />
         </imageobject>
-      </inlinemediaobject>
-    </para>
+      </mediaobject>
+      </informalfigure>
     <para>
       If you have a financial goal in mind, such as saving for
       retirement, paying for college, or buying a new house, then you
@@ -6399,27 +6315,27 @@
       Make sure you have answers to all of these questions before you
       invest:
     </para>
-    <para>
-      • How quickly can you get your money back?
-    </para>
-    <para>
+      <itemizedlist>
+        <listitem>
+      <para>
+        <emphasis role="strong">How quickly can you get your money back?</emphasis>
       Stocks, bonds, and shares in mutual funds usually can be sold at
       any time, but there is no guarantee you will get back all the
       money you paid for them. Other investments, such as limited
       partnerships, certificates of deposit (CDs), or IRAs, often
       restrict your ability to cash out your holdings.
     </para>
+        </listitem>
+        <listitem>
     <para>
-      • What can you expect to earn on your money?
-    </para>
-    <para>
+      <emphasis role="strong">What can you expect to earn on your money?</emphasis>
       While bonds generally promise a fixed return, earnings on most
       other securities go up and down with market changes. Keep in mind
       that just because an investment has done well in the past, there
       is no guarantee it will do well in the future.
     </para>
-    <itemizedlist>
-      <listitem>
+        </listitem>
+          <listitem>
         <para>
           <emphasis role="strong">What type of earnings can you
           expect?</emphasis> Will you get income in the form of
@@ -6454,7 +6370,7 @@
       <listitem>
         <para>
           <emphasis role="strong">Are there any tax advantages to a
-          particular investment?</emphasis>U.S. Savings Bonds are exempt
+          particular investment?</emphasis> U.S. Savings Bonds are exempt
           from state and local taxes. Municipal bonds are exempt from
           federal income tax and, sometimes, state income tax as well.
           Tax-deferred investments for special goals, such as paying for
@@ -6480,69 +6396,103 @@
     <para>
       The Financial Industry Regulatory Authority (FINRA) also provides
       up-to-date market data and information for a wide range of stocks,
-      bonds, mutual funds, and other
+      bonds, mutual funds, and other securities through its Market Data Center at 
+      <ulink url="http://www.finra.org/marketdata">www.finra.org/marketdata</ulink>.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_121.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_122.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_123.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_124.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      securities through its Market Data Center at<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      <ulink url="http://www.finra.org/marketdata">www.finra.org/marketdata</ulink>.<literallayout>
-</literallayout><literallayout>
-</literallayout>The following companies rate the financial condition of<literallayout>
-</literallayout> <literallayout>
-</literallayout>corporations and municipalities issuing bonds. Their<literallayout>
-</literallayout> <literallayout>
-</literallayout>ratings are available online and at many public
-      libraries:<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      <sidebar>
+        <title>Beware: Investment Fraud</title>
+        <para>
+          Deceptive pitches for investments often misrepresent or leave 
+          out facts to promote fantastic profits with little risk. No 
+          investment is risk-free, and a high rate of return means 
+          greater risk. Before investing, get written information such 
+          as a prospectus or annual report. Beware if a salesperson:
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>
+              Encourages you to borrow money or cash in retirement funds to invest
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Pressures you to invest immediately
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Promises quick profits
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Says the disclosure documents required by federal law are just a formality
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Tells you to write false information on your account form
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Sends material with typos or misspellings or not printed on letterhead
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Does not send your money promptly
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Offers to share inside information
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Uses words such as “guarantee,” “high return,” “limited offer,” or “as safe as a CD”
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Claims that “off-shore investments are tax-free and confidential”
+            </para>
+          </listitem>
+        </itemizedlist>
+      <para>
+        If you need more information or have an investment advisor problem you are 
+        unable to resolve directly, you can contact the SEC (p. 108) or FINRA (p. 144).
+      </para>
+      </sidebar>
+<para>
+  The following companies rate the financial condition of 
+  corporations and municipalities issuing bonds. Their 
+  ratings are available online and at many public libraries:
     </para>
     <itemizedlist>
       <listitem>
         <para>
-          <ulink url="http://www.standardandpoors.com">Standard &amp; Poor’s
-          (www.standardandpoors.com</ulink>)
+          Standard &amp; Poor’s (<ulink url="http://www.standardandpoors.com"/>)
         </para>
       </listitem>
       <listitem>
         <para>
-          <ulink url="http://www.moodys.com">Moody’s Investors Services
-          (www.moodys.com</ulink>) For ratings of mutual funds, consult
-          personal finance magazines such as <emphasis>Kiplinger’s
-          Personal Finance</emphasis>,<emphasis>Money</emphasis>,
-          <emphasis>Consumer Reports</emphasis>,<emphasis>Smart
-          Money</emphasis>, and <emphasis>Worth</emphasis>. To compare
+          Moody’s Investors Services (<ulink url="http://www.moodys.com"/>) 
         </para>
       </listitem>
     </itemizedlist>
     <para>
+      For ratings of mutual funds, consult
+      personal finance magazines such as <emphasis>Kiplinger’s
+      Personal Finance</emphasis>,<emphasis>Money</emphasis>,
+      <emphasis>Consumer Reports</emphasis>,<emphasis>Smart
+      Money</emphasis>, and <emphasis>Worth</emphasis>. To compare
       expenses, use the FINRA Mutual Fund Expense Analyzer at
       <ulink url="apps.finra.org/fundanalyzer/1/fa.aspx">apps.finra.org/fundanalyzer/1/fa.aspx</ulink>.
     </para>
-    <para>
-      ONLINE TRADING
-    </para>
+    <sect1>
+      <title>Online Trading</title>
     <para>
       Stocks can be bought and sold with a mouse click from a wide range
       of online brokers, often with low transaction fees. However, the
@@ -6554,34 +6504,42 @@
     <itemizedlist>
       <listitem>
         <para>
+          Knowing what you’re buying
+        </para>
+      </listitem>
+      <listitem>
+        <para>
           Understanding why you’re buying or selling
         </para>
       </listitem>
       <listitem>
         <para>
-          Being aware of how quickly trading changes during fast
+          Being aware of how quickly trading changes during fast markets
         </para>
       </listitem>
     </itemizedlist>
     <para>
-      markets Like other purchases, you should set a price limit, to
+      Like other purchases, you should set a price limit, to
       avoid buying or selling at prices above or lower than you wanted.
       For more detailed information about online investing, visit
       <ulink url="http://www.investor.gov">www.investor.gov</ulink>.
     </para>
-    <para>
-      FINANCIAL BROKERS AND ADVISORS
+    </sect1>
+    <sect1>
+      <title>Financial Brokers and Advisors</title>
     </para>
     <para>
       When selecting a broker or investment advisor, research the
       person’s education and professional history as well as the firm
       the person works for. Ask:
     </para>
-    <para>
-      • Has the person worked with others who have circumstances similar
+      <itemizedlist>
+        <listitem>
+      <para>
+      Has the person worked with others who have circumstances similar
       to yours?
     </para>
-    <itemizedlist>
+        </listitem>
       <listitem>
         <para>
           Is the person licensed in your state? Your state securities
@@ -6598,7 +6556,7 @@
           serious complaints from investors? Call your local state
           securities regulator or the SEC (p. 108). You can also check
           out
-          <ulink url="http://www.finra.org/brokercheck">www.finra.org/brokercheck</ulink>to
+          <ulink url="http://www.finra.org/brokercheck">www.finra.org/brokercheck</ulink> to
           find licensing, employment, and disciplinary information.
         </para>
       </listitem>
@@ -6617,9 +6575,11 @@
       </listitem>
     </itemizedlist>
     <para>
-      Additional organizations that could be helpful are:
+      <emphasis role="strong">Additional organizations that could be helpful are:</emphasis>
     </para>
-    <para>
+      <itemizedlist>
+        <listitem>
+      <para>
       The Commodity Futures Trading Commission (CFTC) provides consumer
       alerts and advisories. Visit
       <ulink url="http://www.cftc.gov/ConsumerProtection">www.cftc.gov/ConsumerProtection</ulink>.
@@ -6631,36 +6591,23 @@
       ask a question, report information, or submit a complaint, contact
       the CFTC (p. 108).
     </para>
-    <itemizedlist>
+    </listitem>
       <listitem>
         <para>
           Both the North American Securities Administrators Association
-          and the National Futures Association
+          and the National Futures Association (p. 146) can offer helpful information.
         </para>
       </listitem>
-      <listitem>
-        <para>
-          (p. 146) can offer helpful information.
-        </para>
-      </listitem>
-    </itemizedlist>
+    <listitem>
     <para>
       FINRA (p. 144) provides a dispute resolution program among
       investors, brokers, and brokerage firms.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_125.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_126.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      INVESTING IN GOLD AND COMMODITIES
+    </listitem>
+      </itemizedlist>
+    </sect1>
+    <sect1>
+      <title>Investing in Gold and Commodities</title>
     </para>
     <para>
       Many financial experts recommend buying gold as part of a balanced
@@ -6686,11 +6633,11 @@
       the National Futures Association (NFA). The CFTC also provides
       additional information about investing in gold and other
       commodities at
-      <ulink url="http://www.cftc.gov/ConsumerProtection/FraudAwarenessPrevention/CFTCFraudAdvisories">www.cftc.gov/ConsumerProtection/
-      FraudAwarenessPrevention/CFTCFraudAdvisories.</ulink>
+      <ulink url="http://www.cftc.gov/ConsumerProtection/FraudAwarenessPrevention/CFTCFraudAdvisories">www.cftc.gov/ConsumerProtection/FraudAwarenessPrevention/CFTCFraudAdvisories.</ulink>
     </para>
-    <para>
-      RETIREMENT PLANNING
+    </sect1>
+    <sect1>
+      <title>Retirement Planning</title>
     </para>
     <para>
       Part of smart investing is planning for retirement. The average
@@ -6715,83 +6662,149 @@
     </para>
     <informaltable>
       <tgroup cols="3">
-        <colspec align="left" />
-        <colspec align="left" />
-        <colspec align="left" />
         <thead>
           <row>
             <entry>
-              TYPE OF INVESTMENT
+              Type of investment
             </entry>
             <entry>
-              WHAT IS IT?
+              What is it?
             </entry>
             <entry>
-              RISK LEVEL
+              Risk level
             </entry>
           </row>
         </thead>
         <tbody>
           <row>
             <entry>
-              Traditional IRA Roth IRA Money Market Funds Bonds and Bond
-              Funds Index Funds Stocks Mutual Funds Market-linked CDs
-              (or structured cds) Commodities
+              Traditional IRA
             </entry>
             <entry>
               Traditional IRA is a personal savings plan that gives tax
               advantages for savings for retirement. Investments may
               include a variety of securities. Contributions may be
               tax-deductible; earnings are not taxed until distributed.
+            </entry>
+            <entry>
+              Risk levels vary according to the holdings in the IRA.
+            </entry>
+          </row>
+          <row>
+            <entry>
+              Roth IRA
+            </entry>
+            <entry>
               A personal savings plan where earnings that remain in the
               account are not taxed. Investments may include a variety
               of securities. Contributions are not tax-deductible.
+            </entry>
+            <entry>
+              Risk levels vary according to the holdings in the IRA.
+            </entry>
+          </row>
+          <row>
+            <entry>
+              Money Market Funds
+            </entry>
+            <entry>
               Mutual funds that invest in short-term bonds. Usually pay
               better interest rates than a savings account but not as
-              much as a certificate of deposit (CD). Also known as
+              much as a certificate of deposit (CD).
+            </entry>
+            <entry>
+              Low risk.
+            </entry>
+          </row>
+          <row>
+            <entry>
+              Bonds and Bond Funds
+            </entry>
+            <entry>
+              Also known as
               fixed-income securities because the income they pay is
               fixed when the bond is sold. Bonds and bond funds invest
-              in corporate or government debt obligations. Invest in a
+              in corporate or government debt obligations.
+            </entry>
+            <entry>
+              Low risk.
+            </entry>
+          </row>
+          <row>
+            <entry>
+              Index Funds
+            </entry>
+            <entry>
+              Invest in a
               particular market index such as the S&amp;P 500 or the
               Russell 2000. An index fund is managed passively and
               mirrors the performance of the designated stock or bond
-              index. Stocks represent a share of a company. As the
+              index.
+            </entry>
+            <entry>
+              Risk level depends on which index the fund
+              uses. A bond index fund involves a lower risk level than
+              an index fund of emerging markets overseas.
+            </entry>
+          </row>
+          <row>
+            <entry>
+              Stocks
+            </entry>
+            <entry>
+              Stocks represent a share of a company. As the
               company’s value rises or falls, so does the value of the
-              stock. Invest in a variety of securities, which may
+              stock.
+            </entry>
+            <entry>
+              Medium to high risk.
+            </entry>
+          </row>
+          <row>
+            <entry>
+              Mutal Funds
+            </entry>
+            <entry>
+              Invest in a variety of securities, which may
               include stocks, bonds, and/or money market securities.
-              Costs and objectives vary. Returns are linked to the
+              Costs and objectives vary.
+            </entry>
+            <entry>
+              Risk levels vary according to the holdings in the
+              mutual fund.
+            </entry>
+          </row>
+          <row>
+            <entry>
+              Market-linked CDs (or structured cds)
+            </entry>
+            <entry>
+              Returns are linked to the
               future performance of a market index and may include
               stocks, bonds, foreign currency, or other assets. These
               are designed for long-term commitment (up to 20 years).
+            </entry>
+            <entry>
+              Medium to high risk.
+            </entry>
+          </row>
+          <row>
+            <entry>
+              Commodities
+            </entry>
+            <entry>
               Physical commodities, such as an agricultural product or a
               natural resource (like gold). A futures contract is an
               agreement to purchase or sell a commodity for delivery in
               the future.
             </entry>
             <entry>
-              Risk levels vary according to the holdings in the IRA.
-              Risk levels vary according to the holdings in the IRA. Low
-              risk. Low risk. Risk level depends on which index the fund
-              uses. A bond index fund involves a lower risk level than
-              an index fund of emerging markets overseas. Medium to high
-              risk. Risk levels vary according to the holdings in the
-              mutual fund. Medium to high risk. High risk.
+              High risk.
             </entry>
           </row>
         </tbody>
       </tgroup>
     </informaltable>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_127.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_128.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
     <para>
       As you approach retirement, there are many factors to consider.
       Experts advise that you will need about 80% of your pre-retirement
@@ -6824,80 +6837,69 @@
       </listitem>
       <listitem>
         <para>
-          If you have a financial advisor, talk to him or her about
+          If you have a financial advisor, talk to him or her about your plans.
         </para>
       </listitem>
     </itemizedlist>
     <para>
-      your plans. In addition to planning to maintain your lifestyle
+      In addition to planning to maintain your lifestyle
       during retirement, you may need to purchase long-term health
-      insurance (p. 34) or to pay for assisted-living services
+      insurance (p. 34) or to pay for assisted-living services (p. 25).
     </para>
     <para>
-      (p. 25).
+      <emphasis role="strong">For more information go to:</emphasis>
     </para>
-    <para>
-      For more information go to:
-    </para>
-    <para>
-    </para>
-    <para>
+      <itemizedlist>
+        <listitem>
+      <para>
       AARP: <ulink url="http://www.aarp.org">www.aarp.org</ulink>
     </para>
+        </listitem>
+        <listitem>
     <para>
       American Savings Education Council:
       <ulink url="http://www.asec.org">www.asec.org</ulink>
     </para>
-    <itemizedlist>
+        </listitem>
       <listitem>
         <para>
-          Certified Financial Planner Board of Standards:
-        </para>
-      </listitem>
-    </itemizedlist>
-    <itemizedlist>
-      <listitem>
-        <para>
+          Certified Financial Planner Board of Standards: 
           <ulink url="http://www.investopedia.com/university/retirement">www.investopedia.com/university/retirement</ulink>
         </para>
       </listitem>
-    </itemizedlist>
+      <listitem>
     <para>
       U.S. Department of Labor:
       <ulink url="http://www.dol.gov/ebsa">www.dol.gov/ebsa</ulink>
     </para>
-    <itemizedlist>
+    </listitem>
       <listitem>
         <para>
-          The Investor’s Clearinghouse:
-        </para>
-      </listitem>
-      <listitem>
-        <para>
+          The Investor’s Clearinghouse: 
           <ulink url="http://www.investoreducation.org">www.investoreducation.org</ulink>
         </para>
       </listitem>
-    </itemizedlist>
+      <listitem>
     <para>
-      <ulink url="MyMoney.gov">MyMoney.gov</ulink>:
+      MyMoney.gov: 
       <ulink url="http://www.mymoney.gov">www.mymoney.gov</ulink>
     </para>
-    <itemizedlist>
+    </listitem>
       <listitem>
         <para>
-          Securities and Exchange Commission:
+          Securities and Exchange Commission: <ulink url="http://www.investor.gov">www.investor.gov</ulink>
         </para>
       </listitem>
-    </itemizedlist>
+    <listitem>
     <para>
-    </para>
-    <para>
-      Social Security Administration:
-    </para>
-    <para>
+      Social Security Administration: 
       <ulink url="http://www.socialsecurity.gov">www.socialsecurity.gov</ulink>
     </para>
-    <para>
+    </listitem>
+      </itemizedlist>
+    </sect1>
+    </chapter>
+    <chapter id="">
       <inlinemediaobject>
         <imageobject>
           <imagedata fileref="images/pdf5131_img_129.jpg" />
