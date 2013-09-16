@@ -4271,7 +4271,7 @@
       <ulink url="http://www.Docinfo.org">www.docinfo.org</ulink> and
       <ulink url="http://www.mdnationwide.org">www.mdnationwide.org</ulink>.
       Visit
-      <ulink url="http://www.healthfinder.gov">www.healthfinder.gov</ulink>and
+      <ulink url="http://www.healthfinder.gov">www.healthfinder.gov</ulink> and
       <ulink url="http://www.ahrq.gov/consumer">www.ahrq.gov/consumer</ulink>
       for more advice on identifying providers.
     </para>
@@ -4609,6 +4609,7 @@
       visit <ulink url="http://www.medlineplus.gov">www.medlineplus.gov</ulink>
       or <ulink url="http://www.ucaoa.org">www.ucaoa.org</ulink>.
     </para>
+      </sidebar>
     <para>
       Remember to finish your entire prescription, since some illnesses
       require treatment to continue past the time when symptoms go away.
@@ -4632,35 +4633,19 @@
     <para>
       If you suspect a site is not a licensed pharmacy, report it and
       any complaints to the Food and Drug Administration (p. 100) at
-      <ulink url="http://www.fda.gov/Safety/ReportaProblem/ucm059315.htm">www.fda.gov/Safety/ReportaProblem/<literallayout>
-</literallayout> <literallayout>
-</literallayout></ulink>
+      <ulink url="http://www.fda.gov/Safety/ReportaProblem/ucm059315.htm">www.fda.gov/Safety/ReportaProblem/ucm059315.htm</ulink>.
     </para>
     <para>
-      ucm059315.htm.<literallayout>
-</literallayout><literallayout>
-</literallayout>Want to know the side effects of a particular
-      medication?<literallayout>
-</literallayout> <literallayout>
-</literallayout>Curious whether a drug has been approved by the FDA?<literallayout>
-</literallayout> <literallayout>
-</literallayout>For answers to these questions and other information<literallayout>
-</literallayout> <literallayout>
-</literallayout>on approved prescription and over-the-counter and<literallayout>
-</literallayout> <literallayout>
-</literallayout>di<ulink url="http://www.accessdata.fda.gov/scripts/cder/drugsatfda/">scontinued
-      drugs, visit www.accessdata.fda.gov/<literallayout>
-</literallayout> <literallayout>
-</literallayout></ulink>scripts/cder/drugsatfda. For general drug
-      information,<literallayout>
-</literallayout> <literallayout>
-</literallayout>you can also contact the FDA (p. 100).<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Want to know the side effects of a particular
+      medication? Curious whether a drug has been approved by the FDA? 
+      For answers to these questions and other information on approved 
+      prescription and over-the-counter and discontinued
+      drugs, visit <ulink url="http://www.accessdata.fda.gov/scripts/cder/drugsatfda/">www.accessdata.fda.gov/scripts/cder/drugsatfda</ulink>. 
+      For general drug information, you can also contact the FDA (p. 100).
     </para>
-    <para>
-      MEDICARE PRESCRIPTION DRUG COVERAGE
-    </para>
+      </sect1>
+      <sect1>
+        <title>Medicare Prescription Drug Coverage</title>
     <para>
       Medicare offers prescription drug coverage to help senior citizens
       and others who need medical assistance get the prescription drugs
@@ -4691,9 +4676,9 @@
       For more information about Medicare, go to
       <ulink url="http://www.medicare.gov">www.medicare.gov.</ulink>
     </para>
-    <para>
-      ADVANCE MEDICAL DIRECTIVES
-    </para>
+    </sect1>
+    <sect1>
+      <title>Advance Medical Directives</title>
     <para>
       We all face the possibility that we may become incapacitated
       sometime during our lifetime. This often happens when nearing
@@ -4726,24 +4711,8 @@
       stops or if you stop breathing. In this case, a Do Not Resuscitate
       (DNR) order would be entered on your medical chart.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_89.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_90.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_91.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Naming a Durable Power of Attorney for Health Care
-    </para>
+    <sect2>
+      <title>Naming a Durable Power of Attorney for Health Care</title>
     <para>
       A durable power of attorney for health care (sometimes called a
       durable medical power of attorney) specifies the person you’ve
@@ -4785,13 +4754,18 @@
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_92.jpg" />
+    </sect2>
+    </sect1>
+    </chapter>
+  <chapter id="housing">
+    <title>Housing</title>
+      <informalfigure>
+        <mediaobject>
+        <imageobject role="web">
+          <imagedata fileref="images/pdf5131_img_20.png" format="PNG"/>
         </imageobject>
+        </mediaobject>
       </inlinemediaobject>
-    </para>
     <para>
       When choosing among housing options, there are many decisions you
       must make. Should you rent or buy? If you buy, what sort of
@@ -4813,9 +4787,8 @@
       sex, familial status, or disability, contact HUD’s Office of Fair
       Housing and Equal Opportunity (p. 102).
     </para>
-    <para>
-      BUYING A HOME
-    </para>
+    <sect1>
+      <title>Buying A Home</title>
     <para>
       Buying a home is one of the most complex financial decisions
       you’ll ever make. In addition to the financial and legal issues
@@ -4846,15 +4819,12 @@
         <para>
           Check to see if a particular home requires you to pay any
           ongoing homeowners association or condo fees.
-          <ulink url="http://www.bankrate.com/finance/real-estate/check-out-hoa-finances-before-buying-condo-1.aspx">For
-          more information, visit www.bankrate.com/finance/
-          real-estate/check-out-hoa-finances-before-buyingcondo-1.aspx.</ulink>
+          For more information, visit <ulink url="http://www.bankrate.com/finance/real-estate/check-out-hoa-finances-before-buying-condo-1.aspx">www.bankrate.com/finance/real-estate/check-out-hoa-finances-before-buyingcondo-1.aspx</ulink>.
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      Mortgages
-    </para>
+    <sect2>
+      <title>Mortgages</title>
     <para>
       When shopping for a home mortgage, make sure you obtain all of the
       relevant information:
@@ -4887,47 +4857,22 @@
         <para>
           Ask whether the rate is fixed or adjustable. The interest rate
           on adjustable-rate mortgages (ARMs) can vary a great deal over
-          the lifetime of the mortgage. An
+          the lifetime of the mortgage. An increase of several percentage 
+          points might raise payments by hundreds of dollars per month.
         </para>
       </listitem>
     </itemizedlist>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_93.jpg" />
-        </imageobject>
-      </inlinemediaobject>UNDERWATER/UPSIDE-DOWN MORTGAGES
-    </para>
+    <sidebar>
+      <title>Underwater/Upside-down Mortgages</title>
     <para>
       When describing a mortgage in trouble, the terms “underwater” or
       “upside-down” mean the same thing— when the amount of money you
       still have to pay on the loan is more than the actual value of the
       loan. For more information about underwater or upside-down
-      mortgages, visit www.
-      <ulink url="http://www.makinghomeaffordable.gov/programs/fallen-value-help">makinghomeaffordable.gov/programs/fallen-value-help.</ulink>
+      mortgages, visit 
+      <ulink url="http://www.makinghomeaffordable.gov/programs/fallen-value-help">www.makinghomeaffordable.gov/programs/fallen-value-help</ulink>.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_94.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_95.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_96.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      increase of several percentage points might raise<literallayout>
-</literallayout> <literallayout>
-</literallayout>payments by hundreds of dollars per month.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
+    </sidebar>
     <itemizedlist>
       <listitem>
         <para>
@@ -4955,12 +4900,13 @@
       </listitem>
       <listitem>
         <para>
-          Ask whether you can pay off the loan early, and whether
+          Ask whether you can pay off the loan early, and whether there 
+          is a penalty for doing so. 
         </para>
       </listitem>
     </itemizedlist>
     <para>
-      there is a penalty for doing so. There is a long list of sources
+     There is a long list of sources
       for mortgage loans: mortgage banks, mortgage brokers, banks,
       thrifts and credit unions, home builders, real estate agencies,
       and Internet lenders.
@@ -4973,9 +4919,8 @@
       and Neighborworks America’s home ownership website at
       <ulink url="http://www.keystomyhome.org">www.keystomyhome.org</ulink>.
     </para>
-    <para>
-      Mortgage Transfers
-    </para>
+    <sect2>
+      <title>Mortgage Transfers</title>
     <para>
       CFPB rules help mortgage borrowers by requiring that mortgage
       companies notify them when their loans are transferred to another
@@ -4997,9 +4942,10 @@
       at
       <ulink url="http://www.ftc.gov/bcp/edu/pubs/consumer/homes/rea10.shtm">www.ftc.gov/bcp/edu/pubs/</ulink>consumer/homes/rea10.shtm.
     </para>
-    <para>
-      AVOIDING FORECLOSURE
-    </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Avoiding Foreclosure</title>
     <para>
       If you miss your mortgage payments, foreclosure may occur. This is
       the legal means your lender can use to repossess your home. If you
@@ -5008,145 +4954,168 @@
       negative impact on your future credit. You should avoid
       foreclosure if at all possible.
     </para>
+      <sidebar>
+        <title/>
     <para>
       Fixed-rate and adjustable-rate mortgages are the two main types of
       mortgages, but there is a wide variety of other mortgage products
       available. Below are pros and cons of some of the mortgage
       products you want to consider:
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_97.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+    <informaltable>
+      <tgroup cols="3">
+        <thead>
+          <row>
+            <entry>Type of Mortgage</entry>
+            <entry>Pros</entry>
+            <entry>Cons</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+    <entry>
     <para>
       Fixed-rate mortgage
     </para>
+    </entry>
+    <entry>
     <para>
-      Adjustable-rate (ARM) or variable-rate mortgage
+      No surprises. Interest rate stays the same over
+      the entire term, usually 15, 20, or 30 years.
     </para>
+    </entry>
+    <entry>
+    <para>
+      If interest rates fall, you could be stuck
+      paying a higher rate.
+    </para>
+    </entry>
+          </row>
+          <row>
+            <entry>
+    <para>
+      Adjustable-rate (ARM)
+      or variable-rate mortgage
+    </para>
+            </entry>
+            <entry>
+    <para>
+      Usually offers a lower initial rate of interest than
+      fixed-rate loans.
+    </para>
+            </entry>
+            <entry>
+    <para>
+      After an initial period, rates fluctuate over
+      the life of the loan. When interest rates
+      rise, generally so do your loan payments.
+    </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
     <para>
       FHA (Federal Housing Administration) loans
     </para>
-    <para>
-      VA loan
-    </para>
-    <para>
-      Balloon mortgage
-    </para>
-    <para>
-      Interest-only No surprises. Interest rate stays the same over the
-      entire term, usually 15, 20, or 30 years.
-    </para>
-    <para>
-      Usually offers a lower initial rate of interest than fixed-rate
-      loans.
-    </para>
+            </entry>
+            <entry>
     <para>
       Allows buyers who may not qualify for a home loan to obtain one
       with a low down payment.
     </para>
-    <para>
-      Guaranteed loans for eligible veterans, active duty personnel, and
-      surviving spouses. Offers competitive rates, low or no down
-      payments.
-    </para>
-    <para>
-      Usually a fixed-rate loan with relatively low payments for a fixed
-      period.
-    </para>
-    <para>
-      Borrower pays only the interest on the loan in monthly payments
-      for a fixed term.
-    </para>
-    <para>
-      If interest rates fall, you could be stuck paying a higher rate.
-    </para>
-    <para>
-      After an initial period, rates fluctuate over the life of the
-      loan. When interest rates rise, generally so do your loan
-      payments.
-    </para>
+            </entry>
+            <entry>
     <para>
       The size of your loan may be limited.
     </para>
+            </entry>
+          </row>
+          <row>
+<entry>            
+    <para>
+      VA loan
+    </para>
+</entry>
+            <entry>
+    <para>
+      Guaranteed loans for eligible veterans, active
+      duty personnel, and surviving spouses. Offers
+      competitive rates, low or no down payments.
+    </para>
+            </entry>
+            <entry>
     <para>
       The size of your loan may be limited.
     </para>
-    <para>
-      After an initial period, the entire balance of the loan is due
-      immediately. This type of loan may be risky for some borrowers.
-    </para>
-    <para>
-      After an initial period, the balance of the loan is due. This
-      could mean higher payments, paying a lump sum, or refinancing.
-    </para>
-    <informaltable>
-      <tgroup cols="0">
-        <colspec align="left" />
-        <colspec align="left" />
-        <colspec align="left" />
-        <tbody>
+            </entry>
+          </row>
           <row>
             <entry>
+    <para>
+      Balloon mortgage
+    </para>
+            </entry>
+            <entry>
+    <para>
+      Usually a fixed-rate loan with relatively low
+      payments for a fixed period.
+    </para>
+            </entry>
+            <entry>
+    <para>
+      After an initial period, the entire balance
+      of the loan is due immediately. This type of
+      loan may be risky for some borrowers.
+    </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+    <para>
+      Interest-only
+    </para>
+            </entry>
+            <entry>
+              <para>
+            Borrower pays only the interest on the loan in
+            monthly payments for a fixed term.
+              </para>
+            </entry>
+            <entry>
+              <para>
+                After an initial period, the balance
+                of the loan is due. This could mean
+                higher payments, paying a lump sum, or
+                refinancing.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
               Reverse mortgage
+            </para>
             </entry>
             <entry>
-              Allows seniors to convert equity in their homes
-            </entry>
-            <entry>
-              Subject to aggressive lending practices
-            </entry>
-          </row>
-          <row>
-            <entry>
-            </entry>
-            <entry>
-              to cash; you don’t have to pay back the loan and
-            </entry>
-            <entry>
-              and false advertising promises, particularly
-            </entry>
-          </row>
-          <row>
-            <entry>
-            </entry>
-            <entry>
+              <para>
+              Allows seniors to convert equity in their homes 
+              to cash; you don’t have to pay back the loan and 
               interest as long as you live in the house.
+              </para>
             </entry>
             <entry>
-              by lenders that prey on seniors. Check to
-            </entry>
-          </row>
-          <row>
-            <entry>
-            </entry>
-            <entry>
-            </entry>
-            <entry>
+              <para>
+              Subject to aggressive lending practices 
+              and false advertising promises, particularly 
+              by lenders that prey on seniors. Check to 
               make sure the loan is Federally insured.
+              </para>
             </entry>
           </row>
         </tbody>
       </tgroup>
     </informaltable>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_98.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_99.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_100.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+
     <para>
       MORTGAGE REFINANCING
     </para>
