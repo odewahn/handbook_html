@@ -97,7 +97,7 @@
       </inlinemediaobject>
     </para>
   </sect2>
-  <sect2 id="quick_consumer_tips">
+  <sect2 id="quick_consumer_tips_section">
     <title>Quick Consumer Tips</title>
     <para>
       As a savvy consumer, you should always be on the alert for shady
@@ -18687,6 +18687,29 @@
     <para>
       <ulink url="http://www.zenith.com">www.zenith.com</ulink>
     </para>
+      </sect1>
+    </chapter>
+    <chapter id="federal_agencies">
+      <title>Federal Agencies</title>
+      <sidebar>
+        <title>Contacting Federal Agencies</title>
+        <para>
+          Many federal agencies have enforcement and/or 
+          complaint-handling duties for products and services 
+          used by the general public. Others act for the benefit 
+          of the public, but do not resolve individual consumer 
+          problems. Agencies also create printed publications, and 
+          websites that may be helpful when making purchase 
+          decisions or dealing with consumer problems. Some agencies 
+          provide timely information to citizens through profile pages 
+          and videos on social media outlets, blogs, text messages, 
+          and news feeds. If you need help in deciding which federal 
+          agency to contact, check the index at the end of this book 
+          or call 1-800-333-4636.
+        </para>
+      </sidebar>
+      <sect1>
+      <title>Commission on Civil Rights</title>
     <para>
       624 9th St., NW 
       Washington, DC 20425 
@@ -18704,6 +18727,9 @@
       The U.S. Commission on Civil Rights is an independent, bipartisan
       agency charged with monitoring federal civil rights enforcement.
     </para>
+      </sect1>
+      <sect1>
+        <title>Consumer Financial Protection Bureau (CFPB)</title>
     <para>
       1700 G St., NW Washington, DC 20552 Toll free: 1-855-411-2372 TTY:
       1-855-729-2372
@@ -18723,6 +18749,9 @@
       credit card, mortgage, and other loan disclosures clearer so
       consumers can understand their rights and responsibilities.
     </para>
+      </sect1>
+    <sect1>
+      <title>Consumer Product Safety Commission (CPSC)</title>
     <para>
       4330 East West Hwy. 
       Bethesda, MD 20814 
@@ -18733,33 +18762,48 @@
       <email>info@cpsc.gov</email>
     </para>
     <para>
-      <ulink url="http://www.cpsc.gov"><emphasis role="strong">www.cpsc.gov
-      <ulink url="http://www.recalls.gov">www.recalls.gov</ulink></emphasis>
-      (Government
-      Recalls)</ulink><emphasis role="strong">www.saferproducts.gov</emphasis>
-      (Report incidents, injuries or safety concerns) The CPSC protects
+      <ulink url="http://www.cpsc.gov">www.cpsc.gov</ulink>
+    </para>
+      <para>
+      <ulink url="http://www.recalls.gov">www.recalls.gov</ulink>
+      (Government Recalls)
+      </para>
+      <para>
+      <ulink url="http://www.saferproducts.gov">www.saferproducts.gov</ulink> 
+      (Report incidents, injuries or safety concerns)
+      </para>
+      <para>
+      The CPSC protects
       the public from unreasonable risks of serious injury or death from
       thousands of types of consumer products under its jurisdiction,
       including products that pose a fire, electrical, chemical, or
       mechanical hazard or can injure children.
     </para>
+    </sect1>
+      <sect1>
+        <title>Department of Agriculture (USDA)</title>
     <para>
-      Center for Nutrition Policy and Promotion (CNPP)
+      <emphasis role="strong">Center for Nutrition Policy and Promotion (CNPP)</emphasis>
     </para>
     <para>
       3101 Park Center Dr., 10th Floor Alexandria, VA 22302-1594
       703-305-7600
     </para>
     <para>
-      <emphasis role="strong">www.cnpp.usda.gov
-      <ulink url="http://www.choosemyplate.gov">www.choosemyplate.gov</ulink></emphasis>
-      (Dietary Guidelines) The CNPP works to improve the health and
+      <ulink url="http://www.cnpp.usda.gov">www.cnpp.usda.gov</ulink>
+    </para>
+       <para>
+      <ulink url="http://www.choosemyplate.gov">www.choosemyplate.gov</ulink>
+      (Dietary Guidelines)
+       </para>
+     <para>
+      The CNPP works to improve the health and
       well-being of Americans by developing and promoting dietary
       guidance that links scientific research to the nutrition needs of
       consumers.
     </para>
     <para>
-      Food and Nutrition Service (FNS)
+      <emphasis role="strong">Food and Nutrition Service (FNS)</emphasis>
     </para>
     <para>
       3101 Park Center Dr. Alexandria, VA 22302 1-800-424-9121 TTY:
@@ -18776,19 +18820,14 @@
       and Women, Infants and Children (WIC).
     </para>
     <para>
-      Meat and Poultry Hotline
+      <emphasis role="strong">Meat and Poultry Hotline</emphasis>
     </para>
     <para>
       Food Safety and Inspection Service Toll free: 1-888-674-6854
       (10:00 am - 4:00 pm, ET, English and Spanish) TTY: 1-800-256-7072
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_555.jpg" />
-        </imageobject>
-      </inlinemediaobject>: mphotline.fsis@usda.gov
-      (<email>mphotline.fsis@usda.gov</email>)
+      <email>mphotline.fsis@usda.gov</email>
     </para>
     <para>
       <ulink url="http://www.fsis.usda.gov">www.fsis.usda.gov</ulink>
@@ -18799,16 +18838,21 @@
       preparation of meat, poultry, and egg products.
     </para>
     <para>
-      National Institute of Food and Agriculture (NIFA)
+      <emphasis role="strong">National Institute of Food and Agriculture (NIFA)</emphasis>
     </para>
     <para>
       1400 Independence Ave., SW Mail Stop 2201 Washington, DC
       20250-2215 202-720-4423
     </para>
     <para>
-      <ulink url="http://www.nifa.usda.gov"><emphasis role="strong">www.nifa.usda.gov
-      <ulink url="http://www.eXtension.org">www.eXtension.org</ulink></emphasis>
-      (Information from extension educators) NIFA responds to issues
+      <ulink url="http://www.nifa.usda.gov">www.nifa.usda.gov</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.eXtension.org">www.eXtension.org</ulink>
+      (Information from extension educators)
+    </para>
+    <para>
+      NIFA responds to issues
       that are critical to daily life (health, nutrition, parenting,
       personal finances) by sharing relevant, research-based information
       through a network of county extension offices. The educators in
@@ -18816,25 +18860,13 @@
       publications. To find your local Cooperative Extension office,
       consult the county government listings in your local telephone
       directory or
-      visit</ulink><ulink url="http://www.csrees.usda.gov/Extension.">www.csrees.usda.gov/Extension.</ulink>
+      visit <ulink url="http://www.csrees.usda.gov/Extension">www.csrees.usda.gov/Extension</ulink>.
     </para>
+      </sect1>
+      <sect1>
+        <title>Department of Commerce (DOC)</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_556.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_557.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_558.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Seafood Inspection Program
+      <emphasis role="strong">Seafood Inspection Program</emphasis>
     </para>
     <para>
       National Oceanic and Atmospheric Administration (NOAA) 1315 East
@@ -18842,12 +18874,7 @@
       1-800-422-2750
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_559.jpg" />
-        </imageobject>
-      </inlinemediaobject>: NMFS.Seafood.Services@noaa.gov
-      (<email>NMFS.Seafood.Services@noaa.gov</email>)
+      <email>NMFS.Seafood.Services@noaa.gov</email>
     </para>
     <para>
       <ulink url="http://www.seafood.nmfs.noaa.gov">www.seafood.nmfs.noaa.gov</ulink>
@@ -18861,19 +18888,14 @@
       Federal Inspection (PUFI), and Lot Inspection.
     </para>
     <para>
-      United States Patent and Trademark Office (USPTO)
+      <emphasis role="strong">United States Patent and Trademark Office (USPTO)</emphasis>
     </para>
     <para>
       PO Box 1450 Alexandria, VA 22313-1450 Toll free: 1-800-786-9199
       TTY: 571-272-9950
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_560.jpg" />
-        </imageobject>
-      </inlinemediaobject>: usptoinfo@uspto.gov
-      (<email>usptoinfo@uspto.gov</email>)
+      <email>usptoinfo@uspto.gov</email>
     </para>
     <para>
       <ulink url="http://www.uspto.gov">www.uspto.gov</ulink>
@@ -18884,7 +18906,7 @@
       and designers.
     </para>
     <para>
-      Weights and Measures Division (WMD)
+      <emphasis role="strong">Weights and Measures Division (WMD)</emphasis>
     </para>
     <para>
       Public Inquiries Unit National Institute of Standards and
@@ -18892,11 +18914,7 @@
       301-975-4004
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_561.jpg" />
-        </imageobject>
-      </inlinemediaobject>: owm@nist.gov (<email>owm@nist.gov</email>)
+      <email>owm@nist.gov</email>
     </para>
     <para>
       <ulink url="http://www.nist.gov/pml/wmd/index.cfm">www.nist.gov/pml/wmd/index.cfm</ulink>
@@ -18906,27 +18924,18 @@
       regulations, and standards to achieve equity between buyers and
       sellers in the marketplace.
     </para>
+      </sect1>
+      <sect1>
+        <title>Department of Education (ED)</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_562.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      The Education Publications Center (EDPUBS)
+      <emphasis role="strong">The Education Publications Center (EDPUBS)</emphasis>
     </para>
     <para>
       PO Box 22207 Alexandria, VA 22304 Toll free: 1-877-433-7827 (9:00
       am - 6:00 pm, ET, English and Spanish) TTY: 1-877-576-7734
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_563.jpg" />
-        </imageobject>
-      </inlinemediaobject>: edpubs@edpubs.ed.gov
-      (<email>edpubs@edpubs.ed.gov</email>)
+      <email>edpubs@edpubs.ed.gov</email>
     </para>
     <para>
       <ulink url="http://www.edpubs.gov">www.edpubs.gov</ulink>
@@ -18936,7 +18945,7 @@
       and resources from the U.S. Department of Education.
     </para>
     <para>
-      Federal Student Aid Information Center
+      <emphasis role="strong">Federal Student Aid Information Center</emphasis>
     </para>
     <para>
       PO Box 84 Washington, DC 20044-0084 319-337-5665 Toll free:
@@ -18944,12 +18953,7 @@
       and Spanish)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_564.jpg" />
-        </imageobject>
-      </inlinemediaobject>:FederalStudentAidCustomerService@ed.gov
-      (<email>Ł:FederalStudentAidCustomerService@ed.gov</email>)
+      <email>FederalStudentAidCustomerService@ed.gov</email>
     </para>
     <para>
       <ulink url="http://www.studentaid.ed.gov">www.studentaid.ed.gov</ulink>
@@ -18965,18 +18969,14 @@
       are having trouble making loan payments.
     </para>
     <para>
-      Office for Civil Rights (OCR)
+      <emphasis role="strong">Office for Civil Rights (OCR)</emphasis>
     </para>
     <para>
       400 Maryland Ave., SW Washington, DC 20202-1100 202-245-6700 Toll
       free: 1-800-421-3481 TTY: 1-877-521-2172
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_565.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ocr@ed.gov (<email>ocr@ed.gov</email>)
+      <email>ocr@ed.gov</email>
     </para>
     <para>
       <ulink url="http://www.ed.gov/ocr">www.ed.gov/ocr</ulink>
@@ -18986,67 +18986,59 @@
       complaints of discrimination.
     </para>
     <para>
-      Office of Postsecondary Education (OPE)
+      <emphasis role="strong">Office of Postsecondary Education (OPE)</emphasis>
     </para>
     <para>
       1990 K St., NW Washington, DC 20006 202-502-7750
     </para>
     <para>
-      <ulink url="http://www2.ed.gov/about/offices/list/ope/index.html">www2.ed.gov/about/offices/list/ope/index.html</ulink><ulink url="http://www.ope.ed.gov/accreditation">www.ope.ed.gov/accreditation</ulink>
+      <ulink url="http://www2.ed.gov/about/offices/list/ope/index.html">www2.ed.gov/about/offices/list/ope/index.html</ulink>
+    </para>
+     <para>
+       <ulink url="http://www.ope.ed.gov/accreditation">www.ope.ed.gov/accreditation</ulink> (Searchable Accreditation Database)
     </para>
     <para>
-      (Searchable Accreditation Database) OPE develops programs to
+      OPE develops programs to
       increase access to postsecondary education. This office works with
       state accreditation agencies to recognize institutions of higher
       learning that provide quality education.
     </para>
     <para>
-      Office of Special Education and Rehabilitative Services (OSERS)
+      <emphasis role="strong">Office of Special Education and Rehabilitative Services (OSERS)</emphasis>
     </para>
     <para>
       400 Maryland Ave., SW Washington, DC 20202-7100 202-245-7468 Toll
       free: 1-800-872-5327 (English and Spanish) TTY: 202-205-4208
     </para>
     <para>
-      <ulink url="http://www.ed.gov/about/offices/list/osers/index.html"><emphasis role="strong">www.ed.gov/about/offices/list/osers/index.html
-      <ulink url="http://www.ed.gov/about/offices/list/osers/osep/index.html">www.ed.gov/about/offices/list/osers/osep/index.</ulink>html</emphasis>
+      <ulink url="http://www.ed.gov/about/offices/list/osers/index.html">www.ed.gov/about/offices/list/osers/index.html</ulink>
+    </para>
+        <para>
+      <ulink url="http://www.ed.gov/about/offices/list/osers/osep/index.html">www.ed.gov/about/offices/list/osers/osep/index.html</ulink>
       (Office of Special Education
-      Programs)</ulink><ulink url="http://www.ed.gov/about/offices/list/osers/rsa/index.html"><emphasis role="strong">www.ed.gov/about/offices/list/osers/rsa/index.
-      html</emphasis> (Rehabilitation Services
-      Administration)</ulink><emphasis role="strong">www.ed.gov/about/offices/list/osers/nidrr/index.
-      html</emphasis> (National Institute of Disability &amp;
-      Rehabilitation Research) OSERS provides support to parents and
+      Programs)</para>
+        <para>
+        <ulink url="http://www.ed.gov/about/offices/list/osers/rsa/index.html">www.ed.gov/about/offices/list/osers/rsa/index.html</ulink>
+      (Rehabilitation Services Administration)
+        </para>
+        <para>
+        <ulink url="">www.ed.gov/about/offices/list/osers/nidrr/index.html</ulink> (National Institute of Disability
+          &amp; Rehabilitation Research)
+        </para>
+        <para>
+          OSERS provides support to parents and
       individuals, school districts and states in three main areas:
       special education, vocational rehabilitation, and research.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_566.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_567.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_568.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Office of Vocational and Adult Education (OVAE)
+      <emphasis role="strong">Office of Vocational and Adult Education (OVAE)</emphasis>
     </para>
     <para>
       400 Maryland Ave., SW Washington, DC 20202-7100 202-245-7700 Toll
       free: 1-800-872-5327 (English and Spanish)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_569.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ovae@ed.gov (<email>ovae@ed.gov</email>)
+      <email>ovae@ed.gov</email>
     </para>
     <para>
       <ulink url="http://www2.ed.gov/about/offices/list/ovae/index.html">www2.ed.gov/about/offices/list/ovae/index.html</ulink>
@@ -19056,37 +19048,31 @@
       adult education and literacy, career and technical education, and
       community colleges.
     </para>
+      </sect1>
+      <sect1>
+        <title>Department of Energy (DOE)</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_570.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Public Affairs
+      <emphasis role="strong">Public Affairs</emphasis>
     </para>
     <para>
       1000 Independence Ave., SW Washington, DC 20585 202-586-5575 Toll
       free: 1-800-342-5363 TTY: 1-800-877-8339
     </para>
     <para>
-      <ulink url="http://www.doe.gov">www.doe.gov</ulink><ulink url="http://www.energy.gov/public-services">www.energy.gov/public-services</ulink>
+      <ulink url="http://www.doe.gov">www.doe.gov</ulink>
     </para>
     <para>
-      Energy Efficiency and Renewable Energy (EERE)
+      <ulink url="http://www.energy.gov/public-services">www.energy.gov/public-services</ulink>
+    </para>
+    <para>
+      <emphasis role="strong">Energy Efficiency and Renewable Energy (EERE)</emphasis>
     </para>
     <para>
       Office of the Assistant Secretary Mail Stop EE-1 Department of
       Energy Washington, DC 20585 202-586-9220
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_571.jpg" />
-        </imageobject>
-      </inlinemediaobject>: eereic@ee.doe.gov
-      (<email>eereic@ee.doe.gov</email>)
+      <email>eereic@ee.doe.gov</email>
     </para>
     <para>
       <ulink url="http://www.energysavers.gov">www.energysavers.gov</ulink>
@@ -19095,112 +19081,98 @@
       EERE provides tips and information on products, services, rebates,
       and tax credits to help consumers save money and energy.
     </para>
+      </sect1>
+      <sect1>
+        <title>Department of Health and Human Services (HHS)</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_572.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      AIDS.gov
+      <emphasis role="strong">AIDS.gov</emphasis>
     </para>
     <para>
       Room 443H Washington, DC 20201 Toll free: 1-800-448-0440
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_573.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cdcinfo@cdc.gov
-      (<email>cdcinfo@cdc.gov</email>)
+      <email>cdcinfo@cdc.gov</email>
     </para>
     <para>
       <ulink url="http://www.aids.gov">www.aids.gov</ulink>
     </para>
     <para>
-      <ulink url="http:AIDS.gov">AIDS.gov works to increase HIV testing
-      and care for</ulink>people at-risk or living with HIV.
+      AIDS.gov works to increase HIV testing
+      and care for people at-risk or living with HIV.
     </para>
     <para>
-      Health Resources and Services Administration (HRSA)
+      <emphasis role="strong">Health Resources and Services Administration (HRSA)</emphasis>
     </para>
     <para>
-      5600 Fishers Ln.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Rockville, MD 20857<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-888-275-4772 (8:30 am - 5:00 pm, ET)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-877-489-4772 (8:30 am - 5:00 pm, ET)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      5600 Fishers Ln. 
+      Rockville, MD 20857 
+      Toll free: 1-888-275-4772 (8:30 am - 5:00 pm, ET) 
+      TTY: 1-877-489-4772 (8:30 am - 5:00 pm, ET)
     </para>
     <para>
-      <ulink url="http://www.hrsa.gov">www.hrsa.gov</ulink><ulink url="findahealthcenter.hrsa.gov/Search_HCC.aspx">findahealthcenter.hrsa.gov/Search_HCC.aspx</ulink>
+      <ulink url="http://www.hrsa.gov">www.hrsa.gov</ulink>
     </para>
     <para>
-      (Find a local health center)<literallayout>
-</literallayout> <literallayout>
-</literallayout>HRSA is responsible for improving access to health care<literallayout>
-</literallayout> <literallayout>
-</literallayout>services for people that are uninsured and medically<literallayout>
-</literallayout> <literallayout>
-</literallayout>vulnerable.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      <ulink url="findahealthcenter.hrsa.gov/Search_HCC.aspx">findahealthcenter.hrsa.gov/Search_HCC.aspx</ulink> (Find a local health center)
     </para>
     <para>
-      HHS-TIPS Fraud Hotline
+      HRSA is responsible for improving access to health care 
+      services for people that are uninsured and medically 
+      vulnerable.
+    </para>
+    <para>
+      <emphasis role="strong">HHS-TIPS Fraud Hotline</emphasis>
     </para>
     <para>
       Office of Inspector General Attn: Hotline PO Box 23489 Washington,
       DC 20026 Toll free: 1-800-447-8477 TTY: 1-800-377-4950
     </para>
     <para>
-      <emphasis role="strong">www.oig.hhs.gov
-      <ulink url="http:Stopmedicarefraud.gov">Stopmedicarefraud.gov</ulink></emphasis>
-      (Report Medicare Fraud) The Office of Inspector General (OIG)
+      <ulink url="http://www.oig.hhs.gov">www.oig.hhs.gov</ulink>
+    </para>
+    <para>
+      <ulink url="http:Stopmedicarefraud.gov">Stopmedicarefraud.gov</ulink>
+      (Report Medicare Fraud)
+    </para>
+    <para>
+      The Office of Inspector General (OIG)
       protects the integrity of HHS programs, as well as the health and
       welfare of the beneficiaries of those programs.
     </para>
     <para>
-      National Health Information Center
+      <emphasis role="strong">National Health Information Center</emphasis>
     </para>
     <para>
       PO Box 1133 Washington, DC 20013-1133 301-565-4167 Toll free:
       1-800-336-4797
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_574.jpg" />
-        </imageobject>
-      </inlinemediaobject>: healthfinder@nhic.org
-      (<email>healthfinder@nhic.org</email>)
+      <email>healthfinder@nhic.org</email>
     </para>
     <para>
-      <emphasis role="strong">www.health.gov/nhic
-      <ulink url="http://www.healthfinder.gov">www.healthfinder.gov</ulink><ulink url="http://www.healthfinder.gov/espanol">www.healthfinder.gov/espanol</ulink></emphasis>
-      (in Spanish) NHIC is a health information referral service that
+      <ulink url="http://www.health.gov/nhic">www.health.gov/nhic</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.healthfinder.gov">www.healthfinder.gov</ulink>
+    </para>
+     <para>
+      <ulink url="http://www.healthfinder.gov/espanol">www.healthfinder.gov/espanol</ulink>
+      (in Spanish)
+     </para>
+        <para>
+      NHIC is a health information referral service that
       links consumers and health professionals with organizations best
       able to provide answers to their health-related questions.
     </para>
     <para>
-      Office for Civil Rights (OCR)
+      <emphasis role="strong">Office for Civil Rights (OCR)</emphasis>
     </para>
     <para>
       200 Independence Ave., SW Room 509F, HHH Building Washington, DC
       20201 Toll free: 1-800-368-1019 TTY: 1-800-537-7697
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_575.jpg" />
-        </imageobject>
-      </inlinemediaobject>: OCRMail@hhs.gov
-      (<email>OCRMail@hhs.gov</email>)
+      <email>OCRMail@hhs.gov</email>
     </para>
     <para>
       <ulink url="http://www.dhhs.gov/ocr">www.dhhs.gov/ocr</ulink>
@@ -19210,7 +19182,7 @@
       care and social service programs.
     </para>
     <para>
-      Substance Abuse and Mental Health Services Administration (SAMHSA)
+      <emphasis role="strong">Substance Abuse and Mental Health Services Administration (SAMHSA)</emphasis>
     </para>
     <para>
       PO Box 2345 Rockville, MD 20847-2345 Toll free: 1-877-726-4727
@@ -19218,12 +19190,7 @@
       1-800-487-4889
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_576.jpg" />
-        </imageobject>
-      </inlinemediaobject>: SAMHSAInfo@samhsa.hhs.gov
-      (<email>SAMHSAInfo@samhsa.hhs.gov</email>)
+      <email>SAMHSAInfo@samhsa.hhs.gov</email>
     </para>
     <para>
       <ulink url="http://www.samhsa.gov">www.samhsa.gov</ulink>
@@ -19235,20 +19202,9 @@
       services through a referral hotline and provides an online
       treatment center locator.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_577.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_578.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Administration for Children &amp; Families (ACF)
-    </para>
+      </sect1>
+    <sect1>
+      <title>Administration for Children &amp; Families (ACF)</title>
     <para>
       370 L’Enfant Promenade, SW Washington, DC 20447 Toll free:
       1-888-289-8442 (Fraud Alert Hotline)
@@ -19263,7 +19219,7 @@
       and families.
     </para>
     <para>
-      Child Welfare Information Gateway
+      <emphasis role="strong">Child Welfare Information Gateway</emphasis>
     </para>
     <para>
       Administration for Children &amp; Families (ACF) Children’s Bureau
@@ -19271,12 +19227,7 @@
       free: 1-800-394-3366 (8:30 am - 5:30 pm, ET)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_579.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@childwelfare.gov
-      (<email>info@childwelfare.gov</email>)
+      <email>info@childwelfare.gov</email>
     </para>
     <para>
       <ulink url="http://www.childwelfare.gov">www.childwelfare.gov</ulink>
@@ -19287,7 +19238,7 @@
       to help protect children and strengthen families.
     </para>
     <para>
-      Childcare.gov
+      <emphasis role="strong">Childcare.gov</emphasis>
     </para>
     <para>
       Administration for Children &amp; Families 370 L’Enfant Promenade,
@@ -19302,28 +19253,17 @@
       sponsored child care and early learning information.
     </para>
     <para>
-      National Runaway Switchboard (NRS)
+      <emphasis role="strong">National Runaway Switchboard (NRS)</emphasis>
     </para>
     <para>
-      Administration for Children &amp; Families (ACF)<literallayout>
-</literallayout> <literallayout>
-</literallayout>3080 N. Lincoln Ave.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Chicago, IL 60657<literallayout>
-</literallayout> <literallayout>
-</literallayout>773-880-9860<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-786-2929 (24 hrs./7 days a week)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Administration for Children &amp; Families (ACF) 
+      3080 N. Lincoln Ave. 
+      Chicago, IL 60657 
+      773-880-9860 
+      Toll free: 1-800-786-2929 (24 hrs./7 days a week)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_580.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@1800RUNAWAY.org
-      (<email>info@1800RUNAWAY.org</email>)
+      <email>info@1800RUNAWAY.org</email>
     </para>
     <para>
       <ulink url="http://www.1800runaway.org">www.1800runaway.org</ulink>
@@ -19334,7 +19274,7 @@
       national communication system for runaway and homeless youth.
     </para>
     <para>
-      Office of Child Support Enforcement (OCSE)
+      <emphasis role="strong">Office of Child Support Enforcement (OCSE)</emphasis>
     </para>
     <para>
       Administration for Children &amp; Families (ACF) 370 L’Enfant
@@ -19349,22 +19289,17 @@
       parents, establishing paternity and support obligations, and
       enforcing those obligations.
     </para>
+    </sect1>
+    <sect1>
+      <title>Administration for Community Living (ACL)</title>
     <para>
-      Administration for Community Living (ACL)
-    </para>
-    <para>
-      Administration on Aging (AoA)
+      <emphasis role="strong">Administration on Aging (AoA)</emphasis>
     </para>
     <para>
       One Massachusetts Ave., NW Washington, DC 20001 202-619-0724
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_581.jpg" />
-        </imageobject>
-      </inlinemediaobject>: aoainfo@aoa.hhs.gov
-      (<email>aoainfo@aoa.hhs.gov</email>)
+      <email>aoainfo@aoa.hhs.gov</email>
     </para>
     <para>
       <ulink url="http://www.aoa.gov">www.aoa.gov</ulink>
@@ -19381,24 +19316,15 @@
       help them.
     </para>
     <para>
-      Eldercare Locator
+      <emphasis role="strong">Eldercare Locator</emphasis>
     </para>
     <para>
-      Administration on Aging (AoA)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-677-1116 (M-F, 9:00 am - 8:00 pm, ET)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-800-677-1116<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Administration on Aging (AoA) 
+      Toll free: 1-800-677-1116 (M-F, 9:00 am - 8:00 pm, ET) 
+      TTY: 1-800-677-1116
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_582.jpg" />
-        </imageobject>
-      </inlinemediaobject>: eldercarelocator@n4a.org
-      (<email>eldercarelocator@n4a.org</email>)
+      <email>eldercarelocator@n4a.org</email>
     </para>
     <para>
       <ulink url="http://www.eldercare.gov">www.eldercare.gov</ulink>
@@ -19412,105 +19338,77 @@
       Locator is administered by The National Association of Area
       Agencies on Aging (n4a).
     </para>
+    </sect1>
+      <sect1>
+      <title>Centers for Disease Control and Prevention (CDC)</title>
     <para>
-      Centers for Disease Control and Prevention (CDC)
+      1600 Clifton Rd. 
+      Atlanta, GA 30333 
+      Toll free: 1-800-232-4636 (24 hrs./7 days a week) 
+      TTY: 1-888-232-6348
     </para>
     <para>
-      1600 Clifton Rd.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Atlanta, GA 30333<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-232-4636 (24 hrs./7 days a week)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-888-232-6348<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      <email>cdcinfo@cdc.gov</email>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_583.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cdcinfo@cdc.gov
-      (<email>cdcinfo@cdc.gov</email>)
+      <ulink url="http://www.cdc.gov">www.cdc.gov</ulink>
     </para>
-    <para>
-      <emphasis role="strong">www.cdc.gov
-      <ulink url="http://www.cdc.gov/spanish">www.cdc.gov/spanish</ulink></emphasis>
-      (in Spanish) CDC collaborates to create the expertise,
+     <para>
+      <ulink url="http://www.cdc.gov/spanish">www.cdc.gov/spanish</ulink>
+      (in Spanish)
+     </para>
+      <para>
+      CDC collaborates to create the expertise,
       information, and tools that people and communities need to protect
       their health through health promotion, prevention of disease,
       injury and disability, and preparedness for new health threats.
     </para>
     <para>
-      CDC National STD Hotline
+      <emphasis role="strong">CDC National STD Hotline</emphasis>
     </para>
     <para>
-      Toll free: 1-800-232-4636 (24 hrs./7 days a week,<literallayout>
-</literallayout> <literallayout>
-</literallayout>in English and Spanish)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-888-232-6348 (in English and Spanish)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Toll free: 1-800-232-4636 (24 hrs./7 days a week, 
+      in English and Spanish) 
+      TTY: 1-888-232-6348 (in English and Spanish)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_584.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cdcinfo@cdc.gov
-      (<email>cdcinfo@cdc.gov</email>)
+      <email>cdcinfo@cdc.gov</email>
     </para>
     <para>
-      <emphasis role="strong">www.cdc.gov/std
-      <ulink url="http://www.cdc.gov/std/Spanish">www.cdc.gov/std/Spanish</ulink></emphasis>
-      (in Spanish) HIV/AIDS Prevention
+      <ulink url="www.cdc.gov/std">www.cdc.gov/std</ulink>
+    </para>
+        <para>
+      <ulink url="http://www.cdc.gov/std/Spanish">www.cdc.gov/std/Spanish</ulink>
+          (in Spanish)
+    </para>
+        <para>
+        <emphasis role="strong">HIV/AIDS Prevention</emphasis>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_585.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_586.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_587.jpg" />
-        </imageobject>
-      </inlinemediaobject>
+      Toll free: 1-800-232-4636 (24 hrs./7 days a week, 
+      in English and Spanish) 
+      TTY: 1-888-232-6348
     </para>
     <para>
-      Toll free: 1-800-232-4636 (24 hrs./7 days a week,<literallayout>
-</literallayout> <literallayout>
-</literallayout>in English and Spanish)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-888-232-6348<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      <email>cdcinfo@cdc.gov</email>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_588.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cdcinfo@cdc.gov
-      (<email>cdcinfo@cdc.gov</email>)
+      <ulink url="www.cdc.gov/hiv">www.cdc.gov/hiv</ulink>
     </para>
     <para>
-      <emphasis role="strong">www.cdc.gov/hiv
-      <ulink url="http://www.cdc.gov/hiv/spanish">www.cdc.gov/hiv/spanish</ulink></emphasis>
-      (in Spanish) The Division of HIV/AIDS Prevention provides national
+      <ulink url="http://www.cdc.gov/hiv/spanish">www.cdc.gov/hiv/spanish</ulink>
+      (in Spanish)
+    </para>
+    <para>
+      The Division of HIV/AIDS Prevention provides national
       leadership and support for HIV prevention research and the
       development, implementation, and evaluation of evidence-based HIV
       prevention programs serving persons affected by, or at risk for,
       HIV infection.
     </para>
-    <para>
-      Centers for Medicare &amp; Medicaid Services (CMS)
-    </para>
+      </sect1>
+    <sect1>
+      <title>Centers for Medicare &amp; Medicaid Services (CMS)</title>
     <para>
       Office of External Affairs 7500 Security Blvd. Baltimore, MD
       21244-1850 TTY: 1-877-486-2048
@@ -19519,13 +19417,16 @@
       <ulink url="http://www.cms.gov">www.cms.gov</ulink>
     </para>
     <para>
-      Center for Medicaid and CHIP Services (CMCS)
+      <emphasis role="strong">Center for Medicaid and CHIP Services (CMCS)</emphasis>
     </para>
     <para>
       Toll free: 1- 877-267-2323
     </para>
     <para>
-      <ulink url="http://www.medicaid.gov">www.medicaid.gov</ulink><ulink url="http://www.insurekidsnow.gov">www.insurekidsnow.gov</ulink>
+      <ulink url="http://www.medicaid.gov">www.medicaid.gov</ulink>
+    </para>
+      <para>
+      <ulink url="http://www.insurekidsnow.gov">www.insurekidsnow.gov</ulink>
     </para>
     <para>
       CMCS is the federal agency responsible for Medicaid and Child
@@ -19536,16 +19437,21 @@
       to find the requirements in your state.
     </para>
     <para>
-      Medicare Service Center
+      <emphasis role="strong">Medicare Service Center</emphasis>
     </para>
     <para>
       Toll free: 1-800-633-4227 Toll free: 1-800-447-8477 (Medicare
       Fraud Hotline) TTY: 1-877-486-2048
     </para>
     <para>
-      <ulink url="http://www.medicare.gov"><emphasis role="strong">www.medicare.gov
-      <ulink url="http://www.mymedicare.gov">www.mymedicare.gov</ulink></emphasis>
-      (Personalized Medicare Benefits) Medicare is a government
+      <ulink url="http://www.medicare.gov">www.medicare.gov</ulink>
+    </para>
+      <para>
+      <ulink url="http://www.mymedicare.gov">www.mymedicare.gov</ulink>
+      (Personalized Medicare Benefits)
+      </para>
+      <para>
+      Medicare is a government
       sponsored health care program for people 65 years of age and
       older, some younger people with disabilities, and those with
       permanent kidney failure. The Medicare Service Center answers your
@@ -19553,14 +19459,14 @@
       publications, provides detailed information about the Medicare
       managed care plans in your area, and helps locate health care
       providers that participate in Medicare.
-      Use</ulink><ulink url="http:mymedicare.gov">mymedicare.gov, a
-      free, secure online service, to</ulink>access personalized
+      Use <ulink url="http://mymedicare.gov">mymedicare.gov</ulink>, a
+      free, secure online service, to access personalized
       information regarding your Medicare benefits, claims, and
       services.
     </para>
-    <para>
-      Food and Drug Administration (FDA)
-    </para>
+    </sect1>
+    <sect1>
+      <title>Food and Drug Administration (FDA)</title>
     <para>
       10903 New Hampshire Ave. Silver Spring, MD 20993-0002 Toll free:
       1-888-463-6332
@@ -19577,21 +19483,15 @@
       to the public.
     </para>
     <para>
-      Center for Food Safety and Applied Nutrition Information Line
-      (CFSAN)
+      <emphasis role="strong">Center for Food Safety and Applied Nutrition Information Line
+      (CFSAN)</emphasis>
     </para>
     <para>
-      Food and Drug Administration (FDA)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Outreach and Information Center<literallayout>
-</literallayout> <literallayout>
-</literallayout>10903 New Hampshire Ave.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Silver Spring, MD 20993-0002<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-888-723-3366 (M-F, 10:00 am - 4:00 pm, ET)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Food and Drug Administration (FDA) 
+      Outreach and Information Center 
+      10903 New Hampshire Ave. 
+      Silver Spring, MD 20993-0002 
+      Toll free: 1-888-723-3366 (M-F, 10:00 am - 4:00 pm, ET)
     </para>
     <para>
       <ulink url="http://www.fda.gov/Food">www.fda.gov/Food</ulink>
@@ -19600,20 +19500,15 @@
       The CFSAN Information Line is a general information line for
       questions pertaining to food safety and applied nutrition.
     </para>
-    <para>
-      National Institutes of Health (NIH)
-    </para>
+    </sect1>
+    <sect1>
+      <title>National Institutes of Health (NIH)</title>
     <para>
       9000 Rockville Pike Bethesda, MD 20892 301-496-4000 TTY:
       301-402-9612
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_589.jpg" />
-        </imageobject>
-      </inlinemediaobject>: NIHinfo@od.nih.gov
-      (<email>NIHinfo@od.nih.gov</email>)
+      <email>NIHinfo@od.nih.gov</email>
     </para>
     <para>
       <emphasis role="strong">www.nih.gov
@@ -19623,7 +19518,7 @@
       medical research.
     </para>
     <para>
-      AIDSinfo
+      <emphasis role="strong">AIDSinfo</emphasis>
     </para>
     <para>
       National Institutes of Health (NIH) PO Box 6303 Rockville, MD
@@ -19631,40 +19526,29 @@
       pm, ET, English and Spanish) TTY: 1-888-480-3739
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_590.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ContactUs@aidsinfo.nih.gov
-      (<email>ContactUs@aidsinfo.nih.gov</email>)
+      <email>ContactUs@aidsinfo.nih.gov</email>
     </para>
     <para>
-      <ulink url="http://www.aidsinfo.nih.gov"><emphasis role="strong">www.aidsinfo.nih.gov
-      <ulink url="http://www.aidsinfo.nih.gov/infoSIDA">www.aidsinfo.nih.gov/infoSIDA</ulink></emphasis>
-      (in
-      Spanish)</ulink><ulink url="http://www.aidsinfo.nih.gov/LiveHelp/default.aspx">www.aidsinfo.nih.gov/LiveHelp/default.aspx</ulink>
+      <ulink url="http://www.aidsinfo.nih.gov">www.aidsinfo.nih.gov</ulink>
+    </para>
+      <para>
+      <ulink url="http://www.aidsinfo.nih.gov/infoSIDA">www.aidsinfo.nih.gov/infoSIDA</ulink> 
+      (in Spanish)
+      </para>
+      <para>
+        <ulink url="http://www.aidsinfo.nih.gov/LiveHelp/default.aspx">www.aidsinfo.nih.gov/LiveHelp/default.aspx</ulink>
+     (Real time, online assistance M-F, 12:00 pm - 4:00 pm ET.. 
+     Spanish-speaking agents available)
+      </para>
+      <para>
+     AIDSinfo offers the latest federally approved
+     information on HIV/AIDS clinical research, treatment and prevention, 
+     and medical practice guidelines for people living with 
+     HIV/AIDS, their families and friends, health care providers, 
+     scientists, and researchers.
     </para>
     <para>
-      (Real time, online assistance M-F, 12:00 pm - 4:00 pm ET..<literallayout>
-</literallayout> <literallayout>
-</literallayout>Spanish-speaking agents available)<literallayout>
-</literallayout> <literallayout>
-</literallayout>AIDSinfo offers the latest federally approved
-      information<literallayout>
-</literallayout> <literallayout>
-</literallayout>on HIV/AIDS clinical research, treatment and prevention,<literallayout>
-</literallayout> <literallayout>
-</literallayout>and medical practice guidelines for people living with
-      HIV/<literallayout>
-</literallayout> <literallayout>
-</literallayout>AIDS, their families and friends, health care providers,<literallayout>
-</literallayout> <literallayout>
-</literallayout>scientists, and researchers.<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      National Cancer Institute (NCI)
+      <emphasis role="strong">National Cancer Institute (NCI)</emphasis>
     </para>
     <para>
       National Institutes of Health NCI Office of Communications and
@@ -19673,17 +19557,17 @@
       Spanish)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_591.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cancergovstaff@mail.nih.gov
-      (<email>cancergovstaff@mail.nih.gov</email>)
+      <email>cancergovstaff@mail.nih.gov</email>
     </para>
     <para>
-      <emphasis role="strong">www.cancer.gov
-      <ulink url="http://www.cancer.gov/espanol">www.cancer.gov/espanol</ulink></emphasis>
-      (in Spanish) NCI coordinates the National Cancer Program, which
+      <ulink url="http://www.cancer.gov">www.cancer.gov</ulink>
+    </para>
+      <para>
+      <ulink url="http://www.cancer.gov/espanol">www.cancer.gov/espanol</ulink>
+      (in Spanish)
+      </para>
+      <para>
+      NCI coordinates the National Cancer Program, which
       conducts and supports research, training, health information
       dissemination, and other programs with respect to the cause,
       diagnosis, prevention, and treatment of cancer, rehabilitation
@@ -19691,33 +19575,14 @@
       families of cancer patients.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_592.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_593.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      National Institute of Allergy and Infectious Diseases (NIAID)
+      <emphasis role="strong">National Institute of Allergy and Infectious Diseases (NIAID)</emphasis>
     </para>
     <para>
       6610 Rockledge Dr. MSC 6612 Bethesda, MD 20892-6612 301-496-5717
       Toll free: 1-866-284-4107 TTY: 1-800-877-8339
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_594.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ocpostoffice@niaid.nih.gov
-      (<email>ocpostoffice@niaid.nih.gov</email>)
+      <email>ocpostoffice@niaid.nih.gov</email>
     </para>
     <para>
       <ulink url="http://www.niaid.nih.gov">www.niaid.nih.gov</ulink>
@@ -19730,7 +19595,7 @@
       website.
     </para>
     <para>
-      National Institute of Mental Health (NIMH)
+      <emphasis role="strong">National Institute of Mental Health (NIMH)</emphasis>
     </para>
     <para>
       National Institutes of Health (NIH) 6001 Executive Blvd. Room
@@ -19738,12 +19603,7 @@
       1-866-615-6464 TTY: 301-443-8431, 1-866-415-8051
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_595.jpg" />
-        </imageobject>
-      </inlinemediaobject>: nimhinfo@nih.gov
-      (<email>nimhinfo@nih.gov</email>)
+      <email>nimhinfo@nih.gov</email>
     </para>
     <para>
       <ulink url="http://www.nimh.nih.gov">www.nimh.nih.gov</ulink>
@@ -19756,13 +19616,9 @@
       publication ordering system is available on the NIMH website. Some
       publications are available in Spanish.
     </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_596.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
+    </sect1>
+      <sect1>
+        <title>Department of Homeland Security (DHS)</title>
     <para>
       Washington, DC 20528 202-282-8000 202-282-8495 (Comment Line)
     </para>
@@ -19774,18 +19630,13 @@
       and resilient against terrorism and other hazards.
     </para>
     <para>
-      Transportation Security Administration (TSA)
+      <emphasis role="strong">Transportation Security Administration (TSA)</emphasis>
     </para>
     <para>
       601 S. 12th St. Arlington, VA 20598-6002 Toll free: 1-866-289-9673
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_597.jpg" />
-        </imageobject>
-      </inlinemediaobject>: TSA-ContactCenter@dhs.gov
-      (<email>TSA-ContactCenter@dhs.gov</email>)
+      <email>TSA-ContactCenter@dhs.gov</email>
     </para>
     <para>
       <ulink url="http://www.tsa.gov">www.tsa.gov</ulink>
@@ -19796,7 +19647,7 @@
       claim for items that were damaged or lost during a TSA screening.
     </para>
     <para>
-      U.S. Citizenship and Immigration Services (USCIS)
+      <emphasis role="strong">U.S. Citizenship and Immigration Services (USCIS)</emphasis>
     </para>
     <para>
       Information and Customer Service Division 111 Massachusetts Ave.,
@@ -19805,14 +19656,19 @@
       8:00 pm, ET) TTY: 1-800-767-1833
     </para>
     <para>
-      <emphasis role="strong">www.uscis.gov
-      <ulink url="http://www.uscis.gov/portal/site/uscis-es">www.uscis.gov/portal/site/uscis-es</ulink></emphasis>
-      (in Spanish) The USCIS is responsible for processing immigration
+      <ulink url="http://www.uscis.gov">www.uscis.gov</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.uscis.gov/portal/site/uscis-es">www.uscis.gov/portal/site/uscis-es</ulink> 
+      (in Spanish)
+    </para>
+    <para>
+      The USCIS is responsible for processing immigration
       and naturalization applications and establishing policies
       regarding immigration services.
     </para>
     <para>
-      U.S. Customs and Border Protection
+      <emphasis role="strong">U.S. Customs and Border Protection</emphasis>
     </para>
     <para>
       1300 Pennsylvania Ave., NW Washington, DC 20229 703-526-4200 Toll
@@ -19828,36 +19684,47 @@
       protect agricultural products from pests and American businesses
       from theft of their intellectual property.
     </para>
-    <para>
-      Federal Emergency Management Agency (FEMA)
-    </para>
+      </sect1>
+      <sect1>
+      <title>Federal Emergency Management Agency (FEMA)</title>
     <para>
       500 C St., SW Washington, DC 20472 Toll free: 1-800-621-3362 TTY:
       1-800-462-7585
     </para>
     <para>
-      <ulink url="http://www.fema.gov"><emphasis role="strong">www.fema.gov
-      <ulink url="http://www.fema.gov/esp">www.fema.gov/esp</ulink></emphasis>
-      (in
-      Spanish)</ulink><ulink url="http://www.ready.gov"><emphasis role="strong">www.ready.gov</emphasis>
-      (Disaster
-      Preparedness)</ulink><ulink url="http://www.listo.gov"><emphasis role="strong">www.listo.gov</emphasis>
-      (Disaster Preparedness, in
-      Spanish)</ulink><emphasis role="strong">www.disasterassistance.gov</emphasis>
-      (Disaster Assistance) FEMA supports citizens and emergency
+      <ulink url="http://www.fema.gov">www.fema.gov</ulink>
+    </para>
+        <para>
+      <ulink url="http://www.fema.gov/esp">www.fema.gov/esp</ulink> (in Spanish)
+        </para>
+        <para>
+          <ulink url="http://www.ready.gov">www.ready.gov</ulink> (Disaster Preparedness)
+        </para>
+        <para>
+          <ulink url="http://www.listo.gov">www.listo.gov</ulink> (Disaster Preparedness, in Spanish)
+        </para>
+        <para>
+          <ulink url="http://www.disasterassistance.gov">www.disasterassistance.gov</ulink>
+      (Disaster Assistance)
+        </para>
+        <para>
+      FEMA supports citizens and emergency
       personnel to build, sustain, and improve the nation’s capability
       to prepare for, protect against, respond to, recover from, and
       mitigate all hazards.
     </para>
     <para>
-      FEMA Disaster Assistance
+      <emphasis role="strong">FEMA Disaster Assistance</emphasis>
     </para>
     <para>
       PO Box 10055 Hyattsville, MD 20782-8055 Toll free: 1-800-621-3362
       TTY: 1-800-462-7585
     </para>
     <para>
-      <ulink url="http://www.fema.gov/assistance">www.fema.gov/assistance</ulink><ulink url="http://www.disasterassistance.gov">www.disasterassistance.gov</ulink>
+      <ulink url="http://www.fema.gov/assistance">www.fema.gov/assistance</ulink>
+    </para>
+        <para>
+      <ulink url="http://www.disasterassistance.gov">www.disasterassistance.gov</ulink>
     </para>
     <para>
       FEMA Disaster Assistance provides information about how you can
@@ -19867,34 +19734,14 @@
       disasters.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_598.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_599.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_600.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      National Flood Insurance Program (NFIP)
+      <emphasis role="strong">National Flood Insurance Program (NFIP)</emphasis>
     </para>
     <para>
       Federal Emergency Management Agency 500 C St., SW Washington, DC
       20472 Toll free: 1-888-379-9531 TTY: 1-800-427-5593
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_601.jpg" />
-        </imageobject>
-      </inlinemediaobject>: FloodSmart@dhs.gov
-      (<email>FloodSmart@dhs.gov</email>)
+      <email>FloodSmart@dhs.gov</email>
     </para>
     <para>
       <ulink url="http://www.floodsmart.gov">www.floodsmart.gov</ulink>
@@ -19905,15 +19752,11 @@
       renters, and business owners if their community participates in
       the NFIP.
     </para>
+      </sect1>
+      <sect1>
+        <title>Department of Housing and Urban Development (HUD)</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_602.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Office of Fair Housing and Equal Opportunity (FHEO)
+      <emphasis role="strong">Office of Fair Housing and Equal Opportunity (FHEO)</emphasis>
     </para>
     <para>
       451 7th St., SW, Room 5204 Washington, DC 20410-2000 202-708-4252
@@ -19921,7 +19764,10 @@
       Spanish) TTY: 1-800-927-9275
     </para>
     <para>
-      <ulink url="http://www.hud.gov/complaints/housediscrim.cfm">www.hud.gov/complaints/housediscrim.cfm</ulink><ulink url="http://www.hud.gov/offices/fheo">www.hud.gov/offices/fheo</ulink>
+      <ulink url="http://www.hud.gov/complaints/housediscrim.cfm">www.hud.gov/complaints/housediscrim.cfm</ulink>
+    </para>
+        <para>
+      <ulink url="http://www.hud.gov/offices/fheo">www.hud.gov/offices/fheo</ulink>
     </para>
     <para>
       FHEO enforces federal laws and establishes policies that make sure
@@ -19929,9 +19775,8 @@
       you believe that you have been the victim of housing
       discrimination, file a complaint with this office.
     </para>
-    <para>
-      Department of Housing
-    </para>
+    <sect2>
+      <title>Department of Housing</title>
     <para>
       451 7th St., SW Washington, DC 20410 Toll free: 1-800-569-4287
       (Find a HUD-approved housing counselor)
