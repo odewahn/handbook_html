@@ -27531,15 +27531,38 @@
         </para>
       </sect1>
     </chapter>
+    <chapter id="trade_and_professional_associations">
+      <title>Trade and Professional Associations</title>
+      <sidebar>
+        <title>Contacting Trade and Professional Organizations</title>
+      <para>
+        Companies that manufacture similar products or offer 
+        similar services often belong to an industry association. 
+        These associations help resolve problems between their 
+        member companies and consumers. Most also provide 
+        consumer information through publications and websites.
+      </para>
+        <para>
+          If you have a problem with a company and cannot resolve 
+          it by working directly with that firm, ask whether the 
+          company is a member of an association. Then check this 
+          section to see whether the association is listed. If the 
+          association is not included here, your local library has 
+          reference materials to help you find the appropriate contact.
+        </para>
+      </sidebar>
     <para>
-      Advertising Self-Regulation Council (ASRC)
+      <emphasis role="strong">Advertising Self-Regulation Council (ASRC)</emphasis>
     </para>
     <para>
       70 W. 36th St., 13th Floor New York, NY 10018 Toll-free:
       1-866-334-6272
     </para>
     <para>
-      <ulink url="http://www.narcpartners.org">www.narcpartners.org</ulink><ulink url="http://www.asrcreviews.org">www.asrcreviews.org</ulink>
+      <ulink url="http://www.narcpartners.org">www.narcpartners.org</ulink>
+    </para>
+      <para>
+      <ulink url="http://www.asrcreviews.org">www.asrcreviews.org</ulink>
     </para>
     <para>
       ASRC fosters truth and accuracy in national advertising through
@@ -27548,18 +27571,14 @@
       solve disputes over advertising claims.
     </para>
     <para>
-      America’s Health Insurance Plans (AHIP)
+      <emphasis role="strong">America’s Health Insurance Plans (AHIP)</emphasis>
     </para>
     <para>
       601 Pennsylvania Ave., NW, South Bldg., Suite 500 Washington, DC
       20004 202-778-3200
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_960.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ahip@ahip.org (<email>ahip@ahip.org</email>)
+      <email>ahip@ahip.org</email>
     </para>
     <para>
       <ulink url="http://www.ahip.org">www.ahip.org</ulink>
@@ -27573,19 +27592,14 @@
       employers and public purchasers.
     </para>
     <para>
-      American Financial Services Association (AFSA) Education
-      Foundation •
+      <emphasis role="strong">American Financial Services Association (AFSA) Education
+      Foundation</emphasis>
     </para>
     <para>
       919 18th St., NW, Suite 300 Washington, DC 20006-5517 202-466-8611
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_961.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@afsaef.org
-      (<email>info@afsaef.org</email>)
+      <email>info@afsaef.org</email>
     </para>
     <para>
       <ulink url="http://www.afsaef.org">www.afsaef.org</ulink>
@@ -27599,7 +27613,7 @@
       expenses, assets, liabilities and risk management.
     </para>
     <para>
-      American Arbitration Association
+      <emphasis role="strong">American Arbitration Association</emphasis>
     </para>
     <para>
       1633 Broadway, 10th Floor New York, NY 10019 Toll-free:
@@ -27614,7 +27628,7 @@
       mediation, conciliation and other voluntary procedures.
     </para>
     <para>
-      American Bankers Association (ABA)
+      <emphasis role="strong">American Bankers Association (ABA)</emphasis>
     </para>
     <para>
       1120 Connecticut Ave., NW Washington, DC 20036 Toll-free:
@@ -27629,18 +27643,13 @@
       help consumers understand their financial choices.
     </para>
     <para>
-      American Bar Association
+      <emphasis role="strong">American Bar Association</emphasis>
     </para>
     <para>
       321 N. Clark St. Chicago, IL 60654 312-988-5000
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_962.jpg" />
-        </imageobject>
-      </inlinemediaobject>: askaba@abanet.org
-      (<email>askaba@abanet.org</email>)
+      <email>askaba@abanet.org</email>
     </para>
     <para>
       <ulink url="http://www.americanbar.org">www.americanbar.org</ulink>
@@ -27651,18 +27660,13 @@
       about the law, courts and guides for legal issues.
     </para>
     <para>
-      American Cleaning Institute<superscript>®</superscript> (ACI) •
+      <emphasis role="strong">American Cleaning Institute<superscript>®</superscript> (ACI)</emphasis>
     </para>
     <para>
       1331 L St., NW, Suite 650 Washington, DC 20005 202-347-2900
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_963.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@cleaninginstitute.org
-      (<email>info@cleaninginstitute.org</email>)
+      <email>info@cleaninginstitute.org</email>
     </para>
     <para>
       <ulink url="http://www.cleaninginstitute.org">www.cleaninginstitute.org</ulink>
@@ -27673,19 +27677,14 @@
       communities stay clean, safe and healthy at home, work and school.
     </para>
     <para>
-      American Council of Life Insurers
+      <emphasis role="strong">American Council of Life Insurers</emphasis>
     </para>
     <para>
       101 Constitution Ave., NW, Suite 700 Washington, DC 20001-2133
       202-624-2000
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_964.jpg" />
-        </imageobject>
-      </inlinemediaobject>: contact@acli.com
-      (<email>contact@acli.com</email>)
+      <email>contact@acli.com</email>
     </para>
     <para>
       <ulink url="http://www.acli.com">www.acli.com</ulink>
@@ -27696,7 +27695,7 @@
       and annuities, long-term care, and disability income insurance.
     </para>
     <para>
-      American Health Care Association (AHCA)
+      <emphasis role="strong">American Health Care Association (AHCA)</emphasis>
     </para>
     <para>
       1201 L St., NW Washington, DC 20005 202-842-4444
@@ -27710,29 +27709,10 @@
       Americans.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_965.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_966.jpg" />
-        </imageobject>
-      </inlinemediaobject>
+      <emphasis role="strong">American Institute of Certified Public Accountants (AICPA)</emphasis>
     </para>
     <para>
-      American Institute of Certified Public Accountants (AICPA)
-    </para>
-    <para>
-      220 Leigh Farm Rd.<literallayout>
-</literallayout> <literallayout>
-</literallayout> Durham, NC 27707<literallayout>
-</literallayout> <literallayout>
-</literallayout> 919-402-4500<literallayout>
-</literallayout> <literallayout>
-</literallayout> Toll-free: 1-888-777-7077 (Ethics Hotline)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      220 Leigh Farm Rd. Durham, NC 27707 919-402-4500 Toll-free: 1-888-777-7077 (Ethics Hotline)
     </para>
     <para>
       <ulink url="http://www.aicpa.org">www.aicpa.org</ulink>
@@ -27742,7 +27722,7 @@
       integrity, competence and professionalism of CPAs.
     </para>
     <para>
-      American Moving and Storage Association (AMSA)
+      <emphasis role="strong">American Moving and Storage Association (AMSA)</emphasis>
     </para>
     <para>
       1611 Duke St. Alexandria, VA 22314 703-683-7410 Toll-free:
@@ -27758,7 +27738,7 @@
       claims on interstate moves.
     </para>
     <para>
-      American Pharmacists Association (APhA)
+      <emphasis role="strong">American Pharmacists Association (APhA)</emphasis>
     </para>
     <para>
       2215 Constitution Ave., NW Washington, DC 20037 202-628-4410
@@ -27772,18 +27752,13 @@
       advance patient care through information, education, and advocacy.
     </para>
     <para>
-      American Society of Travel Agents, Inc. (ASTA)
+      <emphasis role="strong">American Society of Travel Agents, Inc. (ASTA)</emphasis>
     </para>
     <para>
       1101 King St., Suite 200 Alexandria, VA 22314 703-739-2782
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_967.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumeraffairs@asta.org
-      (<email>consumeraffairs@asta.org</email>)
+      <email>consumeraffairs@asta.org</email>
     </para>
     <para>
       <ulink url="http://www.astanet.com">www.astanet.com</ulink>
@@ -27795,7 +27770,7 @@
       poor travel service.
     </para>
     <para>
-      Assisted Living Federation of America (ALFA)
+      <emphasis role="strong">Assisted Living Federation of America (ALFA)</emphasis>
     </para>
     <para>
       1650 King St., Suite 602 Alexandria, VA 22314 703-894-1805
@@ -27809,19 +27784,14 @@
       consumers determine their assisted living needs.
     </para>
     <para>
-      Association of Credit and Collection Professionals (ACA
-      International)
+      <emphasis role="strong">Association of Credit and Collection Professionals (ACA
+      International)</emphasis>
     </para>
     <para>
       PO Box 390106 Minneapolis, MN 55439 952-926-6547
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_968.jpg" />
-        </imageobject>
-      </inlinemediaobject>: aca@acainternational.org
-      (<email>aca@acainternational.org</email>)
+      <email>aca@acainternational.org</email>
     </para>
     <para>
       <ulink url="http://www.askdoctordebt.com">www.askdoctordebt.com</ulink>
@@ -27833,8 +27803,8 @@
       consumers about their</ulink>rights.
     </para>
     <para>
-      Association of Independent Consumer Credit Counseling Agencies
-      (AICCCA)
+      <emphasis role="strong">Association of Independent Consumer Credit Counseling Agencies
+      (AICCCA)</emphasis>
     </para>
     <para>
       11350 Random Hills Rd., Suite 800 Fairfax, VA 22030 Toll-free:
@@ -27851,7 +27821,7 @@
       database to locate a credit counseling company) on their website.
     </para>
     <para>
-      Automotive Recyclers Association (ARA)
+      <emphasis role="strong">Automotive Recyclers Association (ARA)</emphasis>
     </para>
     <para>
       9113 Church St. Manassas, VA 20110 571-208-0428 Toll-free:
@@ -27866,7 +27836,7 @@
       motor vehicles.
     </para>
     <para>
-      Cellular Telecommunications and Internet Association (CTIA)
+      <emphasis role="strong">Cellular Telecommunications and Internet Association (CTIA)</emphasis>
     </para>
     <para>
       1400 16th St., NW, Suite 600 Washington, DC 20036 202-736-3200
@@ -27879,19 +27849,14 @@
       quality for consumers of wireless devices.
     </para>
     <para>
-      Certified Financial Planner Board of Standards
+      <emphasis role="strong">Certified Financial Planner Board of Standards</emphasis>
     </para>
     <para>
       1425 K St., NW, Suite 500 Washington, DC 20005 202-379-2200
       Toll-free: 1-800-487-1497
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_969.jpg" />
-        </imageobject>
-      </inlinemediaobject>: mail@cfpboard.org
-      (<email>mail@cfpboard.org</email>)
+      <email>mail@cfpboard.org</email>
     </para>
     <para>
       <ulink url="http://www.cfp.net">www.cfp.net</ulink>
@@ -27903,8 +27868,8 @@
       trademarks.
     </para>
     <para>
-      Commission on the Accreditation of Rehabilitation Facilities
-      (CARF)
+      <emphasis role="strong">Commission on the Accreditation of Rehabilitation Facilities
+      (CARF)</emphasis>
     </para>
     <para>
       6951 E. Southpoint Rd. Tucson, AZ 85756 Toll-free: 1-888-281-6531
@@ -27920,33 +27885,14 @@
       resources.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_970.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_971.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_972.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Consumer Electronics Association (CEA)
+      <emphasis role="strong">Consumer Electronics Association (CEA)</emphasis>
     </para>
     <para>
       1919 S. Eads St. Arlington, VA 22202 703-907-7600 Toll-free:
       1-866-858-1555
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_973.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cea@ce.org (<email>cea@ce.org</email>)
+      <email>cea@ce.org</email>
     </para>
     <para>
       <ulink url="http://www.ce.org">www.ce.org</ulink>
@@ -27957,7 +27903,7 @@
       guides for buying electronics to consumers.
     </para>
     <para>
-      Credit Union National Association (CUNA)
+      <emphasis role="strong">Credit Union National Association (CUNA)</emphasis>
     </para>
     <para>
       5710 Mineral Point Rd. Madison, WI 53705-0431 Toll-free:
@@ -27971,19 +27917,14 @@
       leagues throughout the nation.
     </para>
     <para>
-      Direct Marketing Association DMA)
+      <emphasis role="strong">Direct Marketing Association (DMA)</emphasis>
     </para>
     <para>
       1120 Avenue of the Americas New York, NY 10036-6700 212-768-7277
       ext. 1888
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_974.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@the-dma.org
-      (<email>consumer@the-dma.org</email>)
+      <email>consumer@the-dma.org</email>
     </para>
     <para>
       <ulink url="http://www.dmachoice.org">www.dmachoice.org</ulink>
@@ -27996,17 +27937,13 @@
       their mail.
     </para>
     <para>
-      Direct Selling Association (DSA)
+      <emphasis role="strong">Direct Selling Association (DSA)</emphasis>
     </para>
     <para>
       1667 K St., NW, Suite 1100 Washington, DC 20006 202-452-8866
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_975.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@dsa.org (<email>info@dsa.org</email>)
+      <email>info@dsa.org</email>
     </para>
     <para>
       <ulink url="http://www.dsa.org">www.dsa.org</ulink>
@@ -28016,7 +27953,7 @@
       distribute goods and services sold directly to consumers.
     </para>
     <para>
-      Distance Education and Training Council (DETC)
+      <emphasis role="strong">Distance Education and Training Council (DETC)</emphasis>
     </para>
     <para>
       1601 18th St., NW, Suite 2 Washington, DC 20009 202-234-5100
@@ -28029,18 +27966,12 @@
       organization that accredits distance education institutions.
     </para>
     <para>
-      Financial Industry Regulatory Authority (FINRA) •
+      <emphasis role="strong">Financial Industry Regulatory Authority (FINRA)</emphasis>
     </para>
     <para>
-      1736 K St., NW<literallayout>
-</literallayout> <literallayout>
-</literallayout> Washington, DC 20006<literallayout>
-</literallayout> <literallayout>
-</literallayout> 301-590-6500 (Call Center)<literallayout>
-</literallayout> <literallayout>
-</literallayout> Toll-free: 1-800-289-9999 (Broker Check Hotline)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      1736 K St., NW Washington, DC 20006
+      301-590-6500 (Call Center) 
+      Toll-free: 1-800-289-9999 (Broker Check Hotline)
     </para>
     <para>
       <ulink url="http://www.finra.org">www.finra.org</ulink>
@@ -28054,7 +27985,7 @@
       firms using the BrokerCheck tool on the FINRA website.
     </para>
     <para>
-      Financial Planning Association (FPA)
+      <emphasis role="strong">Financial Planning Association (FPA)</emphasis>
     </para>
     <para>
       7535 E. Hampden Ave., Suite 600 Denver, CO 80231 Toll-free:
