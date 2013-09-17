@@ -20694,7 +20694,8 @@
       <email>consumerassistance@ncua.gov</email>
     </para>
     <para>
-      <ulink url="http://"www.ncua.gov">www.ncua.gov</ulink></para>
+      <ulink url="http://www.ncua.gov">www.ncua.gov</ulink>
+    </para>
     <para>
       <ulink url="http://www.mycreditunion.gov">www.mycreditunion.gov</ulink> (Consumer
       education)
@@ -20820,11 +20821,12 @@
     <para>
       <ulink url="http://www.socialsecurity.gov">www.socialsecurity.gov</ulink>
 </para>
+        <para>
         <ulink url="http://www.socialsecurity.gov/espanol">www.socialsecurity.gov/espanol</ulink>
       (in Spanish)
 </para>
 <para>
-  <ulink role="http://"www.socialsecurity.gov/myaccount>www.socialsecurity.gov/myaccount</ulink>
+  <ulink url="http://www.socialsecurity.gov/myaccount">www.socialsecurity.gov/myaccount</ulink>
       (Social Security earnings records)
 </para>
         <para>The Social Security Administration provides retirement, 
@@ -21291,9 +21293,11 @@
       are vulnerable and disadvantaged — and the community organizations
       that serve them.
     </para>
-    <para>
-      Contacting Your Local Consumer Protection Offices
-    </para>
+    </chapter>
+    <chapter id="consumer_protection_offices">
+      <title>State, County, and City Consumer Protection Offices</title>
+      <sidebar>
+    <title>Contacting Your Local Consumer Protection Offices</title>
     <para>
       State, county, and city consumer protection offices offer a
       variety of important services. They might mediate complaints,
@@ -21320,14 +21324,13 @@
       issues. Ask whether any information is available regarding your
       problem.
     </para>
+      </sidebar>
+    <sect1>
+      <title>Alabama</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Alabama
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Alabama Office of the Attorney General
+      <emphasis role="strong">Alabama Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Affairs Section 501 Washington Ave. Montgomery, AL 36104
@@ -21336,38 +21339,33 @@
     <para>
       <ulink url="http://www.ago.state.al.us">www.ago.state.al.us</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+        <title>Alaska</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Alaska
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Office of the Attorney General
+      <emphasis role="strong">Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Unit 1031 W. 4th Ave., Suite 200 Anchorage, AK
       99501-5903 907-269-5200 Toll free: 1-888-576-2529
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_691.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumerprotection@ alaska.gov
-      (<email>consumerprotection@alaska.gov</email>)
+      <email>consumerprotection@alaska.gov</email>
     </para>
     <para>
       <ulink url="http://www.law.state.ak.us">www.law.state.ak.us</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Arizona</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Arizona
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Arizona Office of the Attorney General-Phoenix
+      <emphasis role="strong">Arizona Office of the Attorney General-Phoenix</emphasis>
     </para>
     <para>
       Consumer Information and Complaints 1275 W. Washington St.
@@ -21375,25 +21373,13 @@
       except Maricopa and Pima)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_692.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumerinfo@azag.gov
-      (<email>consumerinfo@azag.gov</email>)
+      <email>consumerinfo@azag.gov</email>
     </para>
     <para>
       <ulink url="http://www.azag.gov">www.azag.gov</ulink>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_693.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Arizona Office of the Attorney General- Tucson
+      <emphasis role="strong">Arizona Office of the Attorney General- Tucson</emphasis>
     </para>
     <para>
       Consumer Information and Complaints 400 W. Congress St. South
@@ -21401,24 +21387,19 @@
       1-800-352-8431 (AZ, except Maricopa and Pima)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_694.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumerinfo@azag.gov
-      (<email>consumerinfo@azag.gov</email>)
+      <email>consumerinfo@azag.gov</email>
     </para>
     <para>
       <ulink url="http://www.azag.gov">www.azag.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Arkansas</title>
+    <sect2>
+    <title>State Offices</title>
     <para>
-      Arkansas
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Arkansas Office of the Attorney General
+      <emphasis role="strong">Arkansas Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division 323 Center St., Suite 200 Little
@@ -21428,14 +21409,14 @@
     <para>
       <ulink url="http://www.arkansasag.gov">www.arkansasag.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+      <sect1>
+    <title>California</title>
+    <sect2>
+    <title>State Offices</title>
     <para>
-      California
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      California Bureau of Automotive Repair
+      <emphasis role="strong">California Bureau of Automotive Repair</emphasis>
     </para>
     <para>
       Department of Consumer Affairs 10949 N. Mather Blvd. Rancho
@@ -21443,18 +21424,13 @@
       Toll free: 1-866-799-3811 (Complaint Intake)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_695.jpg" />
-        </imageobject>
-      </inlinemediaobject>: BAREditor@dca.ca.gov
-      (<email>BAREditor@dca.ca.gov</email>)
+      <email>BAREditor@dca.ca.gov</email>
     </para>
     <para>
       <ulink url="http://www.autorepair.ca.gov">www.autorepair.ca.gov</ulink>
     </para>
     <para>
-      California Department of Consumer Affairs
+      <emphasis role="strong">California Department of Consumer Affairs</emphasis>
     </para>
     <para>
       Consumer Information Division 1625 N. Market Blvd., Suite N 112
@@ -21462,18 +21438,13 @@
       916-928-1227, 1-800-326-2297
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_696.jpg" />
-        </imageobject>
-      </inlinemediaobject>: dca@dca.ca.gov
-      (<email>dca@dca.ca.gov</email>)
+      <email>dca@dca.ca.gov</email>
     </para>
     <para>
       <ulink url="http://www.dca.ca.gov">www.dca.ca.gov</ulink>
     </para>
     <para>
-      California Office of the Attorney General
+      <emphasis role="strong">California Office of the Attorney General</emphasis>
     </para>
     <para>
       Public Inquiry Unit PO Box 944255 Sacramento, CA 94244-2550
@@ -21483,7 +21454,7 @@
       <ulink url="http://www.caag.state.ca.us">www.caag.state.ca.us</ulink>
     </para>
     <para>
-      Contractors State License Board
+      <emphasis role="strong">Contractors State License Board</emphasis>
     </para>
     <para>
       9821 Business Park Dr. Sacramento, CA 95827 916-255-3900
@@ -21493,11 +21464,11 @@
     <para>
       <ulink url="http://www.cslb.ca.gov">www.cslb.ca.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Contra Costa County District Attorney’s Office
+      <emphasis role="strong">Contra Costa County District Attorney’s Office</emphasis>
     </para>
     <para>
       Special Operations Division-Consumer Fraud 900 Ward St., 4th Floor
@@ -21507,50 +21478,33 @@
       <ulink url="http://www.co.contra-costa.ca.us">www.co.contra-costa.ca.us</ulink>
     </para>
     <para>
-      Fresno County District Attorney’s Office
+      <emphasis role="strong">Fresno County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer &amp; Environmental Protection Division 929 L St. Fresno,
       CA 93721 559-600-3156
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_697.jpg" />
-        </imageobject>
-      </inlinemediaobject>: damail@co.fresno.ca.us
-      (<email>damail@co.fresno.ca.us</email>)
+      <email>damail@co.fresno.ca.us</email>
     </para>
     <para>
       <ulink url="http://www.co.fresno.ca.us">www.co.fresno.ca.us</ulink>
     </para>
     <para>
-      Kern County District Attorney’s Office
+      <emphasis role="strong">Kern County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Unit Justice Building 1215 Truxtun Ave., 4th
       Floor Bakersfield, CA 93301 661-868-7600
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_698.jpg" />
-        </imageobject>
-      </inlinemediaobject>: investigation@co.kern.ca.us
-      (<email>investigation@co.kern.ca.us</email>)
+      <email>investigation@co.kern.ca.us</email>
     </para>
     <para>
       <ulink url="http://www.co.kern.ca.us/da">www.co.kern.ca.us/da</ulink>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_699.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Los Angeles County Department of Consumer Affairs
+      <emphasis role="strong">Los Angeles County Department of Consumer Affairs</emphasis>
     </para>
     <para>
       500 W. Temple St., Room B-96 Los Angeles, CA 90012-2722
@@ -21558,36 +21512,26 @@
       213-626-0913
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_700.jpg" />
-        </imageobject>
-      </inlinemediaobject>: dca@dca.lacounty.gov
-      (<email>dca@dca.lacounty.gov</email>)
+      <email>dca@dca.lacounty.gov</email>
     </para>
     <para>
       <ulink url="http:dca.lacounty.gov">dca.lacounty.gov</ulink>
     </para>
     <para>
-      Marin County District Attorney’s Office
+      <emphasis role="strong">Marin County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Unit Hall of Justice, Room 130 3501 Civic
       Center Dr. San Rafael, CA 94903 415-473-6450
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_701.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@marincounty.org
-      (<email>consumer@marincounty.org</email>)
+      <email>consumer@marincounty.org</email>
     </para>
     <para>
       <ulink url="http://www.co.marin.ca.us">www.co.marin.ca.us</ulink>
     </para>
     <para>
-      Monterey County District Attorney’s Office
+      <emphasis role="strong">Monterey County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Division 1200 Aguajito Rd., Room 301 Monterey,
@@ -21598,43 +21542,33 @@
       <ulink url="http://www.co.monterey.ca.us">www.co.monterey.ca.us</ulink>
     </para>
     <para>
-      Napa County District Attorney’s Office
+      <emphasis role="strong">Napa County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer/Environmental Protection Division 931 Parkway Mall Napa,
       CA 94559 707-253-4059 (Hotline)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_702.jpg" />
-        </imageobject>
-      </inlinemediaobject>: da@countyofnapa.org
-      (<email>da@countyofnapa.org</email>)
+      <email>da@countyofnapa.org</email>
     </para>
     <para>
       <ulink url="http://www.countyofnapa.org">www.countyofnapa.org</ulink>
     </para>
     <para>
-      Orange County District Attorney’s Office
+      <emphasis role="strong">Orange County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Unit 401 Civic Center Dr., W Santa Ana, CA
       92701 714-834-3600
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_703.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumercomplaint@
-      (<email>consumercomplaint@da.ocgov.com</email>)da.ocgov.com
+      <email>consumercomplaint@da.ocgov.com</email>
     </para>
     <para>
       <ulink url="http:orangecountyda.com">orangecountyda.com</ulink>
     </para>
     <para>
-      San Diego County District Attorney’s Office
+      <emphasis role="strong">San Diego County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Unit 330 W. Broadway San Diego, CA 92101
@@ -21644,7 +21578,7 @@
       <ulink url="http://www.sdcda.org">www.sdcda.org</ulink>
     </para>
     <para>
-      San Francisco County District Attorney’s Office
+      <emphasis role="strong">San Francisco County District Attorney’s Office</emphasis>
     </para>
     <para>
       Special Operations Division-Consumer Protection Unit 732 Brannan
@@ -21654,7 +21588,7 @@
       <ulink url="http://www.sfdistrictattorney.org">www.sfdistrictattorney.org</ulink>
     </para>
     <para>
-      San Luis Obispo County District Attorney’s Office
+      <emphasis role="strong">San Luis Obispo County District Attorney’s Office</emphasis>
     </para>
     <para>
       Economic Crime Unit Consumer Advisory County Courthouse Annex 1050
@@ -21664,7 +21598,7 @@
       <ulink url="http://www.slocounty.ca.gov">www.slocounty.ca.gov</ulink>
     </para>
     <para>
-      San Mateo County District Attorney’s Office
+      <emphasis role="strong">San Mateo County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer and Environmental Protection Unit Hall of Justice and
@@ -21675,7 +21609,7 @@
       <ulink url="http://www.co.sanmateo.ca.us">www.co.sanmateo.ca.us</ulink>
     </para>
     <para>
-      Santa Barbara County District Attorney’s Office
+      <emphasis role="strong">Santa Barbara County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Mediation Services 1112 Santa Barbara St. Santa Maria, CA
@@ -21685,61 +21619,46 @@
       <ulink url="http://www.countyofsb.org/da">www.countyofsb.org/da</ulink>
     </para>
     <para>
-      Santa Clara County District Attorney’s Office
+      <emphasis role="strong">Santa Clara County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Unit 70 W. Hedding St., West Wing San Jose, CA
       95110 408-792-2880
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_704.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer_mediation@ da.sccgov.org
-      (<email>consumer_mediation@da.sccgov.org</email>)
+      <email>consumer_mediation@da.sccgov.org</email>
     </para>
     <para>
       <ulink url="http://www.santaclara-da.org">www.santaclara-da.org</ulink>
     </para>
     <para>
-      Santa Cruz County District Attorney’s Office
+      <emphasis role="strong">Santa Cruz County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Affairs Unit 701 Ocean St., Room 200 Santa Cruz, CA 95060
       831-454-2050 TTY: 831-454-2123
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_705.jpg" />
-        </imageobject>
-      </inlinemediaobject>: dao@co.santa-cruz.ca.us
-      (<email>dao@co.santa-cruz.ca.us</email>)
+      <email>dao@co.santa-cruz.ca.us</email>
     </para>
     <para>
       <ulink url="http://www.co.santa-cruz.ca.us">www.co.santa-cruz.ca.us</ulink>
     </para>
     <para>
-      Solano County District Attorney’s Office
+      <emphasis role="strong">Solano County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer and Environmental Crimes 675 Texas St., Suite 5500
       Fairfield, CA 94533 707-784-6859
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_706.jpg" />
-        </imageobject>
-      </inlinemediaobject>: SolanoDA@solanocounty.com
-      (<email>SolanoDA@solanocounty.com</email>)
+      <email>SolanoDA@solanocounty.com</email>
     </para>
     <para>
       <ulink url="http://www.co.solano.ca.us/depts/da">www.co.solano.ca.us/depts/da</ulink>
     </para>
     <para>
-      Stanislaus County District Attorney’s Office
+      <emphasis role="strong">Stanislaus County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Unit 832 12th St., Suite 300 Modesto, CA 95354
@@ -21749,7 +21668,7 @@
       <ulink url="http://www.stanislaus-da.org">www.stanislaus-da.org</ulink>
     </para>
     <para>
-      Ventura County District Attorney’s Office
+      <emphasis role="strong">Ventura County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Mediation Section 800 S. Victoria Ave. Ventura, CA 93009
@@ -21758,11 +21677,11 @@
     <para>
       <ulink url="http:da.countyofventura.org">da.countyofventura.org</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>City Offices</title>
     <para>
-      City Offices
-    </para>
-    <para>
-      Los Angeles City Attorney’s Office
+      <emphasis role="strong">Los Angeles City Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Unit 200 N. Main St., Room 800 CHE Los
@@ -21772,86 +21691,55 @@
       <ulink url="http://www.atty.lacity.org">www.atty.lacity.org</ulink>
     </para>
     <para>
-      San Diego City Attorney’s Office
+      <emphasis role="strong">San Diego City Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer and Environmental Protection Unit 1200 3rd Ave., #1620
       San Diego, CA 92101 619-533-5600 TTY: 619-702-7198
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_707.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cityattorney@sandiego.gov
-      (<email>cityattorney@sandiego.gov</email>)
+      <email>cityattorney@sandiego.gov</email>
     </para>
     <para>
       <ulink url="http://www.sandiego.gov/cityattorney">www.sandiego.gov/cityattorney</ulink>
     </para>
     <para>
-      Santa Monica City Attorney’s Office
+      <emphasis role="strong">Santa Monica City Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Unit 1685 Main St., 3rd Floor Santa Monica, CA
       90401 310-458-8336 TTY: 310-458-8696
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_708.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.mailbox@smgov.net
-      (<email>consumer.mailbox@smgov.net</email>)
+      <email>consumer.mailbox@smgov.net</email>
     </para>
     <para>
       <ulink url="http://www.smgov.net/atty">www.smgov.net/atty</ulink>
     </para>
+    </sect2>
+    </sect1>
+      <sect1>
+    <title>Colorado</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_709.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_710.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_711.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Colorado
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Colorado Office of the Attorney General
+      <emphasis role="strong">Colorado Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Section 1525 Sherman St., 7th Floor Denver, CO
       80203 303-866-5189 Toll free: 1-800-222-4444 (CO)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_712.jpg" />
-        </imageobject>
-      </inlinemediaobject>: stop.fraud@state.co.us
-      (<email>stop.fraud@state.co.us</email>)
+     <email>stop.fraud@state.co.us</email>
     </para>
     <para>
-      <ulink url="http://www.coloradoattorneygeneral.gov">www.coloradoattorneygeneral.
-      gov</ulink>
+      <ulink url="http://www.coloradoattorneygeneral.gov">www.coloradoattorneygeneral.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Fourth Judicial District Attorney’s Office
+      <emphasis role="strong">Fourth Judicial District Attorney’s Office</emphasis>
     </para>
     <para>
       Economic Crimes Division El Paso and Teller Counties 105 E.
@@ -21861,7 +21749,7 @@
       <ulink url="http://www.4thjudicialda.com">www.4thjudicialda.com</ulink>
     </para>
     <para>
-      Pueblo County District Attorney’s Office
+      <emphasis role="strong">Pueblo County District Attorney’s Office</emphasis>
     </para>
     <para>
       Economic Crimes Unit 215 W. 10th St. Pueblo, CO 81003 719-583-6000
@@ -21870,7 +21758,7 @@
       <ulink url="http://www.pueblo.org%20">pueblo.org</ulink>
     </para>
     <para>
-      Weld County District Attorney’s Office
+      <emphasis role="strong">Weld County District Attorney’s Office</emphasis>
     </para>
     <para>
       915 10th St. PO Box 1167 Greeley, CO 80632-1167 970-356-4010
@@ -21878,35 +21766,30 @@
     <para>
       <ulink url="http://www.co.weld.co.us">www.co.weld.co.us</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>City Offices</title>
     <para>
-      City Offices
-    </para>
-    <para>
-      Denver District Attorney’s Office
+      <emphasis role="strong">Denver District Attorney’s Office</emphasis>
     </para>
     <para>
       Economic Crimes Unit 201 W. Colfax Ave. Denver, CO 80202
       720-913-9179
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_713.jpg" />
-        </imageobject>
-      </inlinemediaobject>: stop.fraud@state.co.us
-      (<email>stop.fraud@state.co.us</email>)
+      <email>stop.fraud@state.co.us</email>
     </para>
     <para>
       <ulink url="http://www.denverda.org">www.denverda.org</ulink>
     </para>
+    </sect2>
+      </sect1>
+    <sect1>
+      <title>Connecticut</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Connecticut
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Connecticut Attorney General’s Office
+      <emphasis role="strong">Connecticut Attorney General’s Office</emphasis>
     </para>
     <para>
       55 Elm St. Hartford, CT 06106 860-808-5318
@@ -21915,28 +21798,23 @@
       <ulink url="http://www.ct.gov/ag">www.ct.gov/ag</ulink>
     </para>
     <para>
-      Department of Consumer Protection
+      <emphasis role="strong">Department of Consumer Protection</emphasis>
     </para>
     <para>
       165 Capitol Ave. Hartford, CT 06106-1630 Toll free: 1-800-842-2649
       TTY: 860-713-7240
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_714.jpg" />
-        </imageobject>
-      </inlinemediaobject>: dcp.commisioner@ct.gov
-      (<email>dcp.commisioner@ct.gov</email>)
+      <email>dcp.commisioner@ct.gov</email>
     </para>
     <para>
       <ulink url="http://www.ct.gov/dcp">www.ct.gov/dcp</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>City Offices</title>
     <para>
-      City Offices
-    </para>
-    <para>
-      Middletown Office of Consumer Protection
+      <emphasis role="strong">Middletown Office of Consumer Protection</emphasis>
     </para>
     <para>
       Director of Consumer Protection 245 deKoven Dr. Middletown, CT
@@ -21945,80 +21823,68 @@
     <para>
       <ulink url="http://www.cityofmiddletown.com">www.cityofmiddletown.com</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Delaware</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Delaware
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Delaware Department of Justice
+      <emphasis role="strong">Delaware Department of Justice</emphasis>
     </para>
     <para>
       Consumer Protection Division 820 N. French St., 5th Floor
       Wilmington, DE 19801 302-577-8600 Toll free: 1-800-220-5424
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_715.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.protection@state.de.us
-      (<email>consumer.protection@state.de.us</email>)
+      <email>consumer.protection@state.de.us</email>
     </para>
     <para>
-      <ulink url="http://www.attorneygeneral.delaware.gov">www.attorneygeneral</ulink>.
-      delaware.gov
+      <ulink url="http://www.attorneygeneral.delaware.gov">www.attorneygeneral.delaware.gov</ulink>.
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>District Of Columbia</title>
+    <sect2>
+      <title>City Offices</title>
     <para>
-      District Of Columbia
-    </para>
-    <para>
-      City Offices
-    </para>
-    <para>
-      Department of Consumer and Regulatory Affairs
+      <emphasis role="strong">Department of Consumer and Regulatory Affairs</emphasis>
     </para>
     <para>
       1100 4th St., SW Washington, DC 20024 202-442-4400 TTY:
       202-123-4567
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_716.jpg" />
-        </imageobject>
-      </inlinemediaobject>: dcra@dc.gov (<email>dcra@dc.gov</email>)
+      <email>dcra@dc.gov</email>
     </para>
     <para>
-      <ulink url="http://www.consumer.dc.gov">www.consumer.dc.gov</ulink><ulink url="http://www.dcra.dc.gov">www.dcra.dc.gov</ulink>
+      <ulink url="http://www.consumer.dc.gov">www.consumer.dc.gov</ulink>
+      </para>
+      <para>
+        <ulink url="http://www.dcra.dc.gov">www.dcra.dc.gov</ulink>
     </para>
     <para>
-      Office of the Attorney General
+      <emphasis role="strong">Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection and Antitrust 441 4th St., NW Washington, DC
       20001 202-442-9828 (Hotline)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_717.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.protection@dc.gov
-      (<email>consumer.protection@dc.gov</email>)
+      <email>consumer.protection@dc.gov</email>
     </para>
     <para>
       <ulink url="http://www.consumer.dc.gov">www.consumer.dc.gov</ulink><ulink url="http://www.oag.dc.gov">www.oag.dc.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Florida</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Florida
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Florida Department of Agriculture and Consumer Services
+      <emphasis role="strong">Florida Department of Agriculture and Consumer Services</emphasis>
     </para>
     <para>
       Division of Consumer Services Terry Lee Rhodes Building 2005
@@ -22029,18 +21895,17 @@
       <ulink url="http://www.800helpfla.com">www.800helpfla.com</ulink>
     </para>
     <para>
-      Florida Department of Financial Services
+      <emphasis role="strong">Florida Department of Financial Services</emphasis>
     </para>
     <para>
       Division of Consumer Services 200 E. Gaines St. Tallahassee, FL
       32399 850-413-3089 Toll free: 1-877-693-5236
     </para>
     <para>
-      <ulink url="http://www.myfloridacfo.com/Division">www.myfloridacfo.com/Division</ulink>/
-      Consumers
+      <ulink url="http://www.myfloridacfo.com/Division/Consumers">www.myfloridacfo.com/Division/Consumers</ulink>
     </para>
     <para>
-      Florida Office of the Attorney General
+      <emphasis role="strong">Florida Office of the Attorney General</emphasis>
     </para>
     <para>
       PL-01 The Capitol Tallahassee, FL 32399-1050 850-414-3990 Toll
@@ -22048,13 +21913,16 @@
       1-800-955-8771
     </para>
     <para>
-      <ulink url="http:myfloridalegal.com">myfloridalegal.com</ulink><ulink url="http://www.seniorsvscrime.com">www.seniorsvscrime.com</ulink>
+      <ulink url="http://myfloridalegal.com">myfloridalegal.com</ulink>
     </para>
-    <para>
-      Regional Offices
+      <para>
+      <ulink url="http://www.seniorsvscrime.com">www.seniorsvscrime.com</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>Regional Offices</title>
     <para>
-      Ft. Lauderdale Branch- Office of the Attorney General
+      <emphasis role="strong">Ft. Lauderdale Branch- Office of the Attorney General</emphasis>
     </para>
     <para>
       Economic Crimes Division 110 S.E. 6th St., 9th Floor Fort
@@ -22064,7 +21932,7 @@
       <ulink url="http://www.myfloridalegal.com">www.myfloridalegal.com</ulink>
     </para>
     <para>
-      Jacksonville Branch- Office of the Attorney General
+      <emphasis role="strong">Jacksonville Branch- Office of the Attorney General</emphasis>
     </para>
     <para>
       Economic Crimes Division 1300 Riverplace Blvd., Suite 405
@@ -22074,7 +21942,7 @@
       <ulink url="http://www.myfloridalegal.com">www.myfloridalegal.com</ulink>
     </para>
     <para>
-      Orlando Branch- Office of the Attorney General
+      <emphasis role="strong">Orlando Branch- Office of the Attorney General</emphasis>
     </para>
     <para>
       Economic Crimes Division 135 W. Central Blvd., Suite 1000 Orlando,
@@ -22084,18 +21952,7 @@
       <ulink url="http://www.myfloridalegal.com">www.myfloridalegal.com</ulink>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_718.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_719.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Tampa Branch- Office of the Attorney General
+      <emphasis role="strong">Tampa Branch- Office of the Attorney General</emphasis>
     </para>
     <para>
       Economic Crimes Division Concourse Center 4 3507 E. Frontage Rd.,
@@ -22105,7 +21962,7 @@
       <ulink url="http://www.myfloridalegal.com">www.myfloridalegal.com</ulink>
     </para>
     <para>
-      West Palm Beach Branch- Office of the Attorney General
+      <emphasis role="strong">West Palm Beach Branch- Office of the Attorney General</emphasis>
     </para>
     <para>
       Economic Crimes Division 1515 N. Flagler Dr., Suite 900 West Palm
@@ -22114,59 +21971,47 @@
     <para>
       <ulink url="http:myfloridalegal.com">myfloridalegal.com</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Broward County Permitting, Licensing &amp; Consumer Protection
-      Division
+      <emphasis role="strong">Broward County Permitting, Licensing &amp; Consumer Protection
+      Division</emphasis>
     </para>
     <para>
       One N. University Dr., Mailbox 302 Plantation, FL 33324
       954-765-4400
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_720.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@broward.org
-      (<email>consumer@broward.org</email>)
+      <email>consumer@broward.org</email>
     </para>
     <para>
-      <ulink url="http://www.broward.org/permittingandlicensing">www.broward.org/
-      permittingandlicensing</ulink>
+      <ulink url="http://www.broward.org/permittingandlicensing">www.broward.org/permittingandlicensing</ulink>
     </para>
     <para>
-      Hillsborough County Consumer Protection Agency
+      <emphasis role="strong">Hillsborough County Consumer Protection Agency</emphasis>
     </para>
     <para>
       1101 E. 139th Ave. Tampa, FL 33613 813-903-3430
     </para>
     <para>
-      <ulink url="http://www.hillsboroughcounty.org/consumerprotection">www.hillsboroughcounty.org/
-      consumerprotection</ulink>
+      <ulink url="http://www.hillsboroughcounty.org/consumerprotection">www.hillsboroughcounty.org/consumerprotection</ulink>
     </para>
     <para>
-      Miami-Dade County Consumer Services Department
+      <emphasis role="strong">Miami-Dade County Consumer Services Department</emphasis>
     </para>
     <para>
       Consumer Protection Section 140 W. Flagler St., Suites 902 Miami,
       FL 33130 305-375-3677
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_721.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@miamidade.gov
-      (<email>consumer@miamidade.gov</email>)
+      <email>consumer@miamidade.gov</email>
     </para>
     <para>
       <ulink url="http://www.miamidade.gov/csd">www.miamidade.gov/csd</ulink>
     </para>
     <para>
-      Office of the State Attorney for Miami-Dade County
+      <emphasis role="strong">Office of the State Attorney for Miami-Dade County</emphasis>
     </para>
     <para>
       Economic Crime Division 1350 N.W. 12th Ave. Miami, FL 33136-2111
@@ -22176,24 +22021,19 @@
       <ulink url="http://www.miamisao.com">www.miamisao.com</ulink>
     </para>
     <para>
-      Orange County Consumer Fraud Unit
+      <emphasis role="strong">Orange County Consumer Fraud Unit</emphasis>
     </para>
     <para>
       415 N. Orange Ave. PO Box 1673 Orlando, FL 32802 407-836-2490
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_722.jpg" />
-        </imageobject>
-      </inlinemediaobject>: fraudhelp@sao9.org
-      (<email>fraudhelp@sao9.org</email>)
+      <email>fraudhelp@sao9.org</email>
     </para>
     <para>
       <ulink url="http://www.orangecountyfl.net">www.orangecountyfl.net</ulink>
     </para>
     <para>
-      Palm Beach County Consumer Affairs Division
+      <emphasis role="strong">Palm Beach County Consumer Affairs Division</emphasis>
     </para>
     <para>
       50 S. Military Tr., Suite 201 West Palm Beach, FL 33415
@@ -22203,32 +22043,26 @@
       <ulink url="http://www.pbcgov.com/consumer">www.pbcgov.com/consumer</ulink>
     </para>
     <para>
-      Pinellas County Office of Consumer Services
+      <emphasis role="strong">Pinellas County Office of Consumer Services</emphasis>
     </para>
     <para>
       631 Chestnut St. Clearwater, FL 33756 727-464-6200 TTY:
       727-464-6088
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_723.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@pinellascounty.org
-      (<email>consumer@pinellascounty.org</email>)
+      <email>consumer@pinellascounty.org</email>
     </para>
     <para>
-      <ulink url="http://www.pinellascounty.org/consumer">www.pinellascounty.org/
-      consumer</ulink>
+      <ulink url="http://www.pinellascounty.org/consumer">www.pinellascounty.org/consumer</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Georgia</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Georgia
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Georgia Governors Office of Consumer Affairs
+      <emphasis role="strong">Georgia Governors Office of Consumer Affairs</emphasis>
     </para>
     <para>
       Two Martin Luther King, Jr. Dr., SE Suite 356 Atlanta, GA
@@ -22237,33 +22071,28 @@
     <para>
       <ulink url="http://www.consumer.georgia.gov">www.consumer.georgia.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Hawaii</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Hawaii
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Hawaii Department of Commerce and Consumer Affairs - Hilo
+      <emphasis role="strong">Hawaii Department of Commerce and Consumer Affairs - Hilo</emphasis>
     </para>
     <para>
       Office of Consumer Protection 345 Kekuanaoa St., Suite 12 Hilo, HI
       96720 808-933-0910 808-587-3222 (Consumer Resource Center)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_724.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ocp@dcca.hawaii.gov
-      (<email>ocp@dcca.hawaii.gov</email>)
+      <email>ocp@dcca.hawaii.gov</email>
     </para>
     <para>
       <ulink url="http://www.hawaii.gov/dcca">www.hawaii.gov/dcca</ulink>
     </para>
     <para>
-      Hawaii Department of Commerce and Consumer Affairs - Honolulu
-      (Main Location)
+      <emphasis role="strong">Hawaii Department of Commerce and Consumer Affairs - Honolulu
+      (Main Location)</emphasis>
     </para>
     <para>
       Office of Consumer Protection 235 S. Beretania St., Suite 801
@@ -22271,18 +22100,13 @@
       Center)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_725.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ocp@dcca.hawaii.gov
-      (<email>ocp@dcca.hawaii.gov</email>)
+      <email>ocp@dcca.hawaii.gov</email>
     </para>
     <para>
       <ulink url="http://www.hawaii.gov/dcca/ocp">www.hawaii.gov/dcca/ocp</ulink>
     </para>
     <para>
-      Hawaii Department of Commerce and Consumer Affairs - Wailuku
+      <emphasis role="strong">Hawaii Department of Commerce and Consumer Affairs - Wailuku</emphasis>
     </para>
     <para>
       Office of Consumer Protection 1063 Lower Main St., Suite C-216
@@ -22290,24 +22114,19 @@
       Center)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_726.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ocp@dcca.hawaii.gov
-      (<email>ocp@dcca.hawaii.gov</email>)
+      <email>ocp@dcca.hawaii.gov</email>
     </para>
     <para>
       <ulink url="http://www.hawaii.gov/dcca/ocp">www.hawaii.gov/dcca/ocp</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Idaho</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Idaho
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Idaho Attorney General’s Office
+      <emphasis role="strong">Idaho Attorney General’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Division 954 W. Jefferson, 2nd Floor PO Box
@@ -22316,107 +22135,65 @@
     <para>
       <ulink url="http://www.ag.idaho.gov">www.ag.idaho.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Illinois</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Illinois
+      <emphasis role="strong">Illinois Office of the Attorney General - Carbondale</emphasis>
     </para>
     <para>
-      State Offices
-    </para>
-    <para>
-      Illinois Office of the Attorney General - Carbondale
-    </para>
-    <para>
-      Consumer Fraud Bureau<literallayout>
-</literallayout> <literallayout>
-</literallayout>601 S. University Ave.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Carbondale, IL 62901<literallayout>
-</literallayout> <literallayout>
-</literallayout>618-529-6400<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-243-0607<literallayout>
-</literallayout> <literallayout>
-</literallayout>(Fraud Hotline, IL)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-866-310-8398 (in Spanish)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-877-675-9339 (IL)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Consumer Fraud Bureau 
+      601 S. University Ave. 
+      Carbondale, IL 62901 
+      618-529-6400 
+      Toll free: 1-800-243-0607 
+      (Fraud Hotline, IL) 
+      Toll free: 1-866-310-8398 (in Spanish) 
+      TTY: 1-877-675-9339 (IL)
     </para>
     <para>
       <ulink url="http://www.illinoisattorneygeneral.gov">www.illinoisattorneygeneral.gov</ulink>
     </para>
     <para>
-      Illinois Office of the Attorney General - Chicago
+      <emphasis role="strong">Illinois Office of the Attorney General - Chicago</emphasis>
     </para>
     <para>
-      Consumer Fraud Bureau<literallayout>
-</literallayout> <literallayout>
-</literallayout>100 W. Randolph St.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Chicago, IL 60601<literallayout>
-</literallayout> <literallayout>
-</literallayout>312-814-3000<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-386-5438<literallayout>
-</literallayout> <literallayout>
-</literallayout>(Fraud Hotline, IL)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-866-310-8398 (in Spanish)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-800-964-3013 (IL)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Consumer Fraud Bureau 
+      100 W. Randolph St. 
+      Chicago, IL 60601 
+      312-814-3000 
+      Toll free: 1-800-386-5438 
+      (Fraud Hotline, IL) 
+      Toll free: 1-866-310-8398 (in Spanish) 
+      TTY: 1-800-964-3013 (IL)
     </para>
     <para>
       <ulink url="http://www.illinoisattorneygeneral.gov">www.illinoisattorneygeneral.gov</ulink>
     </para>
     <para>
-      Illinois Office of the Attorney General - Springfield
+      <emphasis role="strong">Illinois Office of the Attorney General - Springfield</emphasis>
     </para>
     <para>
-      Consumer Fraud Bureau<literallayout>
-</literallayout> <literallayout>
-</literallayout>500 S. 2nd St.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Springfield, IL 62706<literallayout>
-</literallayout> <literallayout>
-</literallayout>217-782-1090<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-243-0618<literallayout>
-</literallayout> <literallayout>
-</literallayout>(Fraud Hotline, IL)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-866-310-8398 (in Spanish)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-877-844-5461 (IL)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Consumer Fraud Bureau 
+      500 S. 2nd St. 
+      Springfield, IL 62706 
+      217-782-1090 
+      Toll free: 1-800-243-0618 
+      (Fraud Hotline, IL) 
+      Toll free: 1-866-310-8398 (in Spanish) 
+      TTY: 1-877-844-5461 (IL)
     </para>
     <para>
       <ulink url="http://www.illinoisattorneygeneral.gov">www.illinoisattorneygeneral.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>Regional Offices</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_727.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_728.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_729.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Regional Offices
-    </para>
-    <para>
-      Chicago South Regional Office of the Attorney General
+      <emphasis role="strong">Chicago South Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       7906 S. Cottage Grove Ave. Chicago, IL 60619 773-488-2600 TTY:
@@ -22426,7 +22203,7 @@
       <ulink url="http://www.illinoisattorneygeneral.gov">www.illinoisattorneygeneral.gov</ulink>
     </para>
     <para>
-      Chicago West Regional Office of the Attorney General
+      <emphasis role="strong">Chicago West Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       306 N. Pulaski Rd. Chicago, IL 60624 773-265-8808 TTY:
@@ -22436,7 +22213,7 @@
       <ulink url="http://www.illinoisattorneygeneral.gov">www.illinoisattorneygeneral.gov</ulink>
     </para>
     <para>
-      East Central Illinois Regional Office of the Attorney General
+      <emphasis role="strong">East Central Illinois Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       1776 E. Washington St. Urbana, IL 61802 217-278-3366 TTY:
@@ -22446,7 +22223,7 @@
       <ulink url="http://www.illinoisattorneygeneral.gov">www.illinoisattorneygeneral.gov</ulink>
     </para>
     <para>
-      Metro East Illinois Regional Office of the Attorney General
+      <emphasis role="strong">Metro East Illinois Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       201 W. Pointe Dr., Suite 7 Belleville, IL 62226 618-236-8616 TTY:
@@ -22456,7 +22233,7 @@
       <ulink url="http://www.illinoisattorneygeneral.gov">www.illinoisattorneygeneral.gov</ulink>
     </para>
     <para>
-      Northern Illinois Regional Office of the Attorney General
+      <emphasis role="strong">Northern Illinois Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       Zeke Giorgi Center 200 S. Wyman St., Suite 307 Rockford, IL 61101
@@ -22466,7 +22243,7 @@
       <ulink url="http://www.illinoisattorneygeneral.gov">www.illinoisattorneygeneral.gov</ulink>
     </para>
     <para>
-      West Central Illinois Regional Office of the Attorney General
+      <emphasis role="strong">West Central Illinois Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       628 Maine St. Quincy, IL 62301 217-223-2221 TTY: 217-223-2254
@@ -22474,67 +22251,55 @@
     <para>
       <ulink url="http://www.illinoisattorneygeneral.gov">www.illinoisattorneygeneral.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Cook County State Attorney’s Office
+      <emphasis role="strong">Cook County State Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Fraud Unit 69 W. Washington St., Suite 3130 Chicago, IL
       60602 312-603-8600 312-603-8700 (Consumer Line)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_730.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@cookcountygov.com
-      (<email>consumer@cookcountygov.com</email>)
+      <email>consumer@cookcountygov.com</email>
     </para>
     <para>
-      <ulink url="http://www.statesattorney.org/index2/consumer_fraud.html">www.statesattorney.org/index2/
-      consumer_fraud.html</ulink>
+      <ulink url="http://www.statesattorney.org/index2/consumer_fraud.html">www.statesattorney.org/index2/consumer_fraud.html</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>City Offices</title>
     <para>
-      City Offices
-    </para>
-    <para>
-      Des Plaines Consumer Protection Services
+      <emphasis role="strong">Des Plaines Consumer Protection Services</emphasis>
     </para>
     <para>
       1420 Miner St., 6th Floor Des Plaines, IL 60016 847-391-5006
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_731.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumerprotection@ desplaines.org
-      (<email>consumerprotection@desplaines.org</email>)
+      <email>consumerprotection@desplaines.org</email>
     </para>
     <para>
       <ulink url="http://www.desplaines.org">www.desplaines.org</ulink>
     </para>
     <para>
-      Chicago Division of Business Affairs and Consumer Protection
+      <emphasis role="strong">Chicago Division of Business Affairs and Consumer Protection</emphasis>
     </para>
     <para>
       City Hall, 8th Floor 121 N. LaSalle St. Chicago, IL 60602
       312-744-6060 TTY: 312-744-0254
     </para>
     <para>
-      <ulink url="http://www.cityofchicago.org/ConsumerServices">www.cityofchicago.org/
-      ConsumerServices</ulink>
+      <ulink url="http://www.cityofchicago.org/ConsumerServices">www.cityofchicago.org/ConsumerServices</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Indiana</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Indiana
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Office of the Attorney General
+      <emphasis role="strong">Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division Government Center South, 5th Floor
@@ -22544,38 +22309,33 @@
     <para>
       <ulink url="http://www.indianaconsumer.com">www.indianaconsumer.com</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Iowa</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Iowa
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Iowa Office of the Attorney General
+      <emphasis role="strong">Iowa Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division 1305 E. Walnut St. Des Moines, IA
       50319 515-281-5926 Toll free: 1-888-777-4590 (IA)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_732.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@ag.state.ia.us
-      (<email>consumer@ag.state.ia.us</email>)
+      <email>consumer@ag.state.ia.us</email>
     </para>
     <para>
       <ulink url="http://www.IowaAttorneyGeneral.org">www.IowaAttorneyGeneral.org</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Kansas</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Kansas
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Office of Kansas Attorney
+      <emphasis role="strong">Office of Kansas Attorney</emphasis>
     </para>
     <para>
       Consumer Protection and Antitrust Division 120 S.W. 10th St.,
@@ -22585,39 +22345,27 @@
     <para>
       <ulink url="http://www.ag.ks.gov">www.ag.ks.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
+      <emphasis role="strong">Douglas County District Attorney’s Office</emphasis>
     </para>
     <para>
-      Douglas County District Attorney’s Office
+      Consumer Protection Division 
+      111 E. 11th St. 
+      Lawrence, KS 66044 
+      785-330-2849 (Consumer Hotline) 
+      785-841-0211 (Main)
     </para>
     <para>
-      Consumer Protection Division<literallayout>
-</literallayout> <literallayout>
-</literallayout>111 E. 11th St.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Lawrence, KS 66044<literallayout>
-</literallayout> <literallayout>
-</literallayout>785-330-2849 (Consumer Hotline)<literallayout>
-</literallayout> <literallayout>
-</literallayout>785-841-0211 (Main)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      <email>districtattorney@douglas-county.com</email>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_733.jpg" />
-        </imageobject>
-      </inlinemediaobject>: districtattorney@
-      (<email>districtattorney@douglas-county.com</email>)douglas-county.com
+      <ulink url="http://www.douglas-county.com/depts/da/da_cpu.aspx">www.douglas-county.com/depts/da/da_cpu.aspx</ulink>
     </para>
     <para>
-      <ulink url="http://www.douglas-county.com/depts/da/da_cpu.aspx">www.douglas-county.com/
-      depts/da/da_cpu.aspx</ulink>
-    </para>
-    <para>
-      Johnson County District Attorney’s Office
+      <emphasis role="strong">Johnson County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Division Consumer Fraud Unit PO Box 728
@@ -22627,49 +22375,39 @@
       <ulink url="http:da.jocogov.org">da.jocogov.org</ulink>
     </para>
     <para>
-      Sedgwick County District Attorney’s Office
+      <emphasis role="strong">Sedgwick County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Fraud and Economic Crime Unit 1900 E. Morris St. Wichita,
       KS 67211 316-660-3600 Toll free: 1-800-432-6878 (KS)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_734.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@sedgwick.gov
-      (<email>consumer@sedgwick.gov</email>)
+      <email>consumer@sedgwick.gov</email>
     </para>
     <para>
       <ulink url="http://www.sedgwickcounty.org/da">www.sedgwickcounty.org/da</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Kentucky</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Kentucky
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Kentucky Office of the Attorney General
+      <emphasis role="strong">Kentucky Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division 1024 Capital Center Dr. Frankfort, KY
       40601 502-696-5389 Toll free: 1-888-432-9257 (Hotline)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_735.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.protection@ag.ky.gov
-      (<email>consumer.protection@ag.ky.gov</email>)
+      <email>consumer.protection@ag.ky.gov</email>
     </para>
     <para>
       <ulink url="http://www.ag.ky.gov/cp">www.ag.ky.gov/cp</ulink>
     </para>
     <para>
-      Kentucky Office of the Attorney General - Louisville
+      <emphasis role="strong">Kentucky Office of the Attorney General - Louisville</emphasis>
     </para>
     <para>
       Consumer Protection Division 310 Whittington Pkwy., Suite 101
@@ -22677,73 +22415,47 @@
       (Hotline)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_736.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.protection@ag.ky.gov
-      (<email>consumer.protection@ag.ky.gov</email>)
+      <email>consumer.protection@ag.ky.gov</email>
     </para>
     <para>
       <ulink url="http://www.ag.ky.gov/cp">www.ag.ky.gov/</ulink>cp
     </para>
     <para>
-      Kentucky Office of the Attorney General - Prestonsburg
+      <emphasis role="strong">Kentucky Office of the Attorney General - Prestonsburg</emphasis>
     </para>
     <para>
       361 N. Lake Dr. Prestonsburg, KY 41653 606-889-1821
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_737.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.protection@ag.ky.gov
-      (<email>consumer.protection@ag.ky.gov</email>)
+      <email>consumer.protection@ag.ky.gov</email>
     </para>
     <para>
       <ulink url="http://www.ag.ky.gov/cp">www.ag.ky.gov/cp</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Louisiana</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_738.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_739.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Louisiana
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Louisiana Office of the Attorney General
+      <emphasis role="strong">Louisiana Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Section 1885 N. 3rd St. Baton Rouge, LA 70802
       225-326-6465 Toll free: 1-800-351-4889
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_740.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ConsumerInfo@ag.state.la.us
-      (<email>ConsumerInfo@ag.state.la.us</email>)
+      <email>ConsumerInfo@ag.state.la.us</email>
     </para>
     <para>
       <ulink url="http://www.ag.state.la.us">www.ag.state.la.us</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Jefferson Parish District Attorney’s Office
+      <emphasis role="strong">Jefferson Parish District Attorney’s Office</emphasis>
     </para>
     <para>
       Economic Crime Unit 200 Derbigny St. Gretna, LA 70053 504-361-2920
@@ -22751,14 +22463,14 @@
     <para>
       <ulink url="http://www.jpda.us">www.jpda.us</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Maine</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Maine
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Bureau of Consumer Credit Protection
+      <emphasis role="strong">Bureau of Consumer Credit Protection</emphasis>
     </para>
     <para>
       35 State House Station Augusta, ME 04333 207-624-8527 Toll free:
@@ -22768,7 +22480,7 @@
       <ulink url="http://www.credit.maine.gov">www.credit.maine.gov</ulink>
     </para>
     <para>
-      Maine Attorney General’s Office
+      <emphasis role="strong">Maine Attorney General’s Office</emphasis>
     </para>
     <para>
       Consumer Information and Mediation Service Six State House Station
@@ -22776,66 +22488,42 @@
       Protection)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_741.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.mediation@maine.gov
-      (<email>consumer.mediation@maine.gov</email>)
+      <email>consumer.mediation@maine.gov</email>
     </para>
     <para>
       <ulink url="http://www.maine.gov/ag">www.maine.gov/ag</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Maryland</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Maryland
+      <emphasis role="strong">Maryland Office of the Attorney General</emphasis>
     </para>
     <para>
-      State Offices
+      Consumer Protection Division 
+      200 Saint Paul Pl. 
+      Baltimore, MD 21202 
+      410-528-8662 (Consumer Mediation) 
+      410-576-6550 (Consumer Information) 
+      410-528-1840 (Medical Billing Complaints) 
+      Toll free: 1-888-743-0023 (Switchboard) 
+      Toll free: 1-877-261-8807 (Health Plan Decision Appeals) 
+      TTY: 410-576-6372 (MD)
     </para>
     <para>
-      Maryland Office of the Attorney General
-    </para>
-    <para>
-      Consumer Protection Division<literallayout>
-</literallayout> <literallayout>
-</literallayout>200 Saint Paul Pl.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Baltimore, MD 21202<literallayout>
-</literallayout> <literallayout>
-</literallayout>410-528-8662 (Consumer Mediation)<literallayout>
-</literallayout> <literallayout>
-</literallayout>410-576-6550 (Consumer Information)<literallayout>
-</literallayout> <literallayout>
-</literallayout>410-528-1840 (Medical Billing<literallayout>
-</literallayout> <literallayout>
-</literallayout>Complaints)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-888-743-0023 (Switchboard)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-877-261-8807<literallayout>
-</literallayout> <literallayout>
-</literallayout>(Health Plan Decision Appeals)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 410-576-6372 (MD)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_742.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@oag.state.md.us
-      (<email>consumer@oag.state.md.us</email>)
+      <email>consumer@oag.state.md.us</email>
     </para>
     <para>
       <ulink url="http://www.oag.state.md.us/consumer">www.oag.state.md.us/consumer</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>Regional Offices</title>
     <para>
-      Regional Offices
-    </para>
-    <para>
-      Maryland Attorney General’s Office - Eastern Shore
+      <emphasis role="strong">Maryland Attorney General’s Office - Eastern Shore</emphasis>
     </para>
     <para>
       Consumer Protection Division 201 Baptist St. Salisbury, MD
@@ -22843,36 +22531,26 @@
       Office) TTY: 410-576-6372
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_743.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@oag.state.md.us
-      (<email>consumer@oag.state.md.us</email>)
+      <email>consumer@oag.state.md.us</email>
     </para>
     <para>
       <ulink url="http://www.oag.state.md.us/consumer">www.oag.state.md.us/consumer</ulink>
     </para>
     <para>
-      Maryland Attorney General’s Office - Southern Maryland
+      <emphasis role="strong">Maryland Attorney General’s Office - Southern Maryland</emphasis>
     </para>
     <para>
       PO Box 745 Hughesville, MD 20637 301-274-4620 Toll free:
       1-866-366-8343 TTY: 410-576-6372 (Baltimore Office)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_744.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@oag.state.md.us
-      (<email>consumer@oag.state.md.us</email>)
+      <email>consumer@oag.state.md.us</email>
     </para>
     <para>
       <ulink url="http://www.oag.state.md.us/Consumer">www.oag.state.md.us/Consumer</ulink>
     </para>
     <para>
-      Maryland Attorney General’s Office - Western Maryland
+      <emphasis role="strong">Maryland Attorney General’s Office - Western Maryland</emphasis>
     </para>
     <para>
       Consumer Protection Division 44 N. Potomac St., Suite 104
@@ -22880,177 +22558,118 @@
       Office)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_745.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@oag.state.md.us
-      (<email>consumer@oag.state.md.us</email>)
+      <email>consumer@oag.state.md.us</email>
     </para>
     <para>
       <ulink url="http://www.oag.state.md.us/consumer">www.oag.state.md.us/consumer</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Howard County Office of Consumer Affairs
+      <emphasis role="strong">Howard County Office of Consumer Affairs</emphasis>
     </para>
     <para>
       6751 Columbia Gateway Dr. Columbia, MD 21046 410-313-6420
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_746.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@howardcountymd.gov
-      (<email>consumer@howardcountymd.gov</email>)
+      <email>consumer@howardcountymd.gov</email>
     </para>
     <para>
       <ulink url="http://www.howardcountymd.gov">www.howardcountymd.gov</ulink>
     </para>
     <para>
-      Montgomery County Office of Consumer Protection
+      <emphasis role="strong">Montgomery County Office of Consumer Protection</emphasis>
     </para>
     <para>
       100 Maryland Ave., Suite 330 Rockville, MD 20850 240-777-3636
       240-777-3681 (Anonymous Consumer Tip Line) TTY: 240-773-3556
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_747.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ConsumerProtection@ montgomerycountymd.gov
-      (<email>ConsumerProtection@montgomerycountymd.gov</email>)
+      <email>ConsumerProtection@montgomerycountymd.gov</email>
     </para>
     <para>
-      <ulink url="http://www.montgomerycountymd.gov/consumer">www.montgomerycountymd.
-      gov/consumer</ulink>
+      <ulink url="http://www.montgomerycountymd.gov/consumer">www.montgomerycountymd.gov/consumer</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Massachusetts</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Massachusetts
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Massachusetts Office of the Attorney General
+      <emphasis role="strong">Massachusetts Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division One Ashburton Pl. Boston, MA
       02108-1518 617-727-8400 (Consumer Hotline) TTY: 617-727-4765
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_748.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ago@state.ma.us
-      (<email>ago@state.ma.us</email>)
+      <email>ago@state.ma.us</email>
     </para>
     <para>
       <ulink url="http://www.mass.gov/ago">www.mass.gov/ago</ulink>
     </para>
     <para>
-      Office of Consumer Affairs and Business Regulation
+      <emphasis role="strong">Office of Consumer Affairs and Business Regulation</emphasis>
     </para>
     <para>
-      10 Park Plaza, Suite 5170<literallayout>
-</literallayout> <literallayout>
-</literallayout>Boston, MA 02116<literallayout>
-</literallayout> <literallayout>
-</literallayout>617-973-8700 (General Information)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-888-283-3757 (MA,<literallayout>
-</literallayout> <literallayout>
-</literallayout>Consumer Hotline)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-800-720-3480<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      10 Park Plaza, Suite 5170 
+      Boston, MA 02116 
+      617-973-8700 (General Information) 
+      Toll free: 1-888-283-3757 (MA, Consumer Hotline) 
+      TTY: 1-800-720-3480
     </para>
     <para>
       <ulink url="http://www.mass.gov/Consumer">www.mass.gov/Consumer</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>Regional Offices</title>
     <para>
-      Regional Offices
-    </para>
-    <para>
-      Office of the Attorney General-Central Massachusetts Region
+      <emphasis role="strong">Office of the Attorney General-Central Massachusetts Region</emphasis>
     </para>
     <para>
       Consumer Protection Division 10 Mechanic St., Suite 301 Worcester,
       MA 01608 508-792-7600 TTY: 617-727-4765
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_749.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ago@state.ma.us
-      (<email>ago@state.ma.us</email>)
+      <email>ago@state.ma.us</email>
     </para>
     <para>
       <ulink url="http://www.mass.gov/ago/">mass.gov/ago</ulink>
     </para>
     <para>
-      Office of the Attorney General-Southern Massachusetts Region
+      <emphasis role="strong">Office of the Attorney General-Southern Massachusetts Region</emphasis>
     </para>
     <para>
       Consumer Protection Division 105 William St., 1st Floor New
       Bedford, MA 02740-6257 508-990-9700 TTY: 617-727-4765
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_750.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ago@state.ma.us
-      (<email>ago@state.ma.us</email>)
+      <email>ago@state.ma.us</email>
     </para>
     <para>
       <ulink url="http://www.mass.gov/ago/">mass.gov/ago</ulink>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_751.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_752.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_753.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Office of the Attorney General-Western Massachusetts Region
+      <emphasis role="strong">Office of the Attorney General-Western Massachusetts Region</emphasis>
     </para>
     <para>
       Consumer Protection Division 1350 Main St., 4th Floor Springfield,
       MA 01103-1629 413-784-1240 TTY: 617-727-4765
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_754.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ago@state.ma.us
-      (<email>ago@state.ma.us</email>)
+      <email>ago@state.ma.us</email>
     </para>
     <para>
       <ulink url="http://www.mass.gov/ago">www.mass.gov/ago</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Norfolk District Attorney’s Office
+      <emphasis role="strong">Norfolk District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Division 45 Shawmut Rd. Canton, MA 02021
@@ -23060,7 +22679,7 @@
       <ulink url="http://www.mass.gov/da/norfolk">www.mass.gov/da/norfolk</ulink>
     </para>
     <para>
-      Northwestern District Attorney’s Office - Franklin County
+      <emphasis role="strong">Northwestern District Attorney’s Office - Franklin County</emphasis>
     </para>
     <para>
       Consumer Protection Division 13 Conway St. Greenfield, MA 01301
@@ -23070,7 +22689,7 @@
       <ulink url="http:northwesternda.org">northwesternda.org</ulink>
     </para>
     <para>
-      Northwestern District Attorney’s Office - Hampshire County
+      <emphasis role="strong">Northwestern District Attorney’s Office - Hampshire County</emphasis>
     </para>
     <para>
       Consumer Protection Division One Gleason Plaza Northampton, MA
