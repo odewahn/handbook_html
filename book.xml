@@ -25901,33 +25901,49 @@
         </para>
       </sect1>
     </chapter>
-    <chapter id="">
+    <chapter id="state_securities_administrators">
+      <title>State Securities Administrators</title>
+      <sidebar>
+        <title>Contacting Your Local Securities Administrator</title>
+        <para>
+          State securities regulators protect the investing public. 
+          Each state has its own laws and regulations for securities 
+          brokers and securities, including stocks, mutual funds, 
+          commodities, real estate, and more. The agencies listed 
+          below enforce these laws and regulations. They also license 
+          securities professionals, register securities, and investigate 
+          consumer complaints. While these agencies do not provide 
+          investment advice, many of them offer educational resources 
+          so investors can make informed investment decisions.
+        </para>
+        <para>
+          If you have a question or complaint about an investment, 
+          call the company or bank involved. If you are not satisfied 
+          with the response you get, call your state securities agency. 
+          See the Investing section in Part I of this Handbook for 
+          additional advice and sources of assistance (p. 35).
+        </para>
+      </sidebar>
+    <sect1>
+      <title>Alabama</title>
     <para>
-      Alabama
-    </para>
-    <para>
-      Securities Commission
+      <emphasis role="strong">Securities Commission</emphasis>
     </para>
     <para>
       PO Box 304700 Montgomery, AL 36130-4700 334-242-2984 Toll free:
       1-800-222-1253 (AL)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_882.jpg" />
-        </imageobject>
-      </inlinemediaobject>: asc@asc.alabama.gov
-      (<email>asc@asc.alabama.gov</email>)
+      <email>asc@asc.alabama.gov</email>
     </para>
     <para>
       <ulink url="http://www.asc.state.al.us">www.asc.state.al.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Alaska</title>
     <para>
-      Alaska
-    </para>
-    <para>
-      Department of Commerce, Community and Economic Development
+      <emphasis role="strong">Department of Commerce, Community and Economic Development</emphasis>
     </para>
     <para>
       Division of Banking and Securities PO Box 110807 Juneau, AK
@@ -25935,63 +25951,48 @@
       907-465-5437
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_883.jpg" />
-        </imageobject>
-      </inlinemediaobject>: dbsc@alaska.gov
-      (<email>dbsc@alaska.gov</email>)
+      <email>dbsc@alaska.gov</email>
     </para>
     <para>
       <ulink url="http://www.commerce.state.ak.us">www.commerce.state.ak.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Arizona</title>
     <para>
-      Arizona
-    </para>
-    <para>
-      Arizona Corporation Commission
+      <emphasis role="strong">Arizona Corporation Commission</emphasis>
     </para>
     <para>
       Securities Division 1300 W. Washington St., 3rd Floor Phoenix, AZ
       85007 602-542-4242 Toll free: 1-866-837-4399 (AZ)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_884.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@azinvestor.gov
-      (<email>info@azinvestor.gov</email>)
+      <email>info@azinvestor.gov</email>
     </para>
     <para>
       <ulink url="http://www.azinvestor.gov">www.azinvestor.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Arkansas</title>
     <para>
-      Arkansas
-    </para>
-    <para>
-      Securities Department
+      <emphasis role="strong">Securities Department</emphasis>
     </para>
     <para>
       Heritage West Building 201 E. Markham St., Suite 300 Little Rock,
       AR 72201-1692 501-324-9260 Toll free: 1-800-981-4429
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_885.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@securities.arkansas.gov
-      (<email>info@securities.arkansas.gov</email>)
+      <email>info@securities.arkansas.gov</email>
     </para>
     <para>
       <ulink url="http://www.securities.arkansas.gov">www.securities.arkansas.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>California</title>
     <para>
-      California
-    </para>
-    <para>
-      Department of Corporations
+      <emphasis role="strong">Department of Corporations</emphasis>
     </para>
     <para>
       Consumer Services Office 1515 K St., Suite 200 Sacramento, CA
@@ -26000,32 +26001,27 @@
     <para>
       <ulink url="http://www.corp.ca.gov">www.corp.ca.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Colorado</title>
     <para>
-      Colorado
-    </para>
-    <para>
-      Department of Regulatory Agencies
+      <emphasis role="strong">Department of Regulatory Agencies</emphasis>
     </para>
     <para>
       Division of Securities 1560 Broadway, Suite 900 Denver, CO 80202
       303-894-2320 TTY: 1-800-659-2656
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_886.jpg" />
-        </imageobject>
-      </inlinemediaobject>: securities@dora.state.co.us
-      (<email>securities@dora.state.co.us</email>)
+      <email>securities@dora.state.co.us</email>
     </para>
     <para>
       <ulink url="http://www.dora.state.co.us/securities">www.dora.state.co.us/securities</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Connecticut</title>
     <para>
-      Connecticut
-    </para>
-    <para>
-      Department of Banking
+      <emphasis role="strong">Department of Banking</emphasis>
     </para>
     <para>
       Securities and Business Investments Division 260 Constitution
@@ -26035,11 +26031,11 @@
     <para>
       <ulink url="http://www.ct.gov/dob">www.ct.gov/dob</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Delaware</title>
     <para>
-      Delaware
-    </para>
-    <para>
-      Division of Securities
+      <emphasis role="strong">Division of Securities</emphasis>
     </para>
     <para>
       Carvel State Office Building 820 N. French St., 5th Floor
@@ -26048,29 +26044,27 @@
     <para>
       <ulink url="http://www.state.de.us/securities">www.state.de.us/securities</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>District Of Columbia</title>
     <para>
-      District Of Columbia
-    </para>
-    <para>
-      Department of Insurance, Securities and Banking
+      <emphasis role="strong">Department of Insurance, Securities and Banking</emphasis>
     </para>
     <para>
       810 1st St., NE, Suite 701 Attn: Consumer Protection Advocate
       Washington, DC 20002 202-727-8000
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_887.jpg" />
-        </imageobject>
-      </inlinemediaobject>: disb@dc.gov
-      (<email>disb@dc.gov</email>)<ulink url="http:disb.dc.gov">disb.dc.gov</ulink>
+      <email>disb@dc.gov</email>
+      </para>
+      <para>
+      <ulink url="http:disb.dc.gov">disb.dc.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Florida</title>
     <para>
-      Florida
-    </para>
-    <para>
-      Office of Financial Regulation
+      <emphasis role="strong">Office of Financial Regulation</emphasis>
     </para>
     <para>
       Division of Securities Consumer Assistance Group 200 E. Gaines St.
@@ -26080,11 +26074,11 @@
     <para>
       <ulink url="http://www.flofr.com">www.flofr.com</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Georgia</title>
     <para>
-      Georgia
-    </para>
-    <para>
-      Office of the Secretary of State
+      <emphasis role="strong">Office of the Secretary of State</emphasis>
     </para>
     <para>
       Division of Securities and Business Regulation 237 Coliseum Dr.
@@ -26093,64 +26087,43 @@
     <para>
       <ulink url="http://www.sos.ga.gov/securities">www.sos.ga.gov/securities</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Hawaii</title>
     <para>
-      Hawaii
-    </para>
-    <para>
-      Department of Commerce and Consumer Affairs
+      <emphasis role="strong">Department of Commerce and Consumer Affairs</emphasis>
     </para>
     <para>
       Securities Enforcement Branch Business Registration Division PO
       Box 40 Honolulu, HI 96810 808-586-2744 Toll free: 1-877-477-2267
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_888.jpg" />
-        </imageobject>
-      </inlinemediaobject>: seb@dcca.hawaii.gov
-      (<email>seb@dcca.hawaii.gov</email>)
+      <email>seb@dcca.hawaii.gov</email>
     </para>
     <para>
       <ulink url="http://www.hawaii.gov/dcca/sec">www.hawaii.gov/dcca/sec</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Idaho</title>
     <para>
-      Idaho
-    </para>
-    <para>
-      Department of Finance
+      <emphasis role="strong">Department of Finance</emphasis>
     </para>
     <para>
       Securities Bureau PO Box 83720 Boise, ID 83720-0031 208-332-8000
       Toll free: 1-888-346-3378 (ID)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_889.jpg" />
-        </imageobject>
-      </inlinemediaobject>: finance@finance.idaho.gov
-      (<email>finance@finance.idaho.gov</email>)
+      <email>finance@finance.idaho.gov</email>
     </para>
     <para>
       <ulink url="http://www.finance.idaho.gov">www.finance.idaho.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Illinois</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_890.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_891.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Illinois
-    </para>
-    <para>
-      Secretary of State
+      <emphasis role="strong">Secretary of State</emphasis>
     </para>
     <para>
       Securities Department Jefferson Terrace 300 W. Jefferson St.,
@@ -26160,45 +26133,36 @@
     <para>
       <ulink url="http://www.cyberdriveillinois.com">www.cyberdriveillinois.com</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Indiana</title>
     <para>
-      Indiana
-    </para>
-    <para>
-      Office of the Secretary of State
+      <emphasis role="strong">Office of the Secretary of State</emphasis>
     </para>
     <para>
       Securities Division 302 W. Washington St., Room E111 Indianapolis,
       IN 46204 317-232-6681 Toll free: 1-800-223-8791 (IN)
     </para>
     <para>
-      <ulink url="http://www.in.gov/sos/securities/index.htm">www.in.gov/sos/securities/index.
-      htm</ulink>
+      <ulink url="http://www.in.gov/sos/securities/index.htm">www.in.gov/sos/securities/index.htm</ulink>
+    </para>
+    </sect1>
+    <sect1>
+      <title>Iowa</title>
+    <para>
+      <emphasis role="strong">Securities Bureau</emphasis>
     </para>
     <para>
-      Iowa
-    </para>
-    <para>
-      Securities Bureau
-    </para>
-    <para>
-      340 Maple St.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Des Moines, IA 50319<literallayout>
-</literallayout> <literallayout>
-</literallayout>515-281-5705<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-877-955-1212 (IA)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      340 Maple St. Des Moines, IA 50319 515-281-5705 Toll free: 1-877-955-1212 (IA)
     </para>
     <para>
       <ulink url="http://www.iid.state.ia.us/securities">www.iid.state.ia.us/securities</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Kansas</title>
     <para>
-      Kansas
-    </para>
-    <para>
-      Office of the Securities Commissioner
+      <emphasis role="strong">Office of the Securities Commissioner</emphasis>
     </para>
     <para>
       109 S.W. 9th St., Suite 600 Topeka, KS 66612 785-296-3307 Toll
@@ -26207,52 +26171,43 @@
     <para>
       <ulink url="http://www.ksc.ks.gov">www.ksc.ks.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Kentucky</title>
     <para>
-      Kentucky
-    </para>
-    <para>
-      Department of Financial Institutions
+      <emphasis role="strong">Department of Financial Institutions</emphasis>
     </para>
     <para>
       Division of Securities 1025 Capitol Center Dr., Suite 200
       Frankfort, KY 40601-3868 502-573-3390 Toll free: 1-800-223-2579
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_892.jpg" />
-        </imageobject>
-      </inlinemediaobject>: kfi@ky.gov (<email>kfi@ky.gov</email>)
+      <email>kfi@ky.gov</email>
     </para>
     <para>
       <ulink url="http://www.kfi.ky.gov">www.kfi.ky.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Louisiana</title>
     <para>
-      Louisiana
-    </para>
-    <para>
-      Office of Financial Institutions
+      <emphasis role="strong">Office of Financial Institutions</emphasis>
     </para>
     <para>
       Securities Division PO Box 94095 Baton Rouge, LA 70804-9095
       225-925-4660
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_893.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ofila@ofi.louisiana.gov
-      (<email>ofila@ofi.louisiana.gov</email>)
+      <email>ofila@ofi.louisiana.gov</email>
     </para>
     <para>
       <ulink url="http://www.ofi.state.la.us">www.ofi.state.la.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Maine</title>
     <para>
-      Maine
-    </para>
-    <para>
-      Department of Professional and Financial Regulation
+      <emphasis role="strong">Department of Professional and Financial Regulation</emphasis>
     </para>
     <para>
       Office of Securities 121 State House Station Augusta, ME
@@ -26261,30 +26216,25 @@
     <para>
       <ulink url="http://www.maine.gov/pfr/securities">www.maine.gov/pfr/securities</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Maryland</title>
     <para>
-      Maryland
-    </para>
-    <para>
-      Office of the Attorney General
+      <emphasis role="strong">Office of the Attorney General</emphasis>
     </para>
     <para>
       Securities Division 200 Saint Paul Pl. Baltimore, MD 21202-2020
       410-576-6360 Toll free: 1-888-743-0023 (MD) TTY: 410-576-6372
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_894.jpg" />
-        </imageobject>
-      </inlinemediaobject>: securities@oag.state.md.us
-      (<email>securities@oag.state.md.us</email>)
+      <email>securities@oag.state.md.us</email>
     </para>
     <para>
       <ulink url="http://www.oag.state.md.us">www.oag.state.md.us</ulink>
     </para>
-    <para>
-      Massachusetts
-    </para>
+    </sect1>
+    <sect1>
+      <title>Massachusetts</title>
     <para>
       Office of the Secretary of the Commonwealth
     </para>
@@ -26294,43 +26244,32 @@
       1-800-269-5428 (MA) TTY: 617-878-3889
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_895.jpg" />
-        </imageobject>
-      </inlinemediaobject>: securities@sec.state.ma.us
-      (<email>securities@sec.state.ma.us</email>)
+      <email>securities@sec.state.ma.us</email>
     </para>
     <para>
-      <ulink url="http://www.sec.state.ma.us/sct/sctidx.htm">www.sec.state.ma.us/sct/
-      sctidx.htm</ulink>
+      <ulink url="http://www.sec.state.ma.us/sct/sctidx.htm">www.sec.state.ma.us/sct/sctidx.htm</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Michigan</title>
     <para>
-      Michigan
-    </para>
-    <para>
-      Office of Financial and Insurance Regulation
+      <emphasis role="strong">Office of Financial and Insurance Regulation</emphasis>
     </para>
     <para>
       Securities Division Consumer Services Division PO Box 30220
       Lansing, MI 48909 517-373-0220 Toll free: 1-877-999-6442
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_896.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ofir-sec-info@michigan.gov
-      (<email>ofir-sec-info@michigan.gov</email>)
+      <email>ofir-sec-info@michigan.gov</email>
     </para>
     <para>
       <ulink url="http://www.michigan.gov/ofirsecurities">www.michigan.gov/ofirsecurities</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Minnesota</title>
     <para>
-      Minnesota
-    </para>
-    <para>
-      Department of Commerce
+      <emphasis role="strong">Department of Commerce</emphasis>
     </para>
     <para>
       Securities Division Consumer Protection and Education 85 7th Pl.
@@ -26338,21 +26277,16 @@
       1-800-657-3602 (MN) TTY: 651-296-2860
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_897.jpg" />
-        </imageobject>
-      </inlinemediaobject>: securities.commerce@
-      (<email>securities.commerce@state.mn.us</email>)state.mn.us
+      <email>securities.commerce@state.mn.us</email>
     </para>
     <para>
       <ulink url="http://www.mn.gov/commerce">www.mn.gov/commerce</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Mississippi</title>
     <para>
-      Mississippi
-    </para>
-    <para>
-      Secretary of State’s Office
+      <emphasis role="strong">Secretary of State’s Office</emphasis>
     </para>
     <para>
       Securities Division Business Regulation and Enforcement PO Box 136
@@ -26361,9 +26295,9 @@
     <para>
       <ulink url="http://www.sos.ms.gov">www.sos.ms.gov</ulink>
     </para>
-    <para>
-      Missouri
-    </para>
+    </sect1>
+    <sect1>
+      <title>Missouri</title>
     <para>
       Office of the Secretary of State
     </para>
@@ -26372,131 +26306,93 @@
       573-751-4136 Toll free: 1-800-721-7996 (MO)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_898.jpg" />
-        </imageobject>
-      </inlinemediaobject>: securities@sos.mo.gov
-      (<email>securities@sos.mo.gov</email>)
+      <email>securities@sos.mo.gov</email>
     </para>
     <para>
       <ulink url="http://www.sos.mo.gov">www.sos.mo.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Montana</title>
     <para>
-      Montana
-    </para>
-    <para>
-      State Auditor’s Office
+      <emphasis role="strong">State Auditor’s Office</emphasis>
     </para>
     <para>
       Securities Division 840 Helena Ave. Helena, MT 59601 406-444-2040
       Toll free: 1-800-332-6148 (MT)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_899.jpg" />
-        </imageobject>
-      </inlinemediaobject>: stateauditor@mt.gov
-      (<email>stateauditor@mt.gov</email>)
+      <email>stateauditor@mt.gov</email>
     </para>
     <para>
       <ulink url="http://www.csi.mt.gov/consumers">www.csi.mt.gov/consumers</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Nebraska</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_900.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_901.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_902.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Nebraska
-    </para>
-    <para>
-      Department of Banking and Finance
+      <emphasis role="strong">Department of Banking and Finance</emphasis>
     </para>
     <para>
       Bureau of Securities PO Box 95006 Lincoln, NE 68509-5006
       402-471-3445 Toll free: 1-877-471-3445
-      <ulink url="http://www.ndbf.ne.gov"><emphasis role="strong">www.ndbf.ne.go</emphasis>v</ulink>
     </para>
     <para>
-      Nevada
+      <ulink url="http://www.ndbf.ne.gov">www.ndbf.ne.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Nevada</title>
     <para>
-      Office of the Secretary of State
+      <emphasis role="strong">Office of the Secretary of State</emphasis>
     </para>
     <para>
       Securities Division 555 E. Washington Ave., Suite 5200 Las Vegas,
       NV 89101 702-486-2440
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_903.jpg" />
-        </imageobject>
-      </inlinemediaobject>: nvsec@govmail.state.nv.us
-      (<email>nvsec@govmail.state.nv.us</email>)
+      <email>nvsec@govmail.state.nv.us</email>
     </para>
     <para>
       <ulink url="http://www.nvsos.gov">www.nvsos.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+    <title>New Hampshire</title>
     <para>
-      New Hampshire
-    </para>
-    <para>
-      Bureau of Securities Regulation
+      <emphasis role="strong">Bureau of Securities Regulation</emphasis>
     </para>
     <para>
       107 N. Main St., #204 Concord, NH 03301 603-271-1463 Toll free:
       1-800-994-4200
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_904.jpg" />
-        </imageobject>
-      </inlinemediaobject>: securities@sos.nh.gov
-      (<email>securities@sos.nh.gov</email>)
+      <email>securities@sos.nh.gov</email>
     </para>
     <para>
       <ulink url="sos.nh.gov/sec_reg.aspx">sos.nh.gov/sec_reg.aspx</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>New Jersey</title>
     <para>
-      New Jersey
-    </para>
-    <para>
-      Department of Law and Public Safety
+      <emphasis role="strong">Department of Law and Public Safety</emphasis>
     </para>
     <para>
       Bureau of Securities PO Box 47029 Newark, NJ 07101 973-504-3600
       Toll free: 1-866-446-8378 (NJ)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_905.jpg" />
-        </imageobject>
-      </inlinemediaobject>: Askbureauofsecurities@
-      (<email>Askbureauofsecurities@dca.lps.state.nj.us</email>)dca.lps.state.nj.us
+      <email>Askbureauofsecurities@dca.lps.state.nj.us</email>
     </para>
     <para>
       <ulink url="http://www.njsecurities.gov">www.njsecurities.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>New Mexico</title>
     <para>
-      New Mexico
-    </para>
-    <para>
-      Regulation and Licensing Department
+      <emphasis role="strong">Regulation and Licensing Department</emphasis>
     </para>
     <para>
       Securities Division 2550 Cerrillos Rd., 3rd Floor Santa Fe, NM
@@ -26505,11 +26401,11 @@
     <para>
       <ulink url="http://www.rld.state.nm.us/securities">www.rld.state.nm.us/securities</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>New York</title>
     <para>
-      New York
-    </para>
-    <para>
-      Office of the Attorney General
+      <emphasis role="strong">Office of the Attorney General</emphasis>
     </para>
     <para>
       Investor Protection Bureau 120 Broadway, 23rd Floor New York, NY
@@ -26518,11 +26414,11 @@
     <para>
       <ulink url="http://www.oag.state.ny.us">www.oag.state.ny.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+    <title>North Carolina</title>
     <para>
-      North Carolina
-    </para>
-    <para>
-      Secretary of State
+      <emphasis role="strong">Secretary of State</emphasis>
     </para>
     <para>
       Securities Division PO Box 29622 Raleigh, NC 27626-0622
