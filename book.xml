@@ -26724,11 +26724,10 @@
         same utility matter, they will conduct investigations.
         </para>
       </sidebar>
+    <sect1>
+      <title>Alabama</title>
     <para>
-      Alabama
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       Consumer Services PO Box 304260 Montgomery, AL 36130 334-242-5218
@@ -26737,11 +26736,11 @@
     <para>
       <ulink url="http://www.psc.state.al.us">www.psc.state.al.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Alaska</title>
     <para>
-      Alaska
-    </para>
-    <para>
-      Regulatory Commission
+      <emphasis role="strong">Regulatory Commission</emphasis>
     </para>
     <para>
       Consumer Protection and Information Section 701 W. 8th Ave., Suite
@@ -26749,42 +26748,32 @@
       1-800-390-2782 TTY: 907-276-4533
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_926.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cp.mail@alaska.gov
-      (<email>cp.mail@alaska.gov</email>)
+      <email>cp.mail@alaska.gov</email>
     </para>
     <para>
       <ulink url="http:rca.alaska.gov">rca.alaska.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Arizona</title>
     <para>
-      Arizona
-    </para>
-    <para>
-      Corporation Commission
+      <emphasis role="strong">Corporation Commission</emphasis>
     </para>
     <para>
       Utilities Division Consumer Services Section 1200 W. Washington
       St. Phoenix, AZ 85007 602-542-4251 Toll free: 1-800-222-7000 (AZ)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_927.jpg" />
-        </imageobject>
-      </inlinemediaobject>: mailmaster@azcc.gov
-      (<email>mailmaster@azcc.gov</email>)
+      <email>mailmaster@azcc.gov</email>
     </para>
     <para>
       <ulink url="http://www.cc.state.az.us">www.cc.state.az.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Arkansas</title>
     <para>
-      Arkansas
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       Consumer Services Division PO Box 400 Little Rock, AR 72203-0400
@@ -26793,53 +26782,43 @@
     <para>
       <ulink url="http://www.arkansas.gov/psc">www.arkansas.gov/psc</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>California</title>
     <para>
-      California
-    </para>
-    <para>
-      Public Utilities Commission
+      <emphasis role="strong">Public Utilities Commission</emphasis>
     </para>
     <para>
       Consumer Affairs Branch 505 Van Ness Ave. San Francisco, CA 94102
       415-703-2782 Toll free: 1-800-649-7570 (CA) TTY: 1-800-229-6846
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_928.jpg" />
-        </imageobject>
-      </inlinemediaobject>: public.advisor@cpuc.ca.go
-      (<email>public.advisor@cpuc.ca.go</email>)
+      <email>public.advisor@cpuc.ca.go</email>
     </para>
     <para>
       <ulink url="http://www.cpuc.ca.gov">www.cpuc.ca.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Colorado</title>
     <para>
-      Colorado
-    </para>
-    <para>
-      Public Utilities Commission
+      <emphasis role="strong">Public Utilities Commission</emphasis>
     </para>
     <para>
       Consumer Protection Division 1560 Broadway, Suite 250 Denver, CO
       80202 303-894-2070 Toll free: 1-800-456-0858 (CO)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_929.jpg" />
-        </imageobject>
-      </inlinemediaobject>: PUCConsumer.Complaints@
-      (<email>PUCConsumer.Complaints@dora.state.co.us</email>)dora.state.co.us
+      <email>PUCConsumer.Complaints@dora.state.co.us</email>
     </para>
     <para>
       <ulink url="http://www.dora.state.co.us/puc">www.dora.state.co.us/puc</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Connecticut</title>
     <para>
-      Connecticut
-    </para>
-    <para>
-      Department of Energy and Environmental Protection
+      <emphasis role="strong">Department of Energy and Environmental Protection</emphasis>
     </para>
     <para>
       Public Utilities Regulatory Authority Consumer Services Unit 10
@@ -26847,21 +26826,16 @@
       1-800-382-4586 (CT) TTY: 860-827-2837
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_930.jpg" />
-        </imageobject>
-      </inlinemediaobject>: dpuc.information@po.state.ct.us
-      (<email>dpuc.information@po.state.ct.us</email>)
+      <email>dpuc.information@po.state.ct.us</email>
     </para>
     <para>
       <ulink url="http://www.state.ct.us/dpuc">www.state.ct.us/dpuc</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Delaware</title>
     <para>
-      Delaware
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       Cannon Building, Suite 100 861 Silver Lake Blvd. Dover, DE 19904
@@ -26870,11 +26844,11 @@
     <para>
       <ulink url="http://www.depsc.delaware.gov">www.depsc.delaware.gov</ulink>
     </para>
+    </sect1>
+      <sect1>
+    <title>District Of Columbia</title>
     <para>
-      District Of Columbia
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       Office of Consumer Services 1333 H St., NW, Suite 600 East Tower
@@ -26883,73 +26857,58 @@
     <para>
       <ulink url="http://www.dcpsc.org">www.dcpsc.org</ulink>
     </para>
+      </sect1>
+    <sect1>
+      <title>Florida</title>
     <para>
-      Florida
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       2540 Shumard Oak Blvd. Tallahassee, FL 32399-0850 850-413-6100
       Toll free: 1-800-342-3552 (FL) TTY: 1-800-955-8771
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_931.jpg" />
-        </imageobject>
-      </inlinemediaobject>: contact@psc.state.fl.us
-      (<email>contact@psc.state.fl.us</email>)
+      <email>contact@psc.state.fl.us</email>
     </para>
     <para>
       <ulink url="http://www.floridapsc.com">www.floridapsc.com</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Georgia</title>
     <para>
-      Georgia
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       Consumer Affairs Division 244 Washington St., SW Atlanta, GA 30334
       404-656-4501 Toll free: 1-800-282-5813 (GA)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_932.jpg" />
-        </imageobject>
-      </inlinemediaobject>: gapsc@psc.state.ga.us
-      (<email>gapsc@psc.state.ga.us</email>)
+      <email>gapsc@psc.state.ga.us</email>
     </para>
     <para>
       <ulink url="http://www.psc.state.ga.us">www.psc.state.ga.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Hawaii</title>
     <para>
-      Hawaii
-    </para>
-    <para>
-      Public Utilities Commission
+      <emphasis role="strong">Public Utilities Commission</emphasis>
     </para>
     <para>
       465 S. King St., Room 103 Honolulu, HI 96813 808-586-2020
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_933.jpg" />
-        </imageobject>
-      </inlinemediaobject>: Hawaii.puc@hawaii.gov
-      (<email>Hawaii.puc@hawaii.gov</email>)
+      <email>Hawaii.puc@hawaii.gov</email>
     </para>
     <para>
       <ulink url="http://www.puc.hawaii.gov">www.puc.hawaii.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Idaho</title>
     <para>
-      Idaho
-    </para>
-    <para>
-      Public Utilities Commission
+      <emphasis role="strong">Public Utilities Commission</emphasis>
     </para>
     <para>
       Consumer Assistance Section PO Box 83720 Boise, ID 83720-0074 Toll
@@ -26958,22 +26917,11 @@
     <para>
       <ulink url="http://www.puc.idaho.gov">www.puc.idaho.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Illinois</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_934.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_935.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Illinois
-    </para>
-    <para>
-      Commerce Commission
+      <emphasis role="strong">Commerce Commission</emphasis>
     </para>
     <para>
       Consumer Affairs 527 E. Capitol Ave. Springfield, IL 62701
@@ -26982,11 +26930,11 @@
     <para>
       <ulink url="http://www.icc.illinois.gov">www.icc.illinois.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Indiana</title>
     <para>
-      Indiana
-    </para>
-    <para>
-      Utility Regulatory Commission
+      <emphasis role="strong">Utility Regulatory Commission</emphasis>
     </para>
     <para>
       Consumer Affairs Division 101 W. Washington St., Suite 1500E
@@ -26996,32 +26944,27 @@
     <para>
       <ulink url="http://www.in.gov/iurc">www.in.gov/iurc</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Iowa</title>
     <para>
-      Iowa
-    </para>
-    <para>
-      Utilities Board
+      <emphasis role="strong">Utilities Board</emphasis>
     </para>
     <para>
       Customer Service Group 1375 E. Court Ave., Room 69 Des Moines, IA
       50319-0069 515-725-7321 Toll free: 1-877-565-4450 (IA)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_936.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customer@iub.iowa.gov
-      (<email>customer@iub.iowa.gov</email>)
+      <email>customer@iub.iowa.gov</email>
     </para>
     <para>
       <ulink url="http://www.state.ia.us/iub">www.state.ia.us/iub</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Kansas</title>
     <para>
-      Kansas
-    </para>
-    <para>
-      Corporation Commission
+      <emphasis role="strong">Corporation Commission</emphasis>
     </para>
     <para>
       Office of Consumer Protection 1500 S.W. Arrowhead Rd. Topeka, KS
@@ -27029,42 +26972,32 @@
       1-800-766-3777
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_937.jpg" />
-        </imageobject>
-      </inlinemediaobject>: public.affairs@kcc.ks.gov
-      (<email>public.affairs@kcc.ks.gov</email>)
+      <email>public.affairs@kcc.ks.gov</email>
     </para>
     <para>
       <ulink url="http://www.kcc.state.ks.us">www.kcc.state.ks.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Kentucky</title>
     <para>
-      Kentucky
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       211 Sower Blvd. PO Box 615 Frankfort, KY 40602 502-564-3940 Toll
       free: 1-800-772-4636 TTY: 1-800-648-6056
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_938.jpg" />
-        </imageobject>
-      </inlinemediaobject>: psc.consumer.inquiry@ky.gov
-      (<email>psc.consumer.inquiry@ky.gov</email>)
+      <email>psc.consumer.inquiry@ky.gov</email>
     </para>
     <para>
       <ulink url="http://www.psc.state.ky.us">www.psc.state.ky.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Louisiana</title>
     <para>
-      Louisiana
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       Galvez Building, 12th Floor 602 N. 5th St. PO Box 91154 Baton
@@ -27073,11 +27006,11 @@
     <para>
       <ulink url="http://www.lpsc.org">www.lpsc.org</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Maine</title>
     <para>
-      Maine
-    </para>
-    <para>
-      Public Utilities Commission
+      <emphasis role="strong">Public Utilities Commission</emphasis>
     </para>
     <para>
       Consumer Assistance Division 18 State House Station Augusta, ME
@@ -27085,22 +27018,16 @@
       1-800-437-1220
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_939.jpg" />
-        </imageobject>
-      </inlinemediaobject>: maine.puc@maine.gov
-      (<email>maine.puc@maine.gov</email>)
+      <email>maine.puc@maine.gov</email>
     </para>
     <para>
-      <ulink url="http://www.state.me.us/mpuc/index.shtml">www.state.me.us/mpuc/
-      index.shtml</ulink>
+      <ulink url="http://www.state.me.us/mpuc/index.shtml">www.state.me.us/mpuc/index.shtml</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Maryland</title>
     <para>
-      Maryland
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       Six St. Paul St., 16th Floor Baltimore, MD 21202 410-767-8000 Toll
@@ -27109,108 +27036,76 @@
     <para>
       <ulink url="http://www.psc.state.md.us">www.psc.state.md.us</ulink>
     </para>
+    </sect1>
+      <sect1>
+      <title>Massachusetts</title>
     <para>
-      Massachusetts
-    </para>
-    <para>
-      Department of Public Utilities
+      <emphasis role="strong">Department of Public Utilities</emphasis>
     </para>
     <para>
       Consumer Division One South Station, Suite 2 Boston, MA 02110
       617-737-2836 Toll free: 1-877-886-5066
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_940.jpg" />
-        </imageobject>
-      </inlinemediaobject>: DPUConsumer.Complaints@
-      (<email>DPUConsumer.Complaints@state.ma.us</email>)state.ma.us
+      <email>DPUConsumer.Complaints@state.ma.us</email>
     </para>
     <para>
       <ulink url="http://www.mass.gov/dpu">www.mass.gov/dpu</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Michigan</title>
     <para>
-      Michigan
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       PO Box 30221 Lansing, MI 48909 517-241-6180 Toll free:
       1-800-292-9555 (MI)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_941.jpg" />
-        </imageobject>
-      </inlinemediaobject>: mpsc_commissioners@
-      (<email>mpsc_commissioners@michigan.gov</email>)michigan.gov
+      <email>mpsc_commissioners@michigan.gov</email>
     </para>
     <para>
       <ulink url="http://www.michigan.gov/mpsc">www.michigan.gov/mpsc</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Minnesota</title>
     <para>
-      Minnesota
-    </para>
-    <para>
-      Public Utilities Commission
+      <emphasis role="strong">Public Utilities Commission</emphasis>
     </para>
     <para>
       Consumer Affairs Office 121 7th Pl. E, Suite 350 St. Paul, MN
       55101-2147 651-296-0406 Toll free: 1-800-657-3782
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_942.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.puc@state.mn.us
-      (<email>consumer.puc@state.mn.us</email>)
+      <email>consumer.puc@state.mn.us</email>
     </para>
     <para>
       <ulink url="http://www.puc.state.mn.us">www.puc.state.mn.us</ulink>
     </para>
-    <para>
-      Mississippi
-    </para>
+    </sect1>
+    <sect1>
+      <title>Mississippi</title>
     <para>
       Public Service Commission
     </para>
     <para>
-      P.O. Box 1174<literallayout>
-</literallayout> <literallayout>
-</literallayout> Jackson, MS 39215<literallayout>
-</literallayout> <literallayout>
-</literallayout> 601-961-5430 (Central District)<literallayout>
-</literallayout> <literallayout>
-</literallayout> 601-961-5450 (Northern District)<literallayout>
-</literallayout> <literallayout>
-</literallayout> 601-961-5440 (Southern District)<literallayout>
-</literallayout> <literallayout>
-</literallayout> Toll free: 1-800-356-6430<literallayout>
-</literallayout> <literallayout>
-</literallayout> (Central District)<literallayout>
-</literallayout> <literallayout>
-</literallayout> Toll free: 1-800-356-6428<literallayout>
-</literallayout> <literallayout>
-</literallayout> (Northern District)<literallayout>
-</literallayout> <literallayout>
-</literallayout> Toll free: 1-800-356-6429<literallayout>
-</literallayout> <literallayout>
-</literallayout> (Southern District)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      P.O. Box 1174 Jackson, MS 39215 601-961-5430 (Central District)
+      601-961-5450 (Northern District) 
+      601-961-5440 (Southern District) 
+      Toll free: 1-800-356-6430 (Central District) 
+      Toll free: 1-800-356-6428 (Northern District) 
+      Toll free: 1-800-356-6429 (Southern District)
     </para>
     <para>
       <ulink url="http://www.psc.state.ms.us">www.psc.state.ms.us</ulink>
     </para>
+    </sect1>
+      <sect1>
+    <title>Missouri</title>
     <para>
-      Missouri
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       Consumer Services Department 200 Madison St. PO Box 360 Jefferson
@@ -27218,21 +27113,16 @@
       TTY: 573-522-9061
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_943.jpg" />
-        </imageobject>
-      </inlinemediaobject>: pscinfo@psc.mo.gov
-      (<email>pscinfo@psc.mo.gov</email>)
+      <email>pscinfo@psc.mo.gov</email>
     </para>
     <para>
       <ulink url="http://www.psc.mo.gov">www.psc.mo.gov</ulink>
     </para>
+      </sect1>
+    <sect1>
+      <title>Montana</title>
     <para>
-      Montana
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       PO Box 202601 Helena, MT 59620-2601 406-444-6150 Toll free:
@@ -27241,11 +27131,11 @@
     <para>
       <ulink url="http://www.psc.mt.gov">www.psc.mt.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Nebraska</title>
     <para>
-      Nebraska
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       1200 N St., Suite 300 Lincoln, NE 68508 402-471-3101 Toll free:
@@ -27254,36 +27144,24 @@
     <para>
       <ulink url="http://www.psc.state.ne.us">www.psc.state.ne.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Nevada</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_944.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_945.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Nevada
-    </para>
-    <para>
-      Public Utilities Commission
+      <emphasis role="strong">Public Utilities Commission</emphasis>
     </para>
     <para>
       Consumer Division 1150 E. William St. Carson City, NV 89701-3109
       775-684-6100 702-486-2600 (Las Vegas)
     </para>
     <para>
-      <ulink url="pucweb1.state.nv.us/pucn/PUCHome.aspx">pucweb1.state.nv.us/pucn/
-      PUCHome.aspx</ulink>
+      <ulink url="pucweb1.state.nv.us/pucn/PUCHome.aspx">pucweb1.state.nv.us/pucn/PUCHome.aspx</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>New Hampshire</title>
     <para>
-      New Hampshire
-    </para>
-    <para>
-      Public Utilities Commission
+      <emphasis role="strong">Public Utilities Commission</emphasis>
     </para>
     <para>
       Consumer Affairs Division 21 S. Fruit St., Suite 10 Concord, NH
@@ -27291,21 +27169,16 @@
       1-800-735-2964 (NH)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_946.jpg" />
-        </imageobject>
-      </inlinemediaobject>: puc@puc.nh.gov
-      (<email>puc@puc.nh.gov</email>)
+      <email>puc@puc.nh.gov</email>
     </para>
     <para>
       <ulink url="http://www.puc.state.nh.us">www.puc.state.nh.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>New Jersey</title>
     <para>
-      New Jersey
-    </para>
-    <para>
-      Board of Public Utilities
+      <emphasis role="strong">Board of Public Utilities</emphasis>
     </para>
     <para>
       Division of Customer Assistance 44 S. Clinton Ave. Trenton, NJ
@@ -27315,11 +27188,11 @@
     <para>
       <ulink url="http://www.bpu.state.nj.us">www.bpu.state.nj.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>New Mexico</title>
     <para>
-      New Mexico
-    </para>
-    <para>
-      Public Regulation Commission
+      <emphasis role="strong">Public Regulation Commission</emphasis>
     </para>
     <para>
       Consumer Relations Division Utilities Division 1120 Paseo de
@@ -27327,21 +27200,16 @@
       1-888-427-5772 TTY: 505-827-6911
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_947.jpg" />
-        </imageobject>
-      </inlinemediaobject>: crd.complaints@state.nm.us
-      (<email>crd.complaints@state.nm.us</email>)
+      <email>crd.complaints@state.nm.us</email>
     </para>
     <para>
       <ulink url="http://www.nmprc.state.nm.us">www.nmprc.state.nm.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>New York</title>
     <para>
-      New York
-    </para>
-    <para>
-      Department of Public Service
+      <emphasis role="strong">Department of Public Service</emphasis>
     </para>
     <para>
       Office of Consumer Services 3 Empire State Plaza Albany, NY 12223
@@ -27349,53 +27217,39 @@
       Toll free: 1-888-342-3355 (Termination) TTY: 1-800-662-1220
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_948.jpg" />
-        </imageobject>
-      </inlinemediaobject>: csd@dps.ny.gov
-      (<email>csd@dps.ny.gov</email>)
+      <email>csd@dps.ny.gov</email>
     </para>
     <para>
       <ulink url="http://www.askpsc.com">www.askpsc.com</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>North Carolina</title>
     <para>
-      North Carolina
-    </para>
-    <para>
-      Utilities Commission
+      <emphasis role="strong">Utilities Commission</emphasis>
     </para>
     <para>
       Consumer Services 4325 Mail Service Center Raleigh, NC 27699-4325
       919-733-9277 Toll free: 1-866-380-9816
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_949.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.services@
-      (<email>consumer.services@psncuc.nc.gov</email>)psncuc.nc.gov
+      <email>consumer.services@psncuc.nc.gov</email>
     </para>
     <para>
       <ulink url="http://www.ncuc.commerce.state.nc.us">www.ncuc.commerce.state.nc.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>North Dakota</title>
     <para>
-      North Dakota
-    </para>
-    <para>
-      Public Service Commission
+      <emphasis role="strong">Public Service Commission</emphasis>
     </para>
     <para>
       600 E. Boulevard Ave., Dept. 408 Bismarck, ND 58505-0480
       701-328-2400 Toll free: 1-877-245-6685 TTY: 1-800-366-6888 (ND)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_950.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ndpsc@nd.gov (<email>ndpsc@nd.gov</email>)
+      <email>ndpsc@nd.gov</email>
     </para>
     <para>
       <ulink url="http://www.psc.state.nd.us">www.psc.state.nd.us</ulink>
