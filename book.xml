@@ -19202,8 +19202,7 @@
       services through a referral hotline and provides an online
       treatment center locator.
     </para>
-      </sect1>
-    <sect1>
+    <sect2>
       <title>Administration for Children &amp; Families (ACF)</title>
     <para>
       370 L’Enfant Promenade, SW Washington, DC 20447 Toll free:
@@ -19289,8 +19288,8 @@
       parents, establishing paternity and support obligations, and
       enforcing those obligations.
     </para>
-    </sect1>
-    <sect1>
+    </sect2>
+    <sect2>
       <title>Administration for Community Living (ACL)</title>
     <para>
       <emphasis role="strong">Administration on Aging (AoA)</emphasis>
@@ -19338,8 +19337,8 @@
       Locator is administered by The National Association of Area
       Agencies on Aging (n4a).
     </para>
-    </sect1>
-      <sect1>
+    </sect2>
+      <sect2>
       <title>Centers for Disease Control and Prevention (CDC)</title>
     <para>
       1600 Clifton Rd. 
@@ -19406,8 +19405,8 @@
       prevention programs serving persons affected by, or at risk for,
       HIV infection.
     </para>
-      </sect1>
-    <sect1>
+      </sect2>
+    <sect2>
       <title>Centers for Medicare &amp; Medicaid Services (CMS)</title>
     <para>
       Office of External Affairs 7500 Security Blvd. Baltimore, MD
@@ -19464,8 +19463,8 @@
       information regarding your Medicare benefits, claims, and
       services.
     </para>
-    </sect1>
-    <sect1>
+    </sect2>
+    <sect2>
       <title>Food and Drug Administration (FDA)</title>
     <para>
       10903 New Hampshire Ave. Silver Spring, MD 20993-0002 Toll free:
@@ -19500,8 +19499,8 @@
       The CFSAN Information Line is a general information line for
       questions pertaining to food safety and applied nutrition.
     </para>
-    </sect1>
-    <sect1>
+    </sect2>
+    <sect2>
       <title>National Institutes of Health (NIH)</title>
     <para>
       9000 Rockville Pike Bethesda, MD 20892 301-496-4000 TTY:
@@ -19616,7 +19615,8 @@
       publication ordering system is available on the NIMH website. Some
       publications are available in Spanish.
     </para>
-    </sect1>
+    </sect2>
+      </sect1>
       <sect1>
         <title>Department of Homeland Security (DHS)</title>
     <para>
@@ -19684,8 +19684,7 @@
       protect agricultural products from pests and American businesses
       from theft of their intellectual property.
     </para>
-      </sect1>
-      <sect1>
+      <sect2>
       <title>Federal Emergency Management Agency (FEMA)</title>
     <para>
       500 C St., SW Washington, DC 20472 Toll free: 1-800-621-3362 TTY:
@@ -19752,6 +19751,7 @@
       renters, and business owners if their community participates in
       the NFIP.
     </para>
+      </sect2>
       </sect1>
       <sect1>
         <title>Department of Housing and Urban Development (HUD)</title>
@@ -19782,8 +19782,7 @@
       (Find a HUD-approved housing counselor)
     </para>
     <para>
-      <ulink url="portal.hud.gov/portal/page/portal/HUD/program_%20offices/housing">portal.hud.gov/portal/page/portal/HUD/program_
-      offices/housing</ulink>
+      <ulink url="portal.hud.gov/portal/page/portal/HUD/program_%20offices/housing">portal.hud.gov/portal/page/portal/HUD/program_offices/housing</ulink>
     </para>
     <para>
       The Department of Housing provides public services through its
@@ -19794,23 +19793,17 @@
       housing, or buy a home.
     </para>
     <para>
-      Federal Housing Administration (FHA)
+      <emphasis role="strong">Federal Housing Administration (FHA)</emphasis>
     </para>
     <para>
       451 7th St., SW Washington, DC 20410 Toll free: 1-800-225-5342
       (English and Spanish) TTY: 1-877-833-2483
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_603.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@fhaoutreach.com
-      (<email>info@fhaoutreach.com</email>)
+      <email>info@fhaoutreach.com</email>
     </para>
     <para>
-      <ulink url="portal.hud.gov/hudportal/HUD?src=/federal_%20housing_administration">portal.hud.gov/hudportal/HUD?src=/federal_
-      housing_administration</ulink>
+      <ulink url="portal.hud.gov/hudportal/HUD?src=/federal_%20housing_administration">portal.hud.gov/hudportal/HUD?src=/federal_housing_administration</ulink>
     </para>
     <para>
       FHA provides mortgage insurance on single-family, multifamily, and
@@ -19818,7 +19811,7 @@
       United States and its territories.
     </para>
     <para>
-      Interstate Land Sales Division
+      <emphasis role="strong">Interstate Land Sales Division</emphasis>
     </para>
     <para>
       451 7th St., SW, Room 9154 Washington, DC 20410 202-708-0502 TTY:
@@ -19832,7 +19825,7 @@
       and abuse when buying or selling land from developers.
     </para>
     <para>
-      Office of Manufactured Housing Programs
+      <emphasis role="strong">Office of Manufactured Housing Programs</emphasis>
     </para>
     <para>
       Office of Deputy Assistant Secretary for Regulatory Affairs and
@@ -19841,11 +19834,7 @@
       Spanish) TTY: 202-708-1455
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_604.jpg" />
-        </imageobject>
-      </inlinemediaobject>: mhs@hud.gov (<email>mhs@hud.gov</email>)
+      <email>mhs@hud.gov</email>
     </para>
     <para>
       <ulink url="http://www.hud.gov/offices/hsg/sfh/mhs/mhshome.cfm">www.hud.gov/offices/hsg/sfh/mhs/mhshome.cfm</ulink>
@@ -19856,15 +19845,12 @@
       units called “manufactured homes.” HUD works with 23 states to
       respond to consumer complaints.
     </para>
+    </sect2>
+      </sect1>
+      <sect1>
+        <title>Department of the Interior (DOI)</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_605.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Fish and Wildlife Service
+      <emphasis role="strong">Fish and Wildlife Service</emphasis>
     </para>
     <para>
       1849 C St., NW Mail Stop 3351 Washington, DC 20240 Toll free:
@@ -19878,35 +19864,27 @@
       enhance fish, wildlife and plants and their habitats.
     </para>
     <para>
-      National Park Service (NPS)
+      <emphasis role="strong">National Park Service (NPS)</emphasis>
     </para>
     <para>
       1849 C St., NW Room 7012 Washington, DC 20240 202-208-3818
     </para>
     <para>
-      <emphasis role="strong">www.nps.gov
-      <ulink url="http://www.recreation.gov">www.recreation.gov</ulink></emphasis>
-      (Federal recreational activities and reservations) NPS preserves
+      <ulink url="http://www.nps.gov">www.nps.gov</ulink>
+    </para>
+        <para>
+      <ulink url="http://www.recreation.gov">www.recreation.gov</ulink> (Federal recreational activities and reservations)
+        </para>
+        <para>
+      NPS preserves
       the nation’s national parks and historic landmarks so that
       individuals may enjoy the natural environment for years to come.
     </para>
+      </sect1>
+    <sect1>
+      <title>Department of Justice (DOJ)</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_606.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_607.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_608.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Americans with Disabilities Act (ADA) Information Line
+      <emphasis role="strong">Americans with Disabilities Act (ADA) Information Line</emphasis>
     </para>
     <para>
       950 Pennsylvania Ave., NW Disability Rights Section-NYAV
@@ -19923,24 +19901,24 @@
       Accessible Design.
     </para>
     <para>
-      U.S. Trustee Program
+      <emphasis role="strong">U.S. Trustee Program</emphasis>
     </para>
     <para>
       Executive Offices for U.S. Trustees 20 Massachusetts Ave., NW,
       Suite 8000 Washington, DC 20530 202-307-1399
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_609.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ustrustee.program@usdoj.gov
-      (<email>ustrustee.program@usdoj.gov</email>)
+      <email>ustrustee.program@usdoj.gov</email>
     </para>
     <para>
-      <emphasis role="strong">www.justice.gov/ust
-      <ulink url="http://www.justice.gov/ust/eo/bapcpa/ccde/cc_approved.htm">www.justice.gov/ust/eo/bapcpa/ccde/cc_</ulink>approved.htm</emphasis>
-      (Find approved credit counseling agencies) The Trustee Program
+      <ulink url="http://www.justice.gov/ust">www.justice.gov/ust</ulink>
+    </para>
+      <para>
+      <ulink url="http://www.justice.gov/ust/eo/bapcpa/ccde/cc_approved.htm">www.justice.gov/ust/eo/bapcpa/ccde/cc_pproved.htm</ulink>
+      (Find approved credit counseling agencies)
+      </para>
+      <para>
+      The Trustee Program
       protects the integrity of the Federal bankruptcy system. The
       Program monitors the conduct of bankruptcy parties and private
       estate trustees. It also identifies and helps investigate
@@ -19949,15 +19927,11 @@
       are required for persons that are going through the bankruptcy
       process.
     </para>
+    </sect1>
+      <sect1>
+        <title>Department of Labor (DOL)</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_610.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Employee Benefits Security Administration (EBSA)
+      <emphasis role="strong">Employee Benefits Security Administration (EBSA)</emphasis>
     </para>
     <para>
       Office of Participant Assistance Department of Labor, Room N5623
@@ -19975,19 +19949,14 @@
       benefit plan.
     </para>
     <para>
-      Job Corps
+      <emphasis role="strong">Job Corps</emphasis>
     </para>
     <para>
       200 Constitution Ave., NW, Suite N4463 Washington, DC 20210
       202-693-3000 Toll free: 1-800-733-5627 TTY: 1-877-889-5627
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_611.jpg" />
-        </imageobject>
-      </inlinemediaobject>: national_office@jobcorps.gov
-      (<email>national_office@jobcorps.gov</email>)
+      <email>national_office@jobcorps.gov</email>
     </para>
     <para>
       <ulink url="http://www.jobcorps.gov">www.jobcorps.gov</ulink>
@@ -19998,7 +19967,7 @@
       their lives through vocational and academic training.
     </para>
     <para>
-      National Contact Center
+      <emphasis role="strong">National Contact Center</emphasis>
     </para>
     <para>
       Toll free: 1-866-487-2365 TTY: 1-877-889-5627
@@ -20012,7 +19981,7 @@
       and current information assistance for all DOL programs.
     </para>
     <para>
-      Occupational Safety and Health Administration (OSHA)
+      <emphasis role="strong">Occupational Safety and Health Administration (OSHA)</emphasis>
     </para>
     <para>
       U.S. Department of Labor 200 Constitution Ave., NW Washington, DC
@@ -20027,7 +19996,7 @@
       education, and assistance.
     </para>
     <para>
-      Office of Disability Employment Policy (ODEP)
+      <emphasis role="strong">Office of Disability Employment Policy (ODEP)</emphasis>
     </para>
     <para>
       200 Constitution Ave., NW, Room S1303 Washington, DC 20210
@@ -20035,26 +20004,26 @@
       1-877-889-5627
     </para>
     <para>
-      <emphasis role="strong">www.dol.gov/odep
-      <ulink url="http://www.disability.gov">www.disability.gov</ulink></emphasis>
-      (Portal for disability programs) ODEP works to create policies to
+      <ulink url="http://http://wwww.dol.gov/odep">www.dol.gov/odep</ulink>
+    </para>
+        <para>
+      <ulink url="http://www.disability.gov">www.disability.gov</ulink>
+      (Portal for disability programs)
+        </para>
+        <para>
+      ODEP works to create policies to
       ensure that people with disabilities are fully integrated in the
       workforce.
     </para>
     <para>
-      Veteran’s Employment and Training Service (VETS)
+      <emphasis role="strong">Veteran’s Employment and Training Service (VETS)</emphasis>
     </para>
     <para>
       Department of Labor, Room S1325 200 Constitution Ave., NW
       Washington, DC 20210 Toll free: 1-866-487-2365 TTY: 1-877-889-5627
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_612.jpg" />
-        </imageobject>
-      </inlinemediaobject>: VETS-Public@dol.gov
-      (<email>VETS-Public@dol.gov</email>)
+      <email>VETS-Public@dol.gov</email>
     </para>
     <para>
       <ulink url="http://www.dol.gov/vets">www.dol.gov/vets</ulink>
@@ -20063,39 +20032,18 @@
       VETS provides resources to prepare and assist veterans obtain
       meaningful careers and maximize their employment opportunities.
     </para>
+      </sect1>
+      <sect1>
+        <title>Department of State (DOS)</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_613.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_614.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_615.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_616.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      National Passport Information Center (NPIC)
+      <emphasis role="strong">National Passport Information Center (NPIC)</emphasis>
     </para>
     <para>
       Toll free: 1-877-487-2778 (M-F, 8:00 am - 10:00 pm, ET) TTY:
       1-888-874-7793
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_617.jpg" />
-        </imageobject>
-      </inlinemediaobject>: NPIC@state.gov
-      (<email>NPIC@state.gov</email>)
+      <email>NPIC@state.gov</email>
     </para>
     <para>
       <ulink url="travel.state.gov/passport">travel.state.gov/passport</ulink>
@@ -20106,7 +20054,7 @@
       over 9,400 passport acceptance facilities.
     </para>
     <para>
-      Overseas Citizens Services
+      <emphasis role="strong">Overseas Citizens Services</emphasis>
     </para>
     <para>
       Bureau of Consular Affairs 2201 C St., NW Washington, DC 20520
@@ -20126,24 +20074,15 @@
       and family overseas that have emergencies while abroad.
     </para>
     <para>
-      Visa Services
+      <emphasis role="strong">Visa Services</emphasis>
     </para>
     <para>
-      Washington, DC 20520<literallayout>
-</literallayout> <literallayout>
-</literallayout>202-663-1225 (M-F, 8:30 am - 5:00 pm, ET)<literallayout>
-</literallayout> <literallayout>
-</literallayout>202-647-1512 (Emergency after hours)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Washington, DC 20520 
+      202-663-1225 (M-F, 8:30 am - 5:00 pm, ET) 
+      202-647-1512 (Emergency after hours)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_618.jpg" />
-        </imageobject>
-      </inlinemediaobject>: usvisa@state.gov
-      (<email>usvisa@state.gov</email>)
+      <email>usvisa@state.gov</email>
     </para>
     <para>
       <ulink url="travel.state.gov/visa">travel.state.gov/visa</ulink>
@@ -20159,8 +20098,11 @@
         </imageobject>
       </inlinemediaobject>
     </para>
+      </sect1>
+      <sect1>
+        <title>Department of Transportation (DOT)</title>
     <para>
-      Aviation Consumer Protection Division (ACPD)
+      <emphasis role="strong">Aviation Consumer Protection Division (ACPD)</emphasis>
     </para>
     <para>
       Office of Aviation Enforcement and Proceedings 1200 New Jersey
@@ -20169,24 +20111,23 @@
       disabilities hotline) TTY: 1-800-455-9880
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_620.jpg" />
-        </imageobject>
-      </inlinemediaobject>: airconsumer@dot.gov
-      (<email>airconsumer@dot.gov</email>)
+      <email>airconsumer@dot.gov</email>
     </para>
     <para>
-      <emphasis role="strong">airconsumer.ost.dot.gov/problems.htm
-      <ulink url="http://airconsumer.ost.dot.gov/spanish/index.cfm">airconsumer.ost.dot.gov/spanish</ulink></emphasis>
-      (in Spanish) The ACPD receives complaints from members of the
+      <ulink url="http://airconsumer.ost.dot.gov/problems.htm">airconsumer.ost.dot.gov/problems.htm</ulink>
+    </para>
+        <para>
+      <ulink url="http://airconsumer.ost.dot.gov/spanish/index.cfm">airconsumer.ost.dot.gov/spanish</ulink> (in Spanish)
+        </para>
+        <para>
+      The ACPD receives complaints from members of the
       public regarding air travel consumer issues. It verifies
       compliance with the Department’s aviation consumer protection
       requirements and provides guidance to the industry and members of
       the public on consumer protection matters.
     </para>
     <para>
-      Federal Aviation Administration (FAA)
+      <emphasis role="strong">Federal Aviation Administration (FAA)</emphasis>
     </para>
     <para>
       800 Independence Ave., SW Washington, DC 20591 202-366-4000 Toll
@@ -20199,7 +20140,7 @@
       The FAA works to ensure that all air travel is safe.
     </para>
     <para>
-      Federal Motor Carrier Safety Administration (FMCSA)
+      <emphasis role="strong">Federal Motor Carrier Safety Administration (FMCSA)</emphasis>
     </para>
     <para>
       1200 New Jersey Ave., SE Suite W60-300 Washington, DC 20590
@@ -20207,25 +20148,35 @@
       1-800-877-8339
     </para>
     <para>
-      <emphasis role="strong">www.fmcsa.dot.gov
-      <ulink url="http://www.protectyourmove.gov">www.protectyourmove.gov</ulink></emphasis>
-      (Interstate moving) The FMCSA provides information about your
+      <ulink url="http://www.fmcsa.dot.gov">www.fmcsa.dot.gov</ulink>
+    </para>
+    <para>
+      <ulink url="http://www.protectyourmove.gov">www.protectyourmove.gov</ulink>
+      (Interstate moving)
+    </para>
+      <para>
+      The FMCSA provides information about your
       rights when moving across state lines (interstate moves).
       Consumers should submit household goods commercial complaints or
       dangerous safety violations involving a commercial truck or
       passenger bus to this agency.
     </para>
     <para>
-      National Highway Traffic Safety Administration (NHTSA)
+      <emphasis role="strong">National Highway Traffic Safety Administration (NHTSA)</emphasis>
     </para>
     <para>
       1200 New Jersey Ave., SE West Building Washington, DC 20590 Toll
       free: 1-888-327-4236 (Vehicle Safety Hotline) TTY: 1-800-424-9153
     </para>
     <para>
-      <ulink url="http://www.nhtsa.dot.gov"><emphasis role="strong">www.nhtsa.dot.gov
-      <ulink url="http://www.vehiclehistory.gov">www.vehiclehistory.gov</ulink></emphasis>(Searchable
-      database)</ulink><ulink url="http://www.safercar.gov">www.safercar.gov</ulink>
+      <ulink url="http://www.nhtsa.dot.gov">www.nhtsa.dot.gov</ulink>
+    </para>
+        <para>
+      <ulink url="http://www.vehiclehistory.gov">www.vehiclehistory.gov</ulink> (Searchable
+      database)</ulink>
+        </para>
+        <para>
+          <ulink url="http://www.safercar.gov">www.safercar.gov</ulink>
     </para>
     <para>
       NHTSA wants to hear from consumers regarding potential defects in
@@ -20233,24 +20184,24 @@
       crash test ratings, child safety seats, bicycles, air bags,
       distracted driving, and impaired driving prevention.
     </para>
+      </sect1>
+      <sect1>
+        <title>Department of the Treasury</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_621.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Bureau of the Public Debt
+      <emphasis role="strong">Bureau of the Public Debt</emphasis>
     </para>
     <para>
       Treasury Direct PO Box 7015 Parkersburg, WV 26106-7015 Toll free:
       1-800-722-2678
     </para>
     <para>
-      <emphasis role="strong">www.publicdebt.treas.gov
-      <ulink url="http://www.treasurydirect.gov">www.treasurydirect.gov</ulink></emphasis>(Treasury
-      bonds) This agency borrows moneys to make sure that the federal
+      <ulink url="http://www.publicdebt.treas.gov">www.publicdebt.treas.gov</ulink>
+    </para>
+        <para>
+      <ulink url="http://www.treasurydirect.gov">www.treasurydirect.gov</ulink> (Treasury bonds)
+        </para>
+        <para>
+          This agency borrows moneys to make sure that the federal
       government continues to operate. You can contact them to purchase
       bonds or to check on the maturity of bonds you have already
       purchased.
