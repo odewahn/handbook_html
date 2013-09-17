@@ -1,0 +1,19 @@
+{
+  "files": [
+    "part01ch02.html",
+    "part01ch03.html",
+    "part01ch04.html",
+    "part01ch05.html",
+    "part01ch06.html",
+    "part01ch07.html"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "web"
+    },
+    "epub": {},
+    "mobi": {},
+    "html": {}
+  },
+  "theme": "oreillymedia/atlas_tech1c_theme"
+}
