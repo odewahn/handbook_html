@@ -22698,48 +22698,36 @@
     <para>
       <ulink url="http://www.northwesternda.org">northwesternda.org</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>City Offices</title>
     <para>
-      City Offices
-    </para>
-    <para>
-      Boston Consumer Affairs and Licensing
+      <emphasis role="strong">Boston Consumer Affairs and Licensing</emphasis>
     </para>
     <para>
       One City Hall Square, Room 817 Boston, MA 02201-2039 617-635-3834
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_755.jpg" />
-        </imageobject>
-      </inlinemediaobject>: MOCAL@cityofboston.gov
-      (<email>MOCAL@cityofboston.gov</email>)
+      <email>MOCAL@cityofboston.gov</email>
     </para>
     <para>
-      <ulink url="http://www.cityofboston.gov/consumeraffairs">www.cityofboston.gov/
-      consumeraffairs</ulink>
+      <ulink url="http://www.cityofboston.gov/consumeraffairs">www.cityofboston.gov/consumeraffairs</ulink>
     </para>
     <para>
-      Cambridge Consumers Council
+      <emphasis role="strong">Cambridge Consumers Council</emphasis>
     </para>
     <para>
       831 Massachusetts Ave., 1st Floor Cambridge, MA 02139 617-349-6150
       TTY: 617-349-6112
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_756.jpg" />
-        </imageobject>
-      </inlinemediaobject>: Consumer@cambridgema.gov
-      (<email>Consumer@cambridgema.gov</email>)
+      <email>Consumer@cambridgema.gov</email>
     </para>
     <para>
-      <ulink url="http://www.cambridgema.gov/consumercouncil.aspx">www.cambridgema.gov/
-      consumercouncil.aspx</ulink>
+      <ulink url="http://www.cambridgema.gov/consumercouncil.aspx">www.cambridgema.gov/consumercouncil.aspx</ulink>
     </para>
     <para>
-      Newton-Brookline Consumer Office
+      <emphasis role="strong">Newton-Brookline Consumer Office</emphasis>
     </para>
     <para>
       Newton City Hall 1000 Commonwealth Ave. Newton Centre, MA 02459
@@ -22749,7 +22737,7 @@
       <ulink url="http://www.newtonma.gov">www.newtonma.gov</ulink>
     </para>
     <para>
-      Revere Consumer Affairs Office
+      <emphasis role="strong">Revere Consumer Affairs Office</emphasis>
     </para>
     <para>
       150 Beach St. Revere, MA 02151 781-286-8114
@@ -22758,31 +22746,26 @@
       <ulink url="http://www.revere.org">www.revere.org</ulink>
     </para>
     <para>
-      Springfield Mayors Office of Consumer Information
+      <emphasis role="strong">Springfield Mayors Office of Consumer Information</emphasis>
     </para>
     <para>
       City Hall, Room 315 36 Court St. Springfield, MA 01103
       413-787-6437 TTY: 413-787-6154
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_757.jpg" />
-        </imageobject>
-      </inlinemediaobject>: moci@springfieldcityhall.com
-      (<email>moci@springfieldcityhall.com</email>)
+      <email>moci@springfieldcityhall.com</email>
     </para>
     <para>
       <ulink url="http://www.springfieldcityhall.com">www.springfieldcityhall.com</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Michigan</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Michigan
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Michigan Department of Agriculture and Rural Development
+      <emphasis role="strong">Michigan Department of Agriculture and Rural Development</emphasis>
     </para>
     <para>
       Consumer Protection Section Weights &amp; Measures 940 Venture Ln.
@@ -22792,7 +22775,7 @@
       <ulink url="http://www.michigan.gov/wminfo">www.michigan.gov/wminfo</ulink>
     </para>
     <para>
-      Office of the Attorney General
+      <emphasis role="strong">Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division PO Box 30213 Lansing, MI 48909-7713
@@ -22801,11 +22784,11 @@
     <para>
       <ulink url="http://www.michigan.gov/ag">www.michigan.gov/ag</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Macomb County Consumer Protection Unit
+      <emphasis role="strong">Macomb County Consumer Protection Unit</emphasis>
     </para>
     <para>
       Office of the Prosecuting Attorney One S. Main St., 3rd Floor Mt.
@@ -22814,11 +22797,11 @@
     <para>
       <ulink url="http://www.macombcountymi.gov">www.macombcountymi.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+     <title>City Offices</title>
     <para>
-      City Offices
-    </para>
-    <para>
-      Detroit Consumer Advocacy Division
+      <emphasis role="strong">Detroit Consumer Advocacy Division</emphasis>
     </para>
     <para>
       18100 Meyers Rd. Detroit, MI 48235 313-224-6995
@@ -22826,14 +22809,14 @@
     <para>
       <ulink url="http://www.ci.detroit.mi.us">www.ci.detroit.mi.us</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Minnesota</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Minnesota
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Office of the Attorney General
+      <emphasis role="strong">Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Services Division 1400 Bremer Tower 445 Minnesota St. St.
@@ -22843,11 +22826,11 @@
     <para>
       <ulink url="http://www.ag.state.mn.us">www.ag.state.mn.us</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>City Offices</title>
     <para>
-      City Offices
-    </para>
-    <para>
-      Minneapolis Department of Regulatory Services
+      <emphasis role="strong">Minneapolis Department of Regulatory Services</emphasis>
     </para>
     <para>
       Division of Licenses and Consumer Services 350 S. 5th St. City
@@ -22857,14 +22840,14 @@
       <ulink url="http://www.ci.minneapolis.mn.us/business-licensing">www.ci.minneapolis.mn.us/
       business-licensing</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Mississippi</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Mississippi
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Mississippi Department of Agriculture and Commerce
+      <emphasis role="strong">Mississippi Department of Agriculture and Commerce</emphasis>
     </para>
     <para>
       Bureau of Regulatory Services Consumer Protection PO Box 1609
@@ -22874,7 +22857,7 @@
       <ulink url="http://www.mdac.state.ms.us">www.mdac.state.ms.us</ulink>
     </para>
     <para>
-      Mississippi Office of the Attorney General
+      <emphasis role="strong">Mississippi Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division PO Box 22947 Jackson, MS 39225-2947
@@ -22883,46 +22866,30 @@
     <para>
       <ulink url="http://www.ago.state.ms.us">www.ago.state.ms.us</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Missouri</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Missouri
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Missouri Attorney General’s Office
+      <emphasis role="strong">Missouri Attorney General’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Unit PO Box 899 Jefferson City, MO 65102
       573-751-3321 Toll free: 1-800-392-8222 (MO, Hotline)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_758.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.help@ago.mo.gov
-      (<email>consumer.help@ago.mo.gov</email>)
+      <email>consumer.help@ago.mo.gov</email>
     </para>
     <para>
       <ulink url="http://www.ago.mo.gov">www.ago.mo.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>Regional Offices</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_759.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_760.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Regional Offices
-    </para>
-    <para>
-      Missouri Attorney General’s Office-St Louis
+      <emphasis role="strong">Missouri Attorney General’s Office-St Louis</emphasis>
     </para>
     <para>
       Consumer Protection Division Old Post Office Building 815 Olive
@@ -22930,48 +22897,38 @@
       1-800-392-8222 (MO, Hotline)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_761.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.help@ago.mo.gov
-      (<email>consumer.help@ago.mo.gov</email>)
+      <email>consumer.help@ago.mo.gov</email>
     </para>
     <para>
       <ulink url="http://www.ago.mo.gov">www.ago.mo.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Montana</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Montana
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Montana Office of Consumer Protection
+      <emphasis role="strong">Montana Office of Consumer Protection</emphasis>
     </para>
     <para>
       Office of Consumer Protection PO Box 200151 2225 11th Ave. Helena,
       MT 59620-0151 406-444-4500 Toll free: 1-800-481-6896
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_762.jpg" />
-        </imageobject>
-      </inlinemediaobject>: contactocp@mt.gov
-      (<email>contactocp@mt.gov</email>)
+      <email>contactocp@mt.gov</email>
     </para>
     <para>
       <ulink url="http://www.doj.mt.gov/consumer">www.doj.mt.gov/consumer</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Nebraska</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Nebraska
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Nebraska Office of the Attorney General
+      <emphasis role="strong">Nebraska Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division 2115 State Capitol Lincoln, NE 68509
@@ -22979,39 +22936,34 @@
       1-888-850-7555 (in Spanish)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_763.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ago.consumer@nebraska.gov
-      (<email>ago.consumer@nebraska.gov</email>)
+      <email>ago.consumer@nebraska.gov</email>
     </para>
     <para>
       <ulink url="http://www.ago.ne.gov">www.ago.ne.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Nevada</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Nevada
+      <emphasis role="strong">Nevada Department of Business and Industry</emphasis>
     </para>
     <para>
-      State Offices
-    </para>
-    <para>
-      Nevada Department of Business and Industry
-    </para>
-    <para>
-      Fight Fraud Task Force
+      <emphasis role="strong">Fight Fraud Task Force</emphasis>
     </para>
     <para>
       <ulink url="http://www.fightfraud.nv.gov">www.fightfraud.nv.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>New Hampshire</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      New Hampshire
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      New Hampshire Office of the Attorney General
+      <emphasis role="strong">New Hampshire Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection and Antitrust Bureau 33 Capitol St. Concord,
@@ -23019,45 +22971,35 @@
       Protection Hotline) TTY: 1-800-735-2964 (NH)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_764.jpg" />
-        </imageobject>
-      </inlinemediaobject>: DOJ-CPB@doj.nh.gov
-      (<email>DOJ-CPB@doj.nh.gov</email>)
+      <email>DOJ-CPB@doj.nh.gov</email>
     </para>
     <para>
       <ulink url="http://www.doj.nh.gov/consumer">www.doj.nh.gov/consumer</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>New Jersey</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      New Jersey
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Department of Law and Public Safety
+      <emphasis role="strong">Department of Law and Public Safety</emphasis>
     </para>
     <para>
       Division of Consumer Affairs 124 Halsey St. Newark, NJ 07102
       973-504-6200 Toll free: 1-800-242-5846 (NJ) TTY: 973-504-6588
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_765.jpg" />
-        </imageobject>
-      </inlinemediaobject>: askconsumeraffairs@
-      (<email>askconsumeraffairs@lps.state.nj.us</email>)lps.state.nj.us
+      <email>askconsumeraffairs@lps.state.nj.us</email>
     </para>
     <para>
       <ulink url="http://www.njconsumeraffairs.gov">www.njconsumeraffairs.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Bergen County Office of Consumer Protection
+      <emphasis role="strong">Bergen County Office of Consumer Protection</emphasis>
     </para>
     <para>
       One Bergen County Plaza, 3rd Floor Hackensack, NJ 07601-7076
@@ -23067,51 +23009,36 @@
       <ulink url="http://www.co.bergen.nj.us">www.co.bergen.nj.us</ulink>
     </para>
     <para>
-      Burlington County Office of Consumer Affairs/Weights &amp;
-      Measures
+      <emphasis role="strong">Burlington County Office of Consumer Affairs/Weights &amp;
+      Measures</emphasis>
     </para>
     <para>
-      PO Box 6000<literallayout>
-</literallayout> <literallayout>
-</literallayout>Mount Holly, NJ 08060-6000<literallayout>
-</literallayout> <literallayout>
-</literallayout>609-265-5098 (Weights &amp; Measures)<literallayout>
-</literallayout> <literallayout>
-</literallayout>609-265-5054 (Consumer Affairs)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      PO Box 6000 
+      Mount Holly, NJ 08060-6000 
+      609-265-5098 (Weights &amp; Measures) 
+      609-265-5054 (Consumer Affairs)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_766.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@co.burlington.nj.us
-      (<email>consumer@co.burlington.nj.us</email>)
+      <email>consumer@co.burlington.nj.us</email>
     </para>
     <para>
       <ulink url="http://www.co.burlington.nj.us">www.co.burlington.nj.us</ulink>
     </para>
     <para>
-      Cape May County Consumer Affairs
+      <emphasis role="strong">Cape May County Consumer Affairs</emphasis>
     </para>
     <para>
       Four Moore Rd., DN 310 Cape May Court House, NJ 08210-1601
       609-886-2903
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_767.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@co.cape-may.nj.us
-      (<email>consumer@co.cape-may.nj.us</email>)
+      <email>consumer@co.cape-may.nj.us</email>
     </para>
     <para>
       <ulink url="http://www.capemaycountygov.net">www.capemaycountygov.net</ulink>
     </para>
     <para>
-      Cumberland County Department of Consumer Affairs
+      <emphasis role="strong">Cumberland County Department of Consumer Affairs</emphasis>
     </para>
     <para>
       788 E. Commerce St. Bridgeton, NJ 08302 856-453-2203
@@ -23120,7 +23047,7 @@
       <ulink url="http://www.co.cumberland.nj.us">www.co.cumberland.nj.us</ulink>
     </para>
     <para>
-      Essex County Division of Consumer Services
+      <emphasis role="strong">Essex County Division of Consumer Services</emphasis>
     </para>
     <para>
       50 S. Clinton St., Suite 3201 East Orange, NJ 07018 973-395-8350
@@ -23129,19 +23056,18 @@
       <ulink url="http://www.essex-countynj.org">www.essex-countynj.org</ulink>
     </para>
     <para>
-      Gloucester County Office of Consumer Affairs and Weights &amp;
-      Measures
+      <emphasis role="strong">Gloucester County Office of Consumer Affairs and Weights &amp;
+      Measures</emphasis>
     </para>
     <para>
       254 County House Rd. Clarksboro, NJ 08020 856-384-6855 TTY:
       856-681-6128
     </para>
     <para>
-      <ulink url="http://www.co.gloucester.nj.us/depts/c/cpwm/default.asp">www.co.gloucester.nj.us/depts/c/
-      cpwm/default.asp</ulink>
+      <ulink url="http://www.co.gloucester.nj.us/depts/c/cpwm/default.asp">www.co.gloucester.nj.us/depts/c/cpwm/default.asp</ulink>
     </para>
     <para>
-      Hudson County Division of Consumer Affairs
+      <emphasis role="strong">Hudson County Division of Consumer Affairs</emphasis>
     </para>
     <para>
       583 Newark Ave. Jersey City, NJ 07306 201-795-6295 (Hotline)
@@ -23150,17 +23076,16 @@
       <ulink url="http://www.hudsoncountynj.org">www.hudsoncountynj.org</ulink>
     </para>
     <para>
-      Hunterdon County Office of Consumer Affairs
+      <emphasis role="strong">Hunterdon County Office of Consumer Affairs</emphasis>
     </para>
     <para>
       PO Box 2900 Flemington, NJ 08822 908-806-5174
     </para>
     <para>
-      <ulink url="http://www.co.hunterdon.nj.us/consumeraffairs.htm">www.co.hunterdon.nj.us/
-      consumeraffairs.htm</ulink>
+      <ulink url="http://www.co.hunterdon.nj.us/consumeraffairs.htm">www.co.hunterdon.nj.us/consumeraffairs.htm</ulink>
     </para>
     <para>
-      Mercer County Office of Consumer Affairs
+      <emphasis role="strong">Mercer County Office of Consumer Affairs</emphasis>
     </para>
     <para>
       640 S. Broad St. PO Box 8068 Trenton, NJ 08650-0068 609-989-6671
@@ -23169,76 +23094,45 @@
       <ulink url="http://www.mercercounty.org">www.mercercounty.org</ulink>
     </para>
     <para>
-      Middlesex County Consumer Affairs
+      <emphasis role="strong">Middlesex County Consumer Affairs</emphasis>
     </para>
     <para>
       711 Jersey Ave. New Brunswick, NJ 08901 732-745-3875
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_768.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@co.middlesex.nj.us
-      (<email>consumer@co.middlesex.nj.us</email>)
+      <email>consumer@co.middlesex.nj.us</email>
     </para>
     <para>
-      <ulink url="http://www.co.middlesex.nj.us/consumeraffairs/index.asp">www.co.middlesex.nj.us/
-      consumeraffairs/index.as</ulink>p
+      <ulink url="http://www.co.middlesex.nj.us/consumeraffairs/index.asp">www.co.middlesex.nj.us/consumeraffairs/index.as</ulink>
     </para>
     <para>
-      Monmouth County Department of Consumer Affairs
+      <emphasis role="strong">Monmouth County Department of Consumer Affairs</emphasis>
     </para>
     <para>
       Hall of Records Annex One E. Main St. Freehold, NJ 07728-1255
       732-431-7900
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_769.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumeraffairs@ co.monmouth.nj.us
-      (<email>consumeraffairs@co.monmouth.nj.us</email>)
+      <email>consumeraffairs@co.monmouth.nj.us</email>
     </para>
     <para>
       <ulink url="http://www.visitmonmouth.com">www.visitmonmouth.com</ulink>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_770.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_771.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_772.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Ocean County Department of Consumer Affairs
+      <emphasis role="strong">Ocean County Department of Consumer Affairs</emphasis>
     </para>
     <para>
       1027 Hooper Ave., Bldg. #2 Toms River, NJ 08754-2191 732-929-2105
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_773.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ConsumerAffairs@co.ocean.nj.us
-      (<email>ConsumerAffairs@co.ocean.nj.us</email>)
+      <email>ConsumerAffairs@co.ocean.nj.us</email>
     </para>
     <para>
       <ulink url="http://www.co.ocean.nj.us">www.co.ocean.nj.us</ulink>
     </para>
     <para>
-      Passaic County Department of Consumer Protection/Weights &amp;
-      Measures
+      <emphasis role="strong">Passaic County Department of Consumer Protection/Weights &amp;
+      Measures</emphasis>
     </para>
     <para>
       Department of Law 1310 Route 23 N Wayne, NJ 07470 973-305-5881
@@ -23248,24 +23142,19 @@
       <ulink url="http://www.passaiccountynj.org">www.passaiccountynj.org</ulink>
     </para>
     <para>
-      Somerset County Division of Consumer Protection
+      <emphasis role="strong">Somerset County Division of Consumer Protection</emphasis>
     </para>
     <para>
       20 Grove St. PO Box 3000 Somerville, NJ 08876-1262 908-203-6080
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_774.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumerprotection@ co.somerset.nj.us
-      (<email>consumerprotection@co.somerset.nj.us</email>)
+      <email>consumerprotection@co.somerset.nj.us</email>
     </para>
     <para>
       <ulink url="http://www.co.somerset.nj.us">www.co.somerset.nj.us</ulink>
     </para>
     <para>
-      Union County Department of Public Safety
+      <emphasis role="strong">Union County Department of Public Safety</emphasis>
     </para>
     <para>
       Division of Consumer Affairs 300 North Ave., E Westfield, NJ 07090
@@ -23274,11 +23163,11 @@
     <para>
       <ulink url="http://www.ucnj.org">www.ucnj.org</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>City Offices</title>
     <para>
-      City Offices
-    </para>
-    <para>
-      Nutley Consumer Affairs
+      <emphasis role="strong">Nutley Consumer Affairs</emphasis>
     </para>
     <para>
       c/o Department of Public Affairs 149 Chestnut St. Nutley, NJ 07110
@@ -23288,18 +23177,17 @@
       <ulink url="http://www.nutleynj.org">www.nutleynj.org</ulink>
     </para>
     <para>
-      Plainfield Action Services
+      <emphasis role="strong">Plainfield Action Services</emphasis>
     </para>
     <para>
       City Hall Annex, 1st Floor 510 Watchung Ave. Plainfield, NJ 07061
       908-753-3519
     </para>
     <para>
-      <ulink url="http://www.cityofplainfield.net/plainfieldactionservices.htm">www.cityofplainfield.net/
-      plainfieldactionservices.h</ulink>tm
+      <ulink url="http://www.cityofplainfield.net/plainfieldactionservices.htm">www.cityofplainfield.net/plainfieldactionservices.htm</ulink>
     </para>
     <para>
-      Secaucus Department of Consumer Affairs
+      <emphasis role="strong">Secaucus Department of Consumer Affairs</emphasis>
     </para>
     <para>
       Municipal Government Center 1203 Patterson Plank Rd. Secaucus, NJ
@@ -23310,7 +23198,7 @@
       countyoff.htm</ulink>
     </para>
     <para>
-      Union Consumer Affairs Office
+      <emphasis role="strong">Union Consumer Affairs Office</emphasis>
     </para>
     <para>
       1976 Morris Ave. Union, NJ 07083 908-851-5458
@@ -23318,14 +23206,14 @@
     <para>
       <ulink url="http://www.uniontownship.com">www.uniontownship.com</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>New Mexico</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      New Mexico
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Office of Attorney Generral
+      <emphasis role="strong">Office of Attorney Generral</emphasis>
     </para>
     <para>
       Consumer Protection Division PO Drawer 1508 Santa Fe, NM
@@ -23334,14 +23222,14 @@
     <para>
       <ulink url="http://www.nmag.gov">www.nmag.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>New York</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      New York
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      New York State Department of State
+      <emphasis role="strong">New York State Department of State</emphasis>
     </para>
     <para>
       Division of Consumer Protection Consumer Assistance Unit 99
@@ -23352,7 +23240,7 @@
       <ulink url="http://www.nysconsumer.gov">www.nysconsumer.gov</ulink>
     </para>
     <para>
-      Office of the Attorney General-Albany Office
+      <emphasis role="strong">Office of the Attorney General-Albany Office</emphasis>
     </para>
     <para>
       Bureau of Consumer Frauds and Protection State Capitol Albany, NY
@@ -23363,7 +23251,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Office of the Attorney General- New York City Office
+      <emphasis role="strong">Office of the Attorney General- New York City Office</emphasis>
     </para>
     <para>
       Bureau of Consumer Frauds and Protection 120 Broadway, 3rd Floor
@@ -23373,11 +23261,11 @@
     <para>
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>Regional Offices</title>
     <para>
-      Regional Offices
-    </para>
-    <para>
-      Binghamton Regional Office of the Attorney General
+      <emphasis role="strong">Binghamton Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       State Office Building, 17th Floor 44 Hawley St. Binghamton, NY
@@ -23388,7 +23276,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Brooklyn Regional Office of the Attorney General
+      <emphasis role="strong">Brooklyn Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       55 Hanson Pl., Suite 1080 Brooklyn, NY 11217 718-722-3949 Toll
@@ -23398,7 +23286,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Buffalo Regional Office of the Attorney General
+      <emphasis role="strong">Buffalo Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       Main Place Tower, Suite 300A 350 Main St. Buffalo, NY 14202
@@ -23409,7 +23297,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Harlem Regional Office of the Attorney General
+      <emphasis role="strong">Harlem Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       163 W. 125th St., Suite 1324 New York, NY 10027 212-961-4475 Toll
@@ -23419,7 +23307,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Nassau Regional Office of the Attorney General
+      <emphasis role="strong">Nassau Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       200 Old Country Rd., Suite 240 Mineola, NY 11501 516-248-3302 Toll
@@ -23429,7 +23317,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Plattsburgh Regional Office of the Attorney General
+      <emphasis role="strong">Plattsburgh Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       43 Durkee St., Suite 700 Plattsburgh, NY 12901-2958 518-562-3288
@@ -23439,18 +23327,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_775.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_776.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Poughkeepsie Regional Office of the Attorney General
+      <emphasis role="strong">Poughkeepsie Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       One Civic Center Plaza, Suite 401 Poughkeepsie, NY 12601-3157
@@ -23461,7 +23338,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Rochester Regional Office of the Attorney General
+      <emphasis role="strong">Rochester Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       144 Exchange Blvd., Suite 200 Rochester, NY 14614-2176
@@ -23472,7 +23349,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Suffolk Regional Office of the Attorney General
+      <emphasis role="strong">Suffolk Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       300 Motor Pkwy., Suite 205 Hauppauge, NY 11788 631-231-2424 Toll
@@ -23482,7 +23359,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Syracuse Regional Office of the Attorney General
+      <emphasis role="strong">Syracuse Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       615 Erie Blvd. W, Suite 102 Syracuse, NY 13204 315-448-4800 Toll
@@ -23492,7 +23369,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Utica Regional Office of the Attorney General
+      <emphasis role="strong">Utica Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       207 Genesee St., Room 508 Utica, NY 13501 315-793-2225 Toll free:
@@ -23502,7 +23379,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Watertown Regional Office of the Attorney General
+      <emphasis role="strong">Watertown Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       Dulles State Office Building 317 Washington St. Watertown, NY
@@ -23513,7 +23390,7 @@
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
     <para>
-      Westchester Regional Office of the Attorney General
+      <emphasis role="strong">Westchester Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       101 E. Post Rd. White Plains, NY 10601-5008 914-422-8755 Toll
@@ -23522,29 +23399,24 @@
     <para>
       <ulink url="http://www.ag.ny.gov">www.ag.ny.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Albany County Department of Consumer Affairs
+      <emphasis role="strong">Albany County Department of Consumer Affairs</emphasis>
     </para>
     <para>
       Consumer Affairs 112 State St., Suite 1207-08 Albany County Office
       Building Albany, NY 12207 518-447-7581
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_777.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer_complaints@ albanycounty.com
-      (<email>consumer_complaints@albanycounty.com</email>)
+      <email>consumer_complaints@albanycounty.com</email>
     </para>
     <para>
       <ulink url="http://www.albanycounty.com">www.albanycounty.com</ulink>
     </para>
     <para>
-      Erie County District Attorney’s Office
+      <emphasis role="strong">Erie County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Fraud Bureau Main Place Tower 350 Main St., Suite 300A
@@ -23554,7 +23426,7 @@
       <ulink url="http://www.oag.state.ny.us">www.oag.state.ny.us</ulink>
     </para>
     <para>
-      Nassau County Office of Consumer Affairs
+      <emphasis role="strong">Nassau County Office of Consumer Affairs</emphasis>
     </para>
     <para>
       200 County Seat Dr. Mineola, NY 11501 516-571-2600
@@ -23563,7 +23435,7 @@
       <ulink url="http://www.nassaucountyny.gov">www.nassaucountyny.gov</ulink>
     </para>
     <para>
-      Orange County Department of Consumer Affairs
+      <emphasis role="strong">Orange County Department of Consumer Affairs</emphasis>
     </para>
     <para>
       99 Main St. Goshen, NY 10924 845-360-6700
@@ -23572,7 +23444,7 @@
       <ulink url="http://www.co.orange.ny.us">www.co.orange.ny.us</ulink>
     </para>
     <para>
-      Putnam County Department of Consumer Affairs
+      <emphasis role="strong">Putnam County Department of Consumer Affairs</emphasis>
     </para>
     <para>
       110 Old Route 6, Bldg. 3 Carmel, NY 10512 845-808-1617
@@ -23581,7 +23453,7 @@
       <ulink url="http://www.putnamcountyny.com">www.putnamcountyny.com</ulink>
     </para>
     <para>
-      Rockland County Office of Consumer Protection
+      <emphasis role="strong">Rockland County Office of Consumer Protection</emphasis>
     </para>
     <para>
       18 New Hempstead Rd., 6th Floor New City, NY 10956 845-708-7600
@@ -23590,55 +23462,45 @@
       <ulink url="http://www.rocklandgov.com">www.rocklandgov.com</ulink>
     </para>
     <para>
-      Schenectady County Department of Consumer Affairs/Bureau of
-      Weights &amp; Measures
+      <emphasis role="strong">Schenectady County Department of Consumer Affairs/Bureau of
+      Weights &amp; Measures</emphasis>
     </para>
     <para>
-      64 Kellar Ave.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Schenectady, NY 12306<literallayout>
-</literallayout> <literallayout>
-</literallayout>518-356-7473 (Consumer Affairs)<literallayout>
-</literallayout> <literallayout>
-</literallayout>518-356-6795 (Weights &amp; Measures)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      64 Kellar Ave. 
+      Schenectady, NY 12306 
+      518-356-7473 (Consumer Affairs) 
+      518-356-6795 (Weights &amp; Measures)
     </para>
     <para>
       <ulink url="http://www.schenectadycounty.com">www.schenectadycounty.com</ulink>
     </para>
     <para>
-      Ulster County Consumer Fraud Bureau
+      <emphasis role="strong">Ulster County Consumer Fraud Bureau</emphasis>
     </para>
     <para>
       Consumer Fraud Bureau 20 Lucas Ave. Kingston, NY 12401-3708
       845-340-3260
     </para>
     <para>
-      <ulink url="http://www.ulstercountyny.gov/consumerfraud">www.ulstercountyny.gov/</ulink>consumerfraud
+      <ulink url="http://www.ulstercountyny.gov/consumerfraud">www.ulstercountyny.gov/consumerfraud</ulink>
     </para>
     <para>
-      Westchester County Department of Consumer Protection
+      <emphasis role="strong">Westchester County Department of Consumer Protection</emphasis>
     </para>
     <para>
       112 E. Post Rd., 4th Floor White Plains, NY 10601 914-995-2155
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_778.jpg" />
-        </imageobject>
-      </inlinemediaobject>: conpro@westchestergov.com
-      (<email>conpro@westchestergov.com</email>)
+      <email>conpro@westchestergov.com</email>
     </para>
     <para>
       <ulink url="http:consumer.westchestergov.com">consumer.westchestergov.com</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>City Offices</title>
     <para>
-      City Offices
-    </para>
-    <para>
-      Town of Colonie Attorney
+      <emphasis role="strong">Town of Colonie Attorney</emphasis>
     </para>
     <para>
       Consumer Protection Board Memorial Town Hall 534 Loudon Rd.
@@ -23648,7 +23510,7 @@
       <ulink url="http://www.colonie.org">www.colonie.org</ulink>
     </para>
     <para>
-      Mt. Vernon Office of Consumer Affairs
+      <emphasis role="strong">Mt. Vernon Office of Consumer Affairs</emphasis>
     </para>
     <para>
       City Hall One Roosevelt Square Mount Vernon, NY 10550 914-665-2433
@@ -23657,7 +23519,7 @@
       <ulink url="http://www.cmvny.com">www.cmvny.com</ulink>
     </para>
     <para>
-      New York City Department of Consumer Affairs
+      <emphasis role="strong">New York City Department of Consumer Affairs</emphasis>
     </para>
     <para>
       42 Broadway New York, NY 10004 212-639-9675 TTY: 212-487-2710
@@ -23666,7 +23528,7 @@
       <ulink url="http://www.nyc.gov/consumers">www.nyc.gov/consumers</ulink>
     </para>
     <para>
-      Yonkers Consumer Protection Bureau
+      <emphasis role="strong">Yonkers Consumer Protection Bureau</emphasis>
     </para>
     <para>
       87 Nepperhan Ave., Room 212 Yonkers, NY 10701 914-377-6808
@@ -23675,29 +23537,14 @@
     <para>
       <ulink url="http://www.yonkersny.gov">www.yonkersny.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>North Carolina</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_779.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_780.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_781.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      North Carolina
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      North Carolina Department of Agriculture and Consumer Services
+      <emphasis role="strong">North Carolina Department of Agriculture and Consumer Services</emphasis>
     </para>
     <para>
       1001 Mail Service Center Raleigh, NC 27699-1001 919-707-3000
@@ -23706,7 +23553,7 @@
       <ulink url="http://www.agr.state.nc.us/index.htm">www.agr.state.nc.us/index.htm</ulink>
     </para>
     <para>
-      North Carolina Office of the Attorney General
+      <emphasis role="strong">North Carolina Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division Mail Service Center 9001 Raleigh, NC
@@ -23716,14 +23563,14 @@
     <para>
       <ulink url="http://www.ncdoj.gov">www.ncdoj.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>North Dakota</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      North Dakota
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Office of the Attorney General
+      <emphasis role="strong">Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection and Antitrust Division Gateway Professional
@@ -23731,23 +23578,19 @@
       701-328-3404 Toll free: 1-800-472-2600 TTY: 1-800-366-6888
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_782.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ndag@nd.gov (<email>ndag@nd.gov</email>)
+      <email>ndag@nd.gov</email>
     </para>
     <para>
       <ulink url="http://www.ag.nd.gov">www.ag.nd.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Ohio</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Ohio
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Ohio Attorney General’s Office
+      <emphasis role="strong">Ohio Attorney General’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Section 30 E. Broad St., 14th Floor Columbus,
@@ -23756,35 +23599,29 @@
     <para>
       <ulink url="http://www.ohioattorneygeneral.gov">www.ohioattorneygeneral.gov</ulink>
     </para>
+    </sect2>
+      <sect2>
+    <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Summit County Office of Consumer Affairs
+      <emphasis role="strong">Summit County Office of Consumer Affairs</emphasis>
     </para>
     <para>
       175 S. Main St., Suite 209 Akron, OH 44308 330-643-2879
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_783.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumeraffairs@summitoh.net
-      (<email>consumeraffairs@summitoh.net</email>)
+      <email>consumeraffairs@summitoh.net</email>
     </para>
     <para>
-      <ulink url="http://www.co.summit.oh.us/consumeraffairs">www.co.summit.oh.us/
-      consumeraffairs</ulink>
+      <ulink url="http://www.co.summit.oh.us/consumeraffairs">www.co.summit.oh.us/consumeraffairs</ulink>
     </para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Oklahoma</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Oklahoma
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Oklahoma Department of Consumer Credit
+      <emphasis role="strong">Oklahoma Department of Consumer Credit</emphasis>
     </para>
     <para>
       3613 N.W. 56th St., Suite 240 Oklahoma City, OK 73112-4512
@@ -23794,7 +23631,7 @@
       <ulink url="http://www.ok.gov/okdocc">www.ok.gov/okdocc</ulink>
     </para>
     <para>
-      Oklahoma Attorney General
+      <emphasis role="strong">Oklahoma Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Unit 313 N.E. 21st St. Oklahoma City, OK 73105
@@ -23802,14 +23639,14 @@
     <para>
       <ulink url="http://www.oag.ok.gov">www.oag.ok.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Oregon</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Oregon
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Oregon Department of Justice
+      <emphasis role="strong">Oregon Department of Justice</emphasis>
     </para>
     <para>
       Financial Fraud/Consumer Protection Section 1162 Court St., NE
@@ -23817,24 +23654,19 @@
       Toll free: 1-877-877-9392 (OR) TTY: 1-800-735-2900
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_784.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.hotline@doj.state.or.us
-      (<email>consumer.hotline@doj.state.or.us</email>)
+      <email>consumer.hotline@doj.state.or.us</email>
     </para>
     <para>
       <ulink url="http://www.doj.state.or.us">www.doj.state.or.us</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Pennsylvania</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Pennsylvania
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Office of the Attorney General
+      <emphasis role="strong">Office of the Attorney General</emphasis>
     </para>
     <para>
       Bureau of Consumer Protection Strawberry Square, 14th Floor
@@ -23844,11 +23676,11 @@
     <para>
       <ulink url="http://www.attorneygeneral.gov">www.attorneygeneral.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>Regional Offices</title>
     <para>
-      Regional Offices
-    </para>
-    <para>
-      Erie Regional Office - Office of the Attorney General
+      <emphasis role="strong">Erie Regional Office - Office of the Attorney General</emphasis>
     </para>
     <para>
       Bureau of Consumer Protection 1001 State St., 10th Floor Erie, PA
@@ -23858,7 +23690,7 @@
       <ulink url="http://www.attorneygeneral.gov">www.attorneygeneral.gov</ulink>
     </para>
     <para>
-      Philadelphia Regional Office Office of the Attorney General
+      <emphasis role="strong">Philadelphia Regional Office Office of the Attorney General</emphasis>
     </para>
     <para>
       Bureau of Consumer Protection 21 S. 12th St., 2nd Floor
@@ -23868,7 +23700,7 @@
       <ulink url="http://www.attorneygeneral.gov">www.attorneygeneral.gov</ulink>
     </para>
     <para>
-      Pittsburgh Regional Office - Bureau of Consumer Protection
+      <emphasis role="strong">Pittsburgh Regional Office - Bureau of Consumer Protection</emphasis>
     </para>
     <para>
       Bureau of Consumer Protection Manor Complex, 6th Floor 564 Forbes
@@ -23878,7 +23710,7 @@
       <ulink url="http://www.attorneygeneral.gov">www.attorneygeneral.gov</ulink>
     </para>
     <para>
-      Scranton Regional Office of the Attorney General
+      <emphasis role="strong">Scranton Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       Bureau of Consumer Protection 100 Samter Building 101 Penn Ave.
@@ -23888,7 +23720,7 @@
       <ulink url="http://www.attorneygeneral.gov">www.attorneygeneral.gov</ulink>
     </para>
     <para>
-      State College Regional Office of the Attorney General
+      <emphasis role="strong">State College Regional Office of the Attorney General</emphasis>
     </para>
     <para>
       Bureau of Consumer Protection 444 E. College Ave., Suite 440 State
@@ -23897,57 +23729,40 @@
     <para>
       <ulink url="http://www.attorneygeneral.gov">www.attorneygeneral.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Bucks County Department of Consumer Protection
+      <emphasis role="strong">Bucks County Department of Consumer Protection</emphasis>
     </para>
     <para>
       50 N. Main St. Doylestown, PA 18901 215-348-7442 Toll free:
       1-800-942-2669
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_785.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumerprotection@ co.bucks.pa.us
-      (<email>consumerprotection@co.bucks.pa.us</email>)
+      <email>consumerprotection@co.bucks.pa.us</email>
     </para>
     <para>
       <ulink url="http://www.buckscounty.org">www.buckscounty.org</ulink>
     </para>
     <para>
-      Delaware County Consumer Affairs
+      <emphasis role="strong">Delaware County Consumer Affairs</emphasis>
     </para>
     <para>
       201 W. Front St. Government Center Building Media, PA 19063
       610-891-4865
     </para>
     <para>
-      <ulink url="http://www.co.delaware.pa.us/consumeraffairs">www.co.delaware.pa.us/
-      consumeraffairs</ulink>
+      <ulink url="http://www.co.delaware.pa.us/consumeraffairs">www.co.delaware.pa.us/consumeraffairs</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Puerto Rico</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_786.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_787.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Puerto Rico
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Department de Asuntos Del Consumidor
+      <emphasis role="strong">Department de Asuntos Del Consumidor</emphasis>
     </para>
     <para>
       Apartado 41059 Minillas Station Santurce, PR 00940 787-722-7555
@@ -23956,86 +23771,71 @@
     <para>
       <ulink url="http://www.daco.gobierno.pr">www.daco.gobierno.pr</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Rhode Island</title>
+      <sect2>
+    <title>State Offices</title>
     <para>
-      Rhode Island
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Rhode Island Department of the Attorney General
+      <emphasis role="strong">Rhode Island Department of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Unit 150 S. Main St. Providence, RI 02903
       401-274-4400 TTY: 401-453-0410
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_788.jpg" />
-        </imageobject>
-      </inlinemediaobject>: contactus@riag.ri.gov
-      (<email>contactus@riag.ri.gov</email>)
+      <email>contactus@riag.ri.gov</email>
     </para>
     <para>
       <ulink url="http://www.riag.state.ri.us">www.riag.state.ri.us</ulink>
     </para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>South Carolina</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      South Carolina
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      South Carolina Department of Consumer Affairs
+      <emphasis role="strong">South Carolina Department of Consumer Affairs</emphasis>
     </para>
     <para>
       PO Box 5757 Columbia, SC 29250 803-734-4200 Toll free:
       1-800-922-1594 (SC)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_789.jpg" />
-        </imageobject>
-      </inlinemediaobject>: scdca@scconsumer.gov
-      (<email>scdca@scconsumer.gov</email>)
+      <email>scdca@scconsumer.gov</email>
     </para>
     <para>
       <ulink url="http://www.scconsumer.gov">www.scconsumer.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>South Dakota</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      South Dakota
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      South Dakota Office of the Attorney General
+      <emphasis role="strong">South Dakota Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection 1302 E. Hwy. 14, Suite 3 Pierre, SD 57501
       605-773-4400 Toll free: 1-800-300-1986 (SD) TTY: 605-773-6585
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_790.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumerhelp@state.sd.us
-      (<email>consumerhelp@state.sd.us</email>)
+      <email>consumerhelp@state.sd.us</email>
     </para>
     <para>
       <ulink url="http://www.state.sd.us/atg">www.state.sd.us/atg</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Tennessee</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Tennessee
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Tennessee Department of Commerce and Insurance
+      <emphasis role="strong">Tennessee Department of Commerce and Insurance</emphasis>
     </para>
     <para>
       Division of Consumer Affairs 500 James Robertson Pkwy., 12th Floor
@@ -24043,18 +23843,13 @@
       (TN)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_791.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.affairs@tn.gov
-      (<email>consumer.affairs@tn.gov</email>)
+      <email>consumer.affairs@tn.gov</email>
     </para>
     <para>
       <ulink url="http://www.tn.gov/consumer">www.tn.gov/consumer</ulink>
     </para>
     <para>
-      Tennessee Office of the Attorney General
+      <emphasis role="strong">Tennessee Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Advocate and Protection Division PO Box 20207 Nashville,
@@ -24063,14 +23858,14 @@
     <para>
       <ulink url="http://www.tn.gov/attorneygeneral">www.tn.gov/attorneygeneral</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Texas</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Texas
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Texas Office of the Attorney General
+      <emphasis role="strong">Texas Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division PO Box 12548 Austin, TX 78711-2548
@@ -24079,11 +23874,11 @@
     <para>
       <ulink url="http://www.oag.state.tx.us">www.oag.state.tx.us</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>Regional Offices</title>
     <para>
-      Regional Offices
-    </para>
-    <para>
-      Office of the Attorney General Dallas Region
+      <emphasis role="strong">Office of the Attorney General Dallas Region</emphasis>
     </para>
     <para>
       Consumer Protection Division 1412 Main St., Suite 810 Dallas, TX
@@ -24093,7 +23888,7 @@
       <ulink url="http://www.oag.state.tx.us">www.oag.state.tx.us</ulink>
     </para>
     <para>
-      Office of the Attorney General El Paso Region
+      <emphasis role="strong">Office of the Attorney General El Paso Region</emphasis>
     </para>
     <para>
       Consumer Protection Division 401 E. Franklin Ave., Suite 530 El
@@ -24103,7 +23898,7 @@
       <ulink url="http://www.oag.state.tx.us">www.oag.state.tx.us</ulink>
     </para>
     <para>
-      Office of the Attorney General Houston Region
+      <emphasis role="strong">Office of the Attorney General Houston Region</emphasis>
     </para>
     <para>
       Consumer Protection Division 808 Travis St., Suite 1520 Houston,
@@ -24113,7 +23908,7 @@
       <ulink url="http://www.oag.state.tx.us">www.oag.state.tx.us</ulink>
     </para>
     <para>
-      Office of the Attorney General McAllen Region
+      <emphasis role="strong">Office of the Attorney General McAllen Region</emphasis>
     </para>
     <para>
       Consumer Protection Division 3201 N. McColl Rd., Suite B McAllen,
@@ -24123,7 +23918,7 @@
       <ulink url="http://www.oag.state.tx.us">www.oag.state.tx.us</ulink>
     </para>
     <para>
-      Office of the Attorney General San Antonio Region
+      <emphasis role="strong">Office of the Attorney General San Antonio Region</emphasis>
     </para>
     <para>
       Consumer Protection Division 115 E. Travis St., Suite 925 San
@@ -24132,11 +23927,11 @@
     <para>
       <ulink url="http://www.oag.state.tx.us">www.oag.state.tx.us</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Dallas County District Attorney’s Office
+      <emphasis role="strong">Dallas County District Attorney’s Office</emphasis>
     </para>
     <para>
       Check Division/ID Fraud 133 N. Industrial Blvd., LB 19 Dallas, TX
@@ -24146,7 +23941,7 @@
       <ulink url="http://www.dallascounty.org">www.dallascounty.org</ulink>
     </para>
     <para>
-      Harris County District Attorney’s Office
+      <emphasis role="strong">Harris County District Attorney’s Office</emphasis>
     </para>
     <para>
       Consumer Protection Section 1201 Franklin St., Suite 600 Houston,
@@ -24155,14 +23950,14 @@
     <para>
       <ulink url="http:app.dao.hctx.net">app.dao.hctx.net</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Utah</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Utah
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Utah Department of Commerce
+      <emphasis role="strong">Utah Department of Commerce</emphasis>
     </para>
     <para>
       Division of Consumer Protection PO Box 146704 160 E. 300 S, 2nd
@@ -24170,39 +23965,19 @@
       1-800-721-7233
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_792.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumerprotection@utah.gov
-      (<email>consumerprotection@utah.gov</email>)
+      <email>consumerprotection@utah.gov</email>
     </para>
     <para>
       <ulink url="http://www.consumerprotection.utah.gov">www.consumerprotection.utah.gov</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Vermont</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_793.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_794.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_795.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Vermont
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Vermont Agency of Agriculture, Food, and Markets
+      <emphasis role="strong">Vermont Agency of Agriculture, Food, and Markets</emphasis>
     </para>
     <para>
       Food Safety and Consumer Protection 116 State St. Montpelier, VT
@@ -24212,31 +23987,26 @@
       <ulink url="http://www.vermontagriculture.com">www.vermontagriculture.com</ulink>
     </para>
     <para>
-      Vermont Office of the Attorney General
+      <emphasis role="strong">Vermont Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Assistance Program 146 University Pl. Burlington, VT
       05405 802-656-3183 Toll free: 1-800-649-2424 (VT)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_796.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@uvm.edu
-      (<email>consumer@uvm.edu</email>)
+      <email>consumer@uvm.edu</email>
     </para>
     <para>
       <ulink url="http://www.atg.state.vt.us">www.atg.state.vt.us</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Virgin Islands</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Virgin Islands
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Virgin Islands Department of Licensing and Consumer Affairs
+      <emphasis role="strong">Virgin Islands Department of Licensing and Consumer Affairs</emphasis>
     </para>
     <para>
       3000 Golden Rock Shopping Center, Suite 9 St. Croix, VI 00820
@@ -24246,7 +24016,7 @@
       <ulink url="http://www.dlca.gov.vi">www.dlca.gov.vi</ulink>
     </para>
     <para>
-      Virgin Islands Department of Licensing and Consumer Affairs
+      <emphasis role="strong">Virgin Islands Department of Licensing and Consumer Affairs</emphasis>
     </para>
     <para>
       Property and Procurement Bldg. 8201 Sub Base, Suite 1 St. Thomas,
@@ -24255,14 +24025,14 @@
     <para>
       <ulink url="http://www.dlca.gov.vi">www.dlca.gov.vi</ulink>
     </para>
+    </sect2>
+    </sect1>
+    <sect1>
+      <title>Virginia</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Virginia
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Virginia Office of the Attorney General
+      <emphasis role="strong">Virginia Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Section 900 E. Main St. Richmond, VA 23219
@@ -24271,11 +24041,11 @@
     <para>
       <ulink url="http://www.ag.virginia.gov">www.ag.virginia.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>Regional Offices</title>
     <para>
-      Regional Offices
-    </para>
-    <para>
-      Office of the Attorney General-Northern Virginia
+      <emphasis role="strong">Office of the Attorney General-Northern Virginia</emphasis>
     </para>
     <para>
       10555 Main St., Suite 350 Fairfax, VA 22030 703-277-3540
@@ -24284,7 +24054,7 @@
       <ulink url="http://www.ag.virginia.gov">www.ag.virginia.gov</ulink>
     </para>
     <para>
-      Office of the Attorney General-Southwest Region
+      <emphasis role="strong">Office of the Attorney General-Southwest Region</emphasis>
     </para>
     <para>
       204 Abingdon Pl. Abingdon, VA 24211 276-628-2759
@@ -24293,7 +24063,7 @@
       <ulink url="http://www.ag.virginia.gov">www.ag.virginia.gov</ulink>
     </para>
     <para>
-      Office of the Attorney General-Western Region
+      <emphasis role="strong">Office of the Attorney General-Western Region</emphasis>
     </para>
     <para>
       3033 Peters Creek Rd. Roanoke, VA 24019 540-562-3570
@@ -24301,12 +24071,12 @@
     <para>
       <ulink url="http://www.ag.virginia.gov">www.ag.virginia.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>County Offices</title>
     <para>
-      County Offices
-    </para>
-    <para>
-      Fairfax County Department of Cable Communications and Consumer
-      Protection
+      <emphasis role="strong">Fairfax County Department of Cable Communications and Consumer
+      Protection</emphasis>
     </para>
     <para>
       12000 Government Center Pkwy., Suite 433 Fairfax, VA 22035
@@ -24316,25 +24086,25 @@
       <ulink url="http://www.fairfaxcounty.gov/consumer.htm">www.fairfaxcounty.gov/
       consumer.htm</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>City Offices</title>
     <para>
-      City Offices
-    </para>
-    <para>
-      Office of Consumer Affairs
+      <emphasis role="strong">Office of Consumer Affairs</emphasis>
     </para>
     <para>
       301 King St. City Hall, Room 1900 Alexandria, VA 22314
       703-746-4800
       <ulink url="http://www.alexandriava.gov/citizen">www.alexandriava.gov/citizen</ulink>
     </para>
+    </sect2>
+    </sect1>
+      <sect1>
+      <title>Washington</title>
+    <sect2>
+      <title>State Offices</title>
     <para>
-      Washington
-    </para>
-    <para>
-      State Offices
-    </para>
-    <para>
-      Washington Office of the Attorney General
+      <emphasis role="strong">Washington Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division PO Box 40100 1125 Washington St., SE
@@ -24344,11 +24114,11 @@
     <para>
       <ulink url="http://www.atg.wa.gov">www.atg.wa.gov</ulink>
     </para>
+    </sect2>
+    <sect2>
+      <title>Regional Offices</title>
     <para>
-      Regional Offices
-    </para>
-    <para>
-      Bellingham Office of the Attorney General
+      <emphasis role="strong">Bellingham Office of the Attorney General</emphasis>
     </para>
     <para>
       Consumer Protection Division (Island, San Juan, Skagit, and
