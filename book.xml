@@ -12902,7 +12902,7 @@
       <ulink url="http://www.avon.com">www.avon.com</ulink>
     </para>
     </sect1>
-      <sect2>
+      <sect1>
     <title>B</title>
     <para>
       Bacardi USA, Inc.
@@ -13360,7 +13360,8 @@
     <para>
       <ulink url="http://www.bushbeans.com">www.bushbeans.com</ulink>
     </para>
-    <sect2>
+      </sect1>
+    <sect1>
       <title>C</title>
     <para>
       Calvin Klein
@@ -13622,7 +13623,6 @@
     <para>
       Church &amp; Dwight Company, Inc.
     </para>
-    <para>
    <para>
       Consumer and Professional Relations 469 N. Harrison St. Princeton,
       NJ 08540 609-683-5900 Toll free: 1-800-524-1328
@@ -16972,24 +16972,12 @@
       Publishers Clearing House
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Consumer Affairs 101 Winners Circle Port Washington, NY 11050 Toll
       free: 1-800-459-4724 Toll free: 1-800-392-4190 (Sweepstakes scams
       using PCH name)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_467.jpg" />
-        </imageobject>
-      </inlinemediaobject>: pchconsumeraffairs@pch.com
-      (<email>pchconsumeraffairs@pch.com</email>)
+      <email>pchconsumeraffairs@pch.com</email>
     </para>
     <para>
       <ulink url="http://www.pch.com">www.pch.com</ulink>
@@ -16998,22 +16986,15 @@
       Publix
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Consumer Relations PO Box 407 Lakeland, FL 33802-0407 Toll free:
       1-800-242-1227
     </para>
     <para>
       <ulink url="http://www.publix.com">www.publix.com</ulink>
     </para>
-    <para>
-      Q
-    </para>
+      </sect1>
+      <sect1>
+        <title>Q</title>
     <para>
       Qdoba Mexican Grill
     </para>
@@ -17022,12 +17003,7 @@
       Toll free: 1-888-497-3622
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_468.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@qdoba.com
-      (<email>info@qdoba.com</email>)
+      <email>info@qdoba.com</email>
     </para>
     <para>
       <ulink url="http://www.qdoba.com">www.qdoba.com</ulink>
@@ -17069,19 +17045,14 @@
       19380 Toll free: 1-800-345-5788 TTY: 1-800-544-3316
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_469.jpg" />
-        </imageobject>
-      </inlinemediaobject>: QVCcares@QVC.com
-      (<email>QVCcares@QVC.com</email>)
+      <email>QVCcares@QVC.com</email>
     </para>
     <para>
       <ulink url="http://www.qvc.com">www.qvc.com</ulink>
     </para>
-    <para>
-      R
-    </para>
+      </sect1>
+      <sect1>
+        <title>R</title>
     <para>
       Radio Shack Corporation
     </para>
@@ -17091,12 +17062,7 @@
       1-800-843-7422
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_470.jpg" />
-        </imageobject>
-      </inlinemediaobject>: RadioShack.Customer.Care@
-      (<email>RadioShack.Customer.Care@RadioShack.com</email>)RadioShack.com
+      <email>RadioShack.Customer.Care@RadioShack.com</email>
     </para>
     <para>
       <ulink url="http://www.radioshack.com">www.radioshack.com</ulink>
@@ -17128,12 +17094,7 @@
       1-800-237-7000
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_471.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumers@rayovac.com
-      (<email>consumers@rayovac.com</email>)
+      <email>consumers@rayovac.com</email>
     </para>
     <para>
       <ulink url="http://www.rayovac.com">www.rayovac.com</ulink>
@@ -17146,12 +17107,7 @@
       914-238-1000 Toll free: 1-800-304-2807 TTY: 1-800-735-4327
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_472.jpg" />
-        </imageobject>
-      </inlinemediaobject>: letters@rd.com
-      (<email>letters@rd.com</email>)
+      <email>letters@rd.com</email>
     </para>
     <para>
       <ulink url="http://www.readersdigest.com">www.readersdigest.com</ulink>
@@ -17164,34 +17120,10 @@
       1-800-228-4722
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_473.jpg" />
-        </imageobject>
-      </inlinemediaobject>: corpcomms@
-      (<email>corpomms@reckittbenckiser.com</email>)reckittbenckiser.com
+      <email>corpomms@reckittbenckiser.com</email>
     </para>
     <para>
       <ulink url="http://www.reckittbenckiser.com">www.reckittbenckiser.com</ulink>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_474.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_314.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_475.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_476.jpg" />
-        </imageobject>
-      </inlinemediaobject>
     </para>
     <para>
       Red Lobster
@@ -17210,12 +17142,7 @@
       Consumer Service 1675 Reigle Dr. Kewaskum, WI 53040 262-626-2121
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_477.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@regalware.com
-      (<email>info@regalware.com</email>)
+      <email>info@regalware.com</email>
     </para>
     <para>
       <ulink url="http://www.regalware.com">www.regalware.com</ulink>
@@ -17228,11 +17155,7 @@
       1-800-392-6544
     </para>
     <para>
-      <ulink url="http:remingtonproducts.com"><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_478.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ContactUs@ remingtonproducts.com</ulink>
+      <email>ContactUs@ remingtonproducts.com</email>
     </para>
     <para>
       <ulink url="http://www.remington-products.com">www.remington-products.com</ulink>
@@ -17264,12 +17187,7 @@
       GA 31522 912-638-5000 Toll free: 1-888-732-7251
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_479.jpg" />
-        </imageobject>
-      </inlinemediaobject>: rsp-consumer.relations@rich.com
-      (<email>rsp-consumer.relations@rich.com</email>)
+      <email>rsp-consumer.relations@rich.com</email>
     </para>
     <para>
       Rite Aid Corporation
@@ -17331,9 +17249,9 @@
     <para>
       <ulink url="http://www.ruthschris.com">www.ruthschris.com</ulink>
     </para>
-    <para>
-      S
-    </para>
+      </sect1>
+      <sect1>
+        <title>S</title>
     <para>
       Safe Auto Insurance
     </para>
@@ -17342,12 +17260,7 @@
       1-800-723-3288
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_480.jpg" />
-        </imageobject>
-      </inlinemediaobject>: csd@safeauto.com
-      (<email>csd@safeauto.com</email>)
+      <email>csd@safeauto.com</email>
     </para>
     <para>
       Safeway, Inc.
@@ -17367,12 +17280,7 @@
       Toll free: 1-877-551-7257
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_481.jpg" />
-        </imageobject>
-      </inlinemediaobject>: service@saks.com
-      (<email>service@saks.com</email>)
+      <email>service@saks.com</email>
     </para>
     <para>
       <ulink url="http://www.saks.com">www.saks.com</ulink>
@@ -17395,12 +17303,7 @@
       free: 1-800-765-2247 Toll free: 1-800-262-8282 (Warranty)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_482.jpg" />
-        </imageobject>
-      </inlinemediaobject>: questions@samsonite.com
-      (<email>questions@samsonite.com</email>)
+      <email>questions@samsonite.com</email>
     </para>
     <para>
       <ulink url="http://www.samsonite.com">www.samsonite.com</ulink>
@@ -17430,13 +17333,6 @@
       Sargento Foods Inc.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Consumer Affairs One Persnickety Pl. Plymouth, WI 53073
       920-893-8484 (Corporate) Toll free: 1-800-243-3737
     </para>
@@ -17456,13 +17352,6 @@
       SC Johnson and Son, Inc.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       1525 Howe St. Racine, WI 53403 Toll free: 1-800-494-4855
     </para>
     <para>
@@ -17470,13 +17359,6 @@
     </para>
     <para>
       The Scotts Company
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
     </para>
     <para>
       Help Center 14111 Scottslawn Rd. Marysville, OH 43041 Toll free:
@@ -17493,12 +17375,7 @@
       Toll free: 1-866-755-5619
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_483.jpg" />
-        </imageobject>
-      </inlinemediaobject>: guestrelations@seabourn.com
-      (<email>guestrelations@seabourn.com</email>)
+      <email>guestrelations@seabourn.com</email>
     </para>
     <para>
       <ulink url="http://www.seabourn.com">www.seabourn.com</ulink>
@@ -17512,17 +17389,6 @@
     </para>
     <para>
       <ulink url="http://www.sealy.com">www.sealy.com</ulink>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_484.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_485.jpg" />
-        </imageobject>
-      </inlinemediaobject>
     </para>
     <para>
       Sears
@@ -17559,23 +17425,11 @@
       Serta, Inc.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Customer Service Three Golf Center #392 Hoffman Estates, IL 60169
       847-645-0200 Toll free: 1-888-557-3782
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_486.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customer.service@serta.com
-      (<email>customer.service@serta.com</email>)
+      <email>customer.service@serta.com</email>
     </para>
     <para>
       <ulink url="http://www.serta.com">www.serta.com</ulink>
@@ -17618,12 +17472,7 @@
       (Shell Card)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_487.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ShellCustomerCare@shell.com
-      (<email>ShellCustomerCare@shell.com</email>)
+      <email>ShellCustomerCare@shell.com</email>
     </para>
     <para>
       <ulink url="http://www.shellus.com">www.shellus.com</ulink>
@@ -17656,12 +17505,7 @@
       615-391-5395 Toll free: 1-877-377-2233
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_488.jpg" />
-        </imageobject>
-      </inlinemediaobject>: helpdesk@shoneys.com
-      (<email>helpdesk@shoneys.com</email>)
+      <email>helpdesk@shoneys.com</email>
     </para>
     <para>
       <ulink url="http://www.shoneys.com">www.shoneys.com</ulink>
@@ -17674,12 +17518,7 @@
       30328-6188 Toll free: 1-877-399-9397
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_489.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customerassistance@
-      (<email>customerassistance@simmons.com</email>)simmons.com
+      <email>customerassistance@simmons.com</email>
     </para>
     <para>
       <ulink url="http://www.simmons.com">www.simmons.com</ulink>
@@ -17692,12 +17531,7 @@
       Cliffs, NJ 07632 Toll free: 1-800-754-6327
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_490.jpg" />
-        </imageobject>
-      </inlinemediaobject>: support@slimfast.com
-      (<email>support@slimfast.com</email>)
+      <email>support@slimfast.com</email>
     </para>
     <para>
       <ulink url="http://www.slimfast.com">www.slimfast.com</ulink>
@@ -17710,12 +17544,7 @@
       1-800-766-3782
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_491.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@sonesta.com
-      (<email>info@sonesta.com</email>)
+      <email>info@sonesta.com</email>
     </para>
     <para>
       <ulink url="http://www.sonesta.com">www.sonesta.com</ulink>
@@ -17724,17 +17553,11 @@
       Sony Corporation of America
     </para>
     <para>
-      Consumer Information Service Center<literallayout>
-</literallayout> <literallayout>
-</literallayout>12451 Gateway Blvd.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Fort Myers, FL 33913<literallayout>
-</literallayout> <literallayout>
-</literallayout>239-768-7547 (Consumer Eletronics)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-345-7669 (Playstation)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Consumer Information Service Center 
+      12451 Gateway Blvd. 
+      Fort Myers, FL 33913 
+      239-768-7547 (Consumer Eletronics) 
+      Toll free: 1-800-345-7669 (Playstation)
     </para>
     <para>
       <ulink url="http://www.sony.com">www.sony.com</ulink>
@@ -17757,12 +17580,7 @@
       free: 1-800-222-5680
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_492.jpg" />
-        </imageobject>
-      </inlinemediaobject>: clientservices@spiegel.com
-      (<email>clientservices@spiegel.com</email>)
+      <email>clientservices@spiegel.com</email>
     </para>
     <para>
       <ulink url="http://www.spiegel.com">www.spiegel.com</ulink>
@@ -17774,12 +17592,7 @@
       2800 Executive Way Miramar, FL 33025 Toll free: 1-800-772-7117
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_493.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customer@spirit.com
-      (<email>customer@spirit.com</email>)
+      <email>customer@spirit.com</email>
     </para>
     <para>
       <ulink url="http://www.spiritair.com">www.spiritair.com</ulink>
@@ -17838,45 +17651,14 @@
       <ulink url="http://www.starbucks.com">www.starbucks.com</ulink>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_494.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_314.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_495.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_496.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Starwood Hotels &amp; Resorts Worldwide, Inc.
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
     </para>
     <para>
       Customer Service PO Box 6020 Lancaster, CA 93539 Toll free:
       1-800-625-5144
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_497.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customercare@ starwoodhotels.com
-      (<email>customercare@starwoodhotels.com</email>)
+      <email>customercare@starwoodhotels.com</email>
     </para>
     <para>
       <ulink url="http://www.starwoodhotels.com">www.starwoodhotels.com</ulink>
@@ -17889,12 +17671,7 @@
       309-766-2311 Toll free: 1-800-782-8332
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_498.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@statefarm.com
-      (<email>info@statefarm.com</email>)
+      <email>info@statefarm.com</email>
     </para>
     <para>
       <ulink url="http://www.statefarm.com">www.statefarm.com</ulink>
@@ -17907,12 +17684,7 @@
       free: 1-888-783-4662
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_499.jpg" />
-        </imageobject>
-      </inlinemediaobject>: e-customerservice@
-      (<email>e-customerservice@steinmart.com</email>)steinmart.com
+      <email>e-customerservice@steinmart.com</email>
     </para>
     <para>
       <ulink url="http://www.steinmart.com">www.steinmart.com</ulink>
@@ -17921,15 +17693,10 @@
       Stop &amp; Shop Supermarket Company, Inc.
     </para>
     <para>
-      Customer Service Dept.<literallayout>
-</literallayout> <literallayout>
-</literallayout>1385 Hancock St.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Quincy, MA 02169<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-767-7772<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Customer Service Dept. 
+      1385 Hancock St. 
+      Quincy, MA 02169 
+      Toll free: 1-800-767-7772
     </para>
     <para>
       <ulink url="http://www.stopandshop.com">www.stopandshop.com</ulink>
@@ -17941,12 +17708,7 @@
       199 Fremont St., Suite 300 San Francisco, CA 94105
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_500.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customerservice@stubhub.com
-      (<email>customerservice@stubhub.com</email>)
+      <email>customerservice@stubhub.com</email>
     </para>
     <para>
       <ulink url="http:www.stubhub.com">www.stubhub.com</ulink>
@@ -17980,9 +17742,9 @@
     <para>
       <ulink url="http://www.symantec.com">www.symantec.com</ulink>
     </para>
-    <para>
-      T
-    </para>
+      </sect1>
+      <sect1>
+    <title>T</title>
     <para>
       Taco Bell
     </para>
@@ -18001,12 +17763,7 @@
       781-741-4028 Toll free: 1-800-992-9010 TTY: 1-800-624-9179
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_501.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customerservice@talbots.com
-      (<email>customerservice@talbots.com</email>)
+      <email>customerservice@talbots.com</email>
     </para>
     <para>
       <ulink url="http://www.talbots.com">www.talbots.com</ulink>
@@ -18015,23 +17772,11 @@
       Target Stores
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Guest Relations and Quality Assurance PO Box 9350 Minneapolis, MN
       55440 Toll free: 1-800-440-0680
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_502.jpg" />
-        </imageobject>
-      </inlinemediaobject>: guest.relations@target.com
-      (<email>guest.relations@target.com</email>)
+      <email>guest.relations@target.com</email>
     </para>
     <para>
       <ulink url="http://www.target.com">www.target.com</ulink>
@@ -18040,23 +17785,11 @@
       TEAC America, Inc.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Customer Service 7733 Telegraph Rd. Montebello, CA 90640
       323-726-0303 323-727-7627 (Service)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_503.jpg" />
-        </imageobject>
-      </inlinemediaobject>: custser@teac.com
-      (<email>custser@teac.com</email>)
+      <email>custser@teac.com</email>
     </para>
     <para>
       <ulink url="http://www.teac.com">www.teac.com</ulink>
@@ -18068,12 +17801,7 @@
       PO Box 60910 Los Angeles, CA 90060-0910 Toll free: 1-800-835-3356
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_504.jpg" />
-        </imageobject>
-      </inlinemediaobject>: service@teleflora.com
-      (<email>service@teleflora.com</email>)
+      <email>service@teleflora.com</email>
     </para>
     <para>
       <ulink url="http://www.teleflora.com">www.teleflora.com</ulink>
@@ -18085,12 +17813,7 @@
       See: Service Master Company Toll free: 1-800-837-6464
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_505.jpg" />
-        </imageobject>
-      </inlinemediaobject>: terminixcares@terminix.com
-      (<email>terminixcares@terminix.com</email>)
+      <email>terminixcares@terminix.com</email>
     </para>
     <para>
       <ulink url="http://www.terminix.com">www.terminix.com</ulink>
@@ -18109,15 +17832,10 @@
       T.G.I. Fridays
     </para>
     <para>
-      Guest Relations<literallayout>
-</literallayout> <literallayout>
-</literallayout>4201 Marsh Ln.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Carrollton, TX 75007<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-374-4297 (Option 1)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Guest Relations 
+      4201 Marsh Ln. 
+      Carrollton, TX 75007 
+      Toll free: 1-800-374-4297 (Option 1)
     </para>
     <para>
       <ulink url="http://www.tgifridays.com">www.tgifridays.com</ulink>
@@ -18140,12 +17858,7 @@
       1-800-847-4389 TTY: 1-888-332-3677
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_506.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customercare@thrifty.com
-      (<email>customercare@thrifty.com</email>)
+      <email>customercare@thrifty.com</email>
     </para>
     <para>
       <ulink url="http://www.thrifty.com">www.thrifty.com</ulink>
@@ -18168,12 +17881,7 @@
       813-979-6625 Toll free: 1-866-550-6934
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_507.jpg" />
-        </imageobject>
-      </inlinemediaobject>: subsvcs@time.customersvc.com
-      (<email>subsvcs@time.customersvc.com</email>)
+      <email>subsvcs@time.customersvc.com</email>
     </para>
     <para>
       <ulink url="http://www.time.com">www.time.com</ulink>
@@ -18195,12 +17903,7 @@
       501-372-1111 Toll free: 1-800-448-4639
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_508.jpg" />
-        </imageobject>
-      </inlinemediaobject>: custserv@timex.com
-      (<email>custserv@timex.com</email>)
+      <email>custserv@timex.com</email>
     </para>
     <para>
       <ulink url="http://www.timex.com">www.timex.com</ulink>
@@ -18215,48 +17918,21 @@
       <ulink url="http://www.tjmaxx.com">www.tjmaxx.com</ulink>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_509.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_510.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       TJX Companies, Inc.
     </para>
     <para>
-      770 Cochituate Rd.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Framingham, MA 01701<literallayout>
-</literallayout> <literallayout>
-</literallayout>508-390-1000<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-926-6299 (TJ Maxx)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-888-0776<literallayout>
-</literallayout> <literallayout>
-</literallayout>(Home Goods)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-888-627-7425 (Marshalls)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      770 Cochituate Rd. 
+      Framingham, MA 01701 
+      508-390-1000 
+      Toll free: 1-800-926-6299 (TJ Maxx) 
+      Toll free: 1-800-888-0776 (Home Goods) 
+      Toll free: 1-888-627-7425 (Marshalls)
     </para>
     <para>
       <ulink url="http://www.tjx.com">www.tjx.com</ulink>
     </para>
     <para>
       T-Mobile Wireless
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
     </para>
     <para>
       Customer Relations PO Box 37380 Albuquerque, NM 87176-7380 Toll
@@ -18279,23 +17955,11 @@
       The Toro Company
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Consumer Customer Care 8111 Lyndale Ave., S Bloomington, MN 55420
       Toll free: 1-888-384-9939
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_511.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer.service@toro.com
-      (<email>consumer.service@toro.com</email>)
+      <email>consumer.service@toro.com</email>
     </para>
     <para>
       <ulink url="http://www.toro.com">www.toro.com</ulink>
@@ -18308,12 +17972,7 @@
       Toll free: 1-800-631-3811 Toll free: 1-800-457-7777 (Computers)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_512.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customer_support@tacp.com
-      (<email>customer_support@tacp.com</email>)
+      <email>customer_support@tacp.com</email>
     </para>
     <para>
       <ulink url="http://www.tacp.toshiba.com">www.tacp.toshiba.com</ulink>
@@ -18327,12 +17986,7 @@
       Toll free: 1-800-281-4535 (Online Purchases)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_513.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customeraffairs@totes.com
-      (<email>customeraffairs@totes.com</email>)
+      <email>customeraffairs@totes.com</email>
     </para>
     <para>
       <ulink url="http://www.totes.com">www.totes.com</ulink>
@@ -18345,12 +17999,7 @@
       free: 1-800-869-7787
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_514.jpg" />
-        </imageobject>
-      </inlinemediaobject>: contactus@toysrus.com
-      (<email>contactus@toysrus.com</email>)
+      <email>contactus@toysrus.com</email>
     </para>
     <para>
       <ulink url="http://www.toysrus.com">www.toysrus.com</ulink>
@@ -18383,12 +18032,7 @@
       (Disputes) Toll free: 1-800-680-7289 (Frauds)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_515.jpg" />
-        </imageobject>
-      </inlinemediaobject>: fvad@transunion.com
-      (<email>fvad@transunion.com</email>)(Fraud Victims)
+      <email>fvad@transunion.com</email> (Fraud Victims)
     </para>
     <para>
       <ulink url="http://www.transunion.com">www.transunion.com</ulink>
@@ -18412,12 +18056,7 @@
       78233 Toll free: 1-888-872-8356 TTY: 1-800-555-7585
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_516.jpg" />
-        </imageobject>
-      </inlinemediaobject>: travelocity@travelocity.com
-      (<email>travelocity@travelocity.com</email>)
+      <email>travelocity@travelocity.com</email>
     </para>
     <para>
       <ulink url="http://www.travelocity.com">www.travelocity.com</ulink>
@@ -18448,12 +18087,7 @@
       See: Service Master Company Toll free: 1-877-905-5147
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_517.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customercare@trugreenmail.com
-      (<email>customercare@trugreenmail.com</email>)
+      <email>customercare@trugreenmail.com</email>
     </para>
     <para>
       <ulink url="http://www.trugreen.com">www.trugreen.com</ulink>
@@ -18476,12 +18110,7 @@
       90028 Toll free: 1-800-866-1400
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_518.jpg" />
-        </imageobject>
-      </inlinemediaobject>: feedback@tvguide.com
-      (<email>feedback@tvguide.com</email>)
+      <email>feedback@tvguide.com</email>
     </para>
     <para>
       <ulink url="http://www.tvguide.com">www.tvguide.com</ulink>
@@ -18499,22 +18128,15 @@
       Tyson Foods
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Consumer Relations CP631 2200 Don Tyson Pkwy. Springdale, AR 72762
       Toll free: 1-800-643-3410
     </para>
     <para>
       <ulink url="http://www.tyson.com">www.tyson.com</ulink>
     </para>
-    <para>
-      U
-    </para>
+      </sect1>
+    <sect1>
+      <title>U</title>
     <para>
       U-Haul International
     </para>
@@ -18533,12 +18155,7 @@
       817-858-3300 Toll free: 1-800-297-1023 TTY: 1-800-874-9314
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_519.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cservice@uniden.com
-      (<email>cservice@uniden.com</email>)
+      <email>cservice@uniden.com</email>
     </para>
     <para>
       <ulink url="http://www.uniden.com">www.uniden.com</ulink>
@@ -18547,23 +18164,11 @@
       Unilever
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Consumer Services 920 Sylvan Ave., 2nd Floor Englewood Cliffs, NJ
       07632 Toll free: 1-800-298-5018
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_520.jpg" />
-        </imageobject>
-      </inlinemediaobject>: comments@unilever.com
-      (<email>comments@unilever.com</email>)
+      <email>comments@unilever.com</email>
     </para>
     <para>
       <ulink url="http://www.unilever.com">www.unilever.com</ulink>
@@ -18579,33 +18184,7 @@
       <ulink url="http://www.uniroyal.com">www.uniroyal.com</ulink>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_521.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_314.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_522.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_523.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       United Airlines
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
     </para>
     <para>
       Customer Care 900 Grand Plaza NHCCR Houston, TX 77067-4323 Toll
@@ -18613,12 +18192,7 @@
       1-800-323-0170
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_524.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customervoice9@united.com
-      (<email>customervoice9@united.com</email>)
+      <email>customervoice9@united.com</email>
     </para>
     <para>
       <ulink url="http://www.ual.com">www.ual.com</ulink>
@@ -18670,11 +18244,7 @@
       1-866-600-8667
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_525.jpg" />
-        </imageobject>
-      </inlinemediaobject>: mail@unos.com (<email>mail@unos.com</email>)
+      <email>mail@unos.com</email>
     </para>
     <para>
       <ulink url="http://www.unos.com">www.unos.com</ulink>
@@ -18699,9 +18269,9 @@
     <para>
       <ulink url="http://www.usbank.com">www.usbank.com</ulink>
     </para>
-    <para>
-      V
-    </para>
+    </sect1>
+      <sect1>
+        <title>V</title>
     <para>
       The Valvoline Company
     </para>
@@ -18740,12 +18310,7 @@
       43216-6589 Toll free: 1-800-411-5116 TTY: 1-800-695-1788
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_526.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customercare@
-      (<email>customercare@victoriassecret.com</email>)victoriassecret.com
+      <email>customercare@victoriassecret.com</email>
     </para>
     <para>
       <ulink url="http://www.victoriassecret.com">www.victoriassecret.com</ulink>
@@ -18758,12 +18323,7 @@
       1-800-847-4641
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_527.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customer.relations.us@
-      (<email>customer.relations.us@fly.virgin.com</email>)fly.virgin.com
+      <email>customer.relations.us@fly.virgin.com</email>
     </para>
     <para>
       <ulink url="http://www.virgin-atlantic.com">www.virgin-atlantic.com</ulink>
@@ -18776,12 +18336,7 @@
       free: 1-888-322-1122
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_528.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ourteam@virginmobileusa.com
-      (<email>ourteam@virginmobileusa.com</email>)
+      <email>ourteam@virginmobileusa.com</email>
     </para>
     <para>
       <ulink url="http://www.virginmobileusa.com">www.virginmobileusa.com</ulink>
@@ -18794,12 +18349,7 @@
       94119-4607 Toll free: 1-800-847-2911
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_529.jpg" />
-        </imageobject>
-      </inlinemediaobject>: askvisausa@visa.com
-      (<email>askvisausa@visa.com</email>)
+      <email>askvisausa@visa.com</email>
     </para>
     <para>
       <ulink url="http://www.visa.com">www.visa.com</ulink>
@@ -18818,27 +18368,17 @@
       The Vons Companies, Inc.
     </para>
     <para>
-      See: Safeway, Inc.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-877-723-3929<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      See: Safeway, Inc. 
+      Toll free: 1-877-723-3929
     </para>
     <para>
       <ulink url="http://www.vons.com">www.vons.com</ulink>
     </para>
-    <para>
-      W
-    </para>
+      </sect1>
+      <sect1>
+        <title>W</title>
     <para>
       Wal-Mart Stores, Inc.
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
     </para>
     <para>
       Customer Relations 702 S.W. 8th St. Bentonville, AR 72716 Toll
@@ -18851,17 +18391,11 @@
       Walgreens
     </para>
     <para>
-      Consumer Relations<literallayout>
-</literallayout> <literallayout>
-</literallayout>200 Wilmot Rd.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Deerfield, IL 60015<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-925-4733 (In-store)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-877-250-5823 (Online)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Consumer Relations 
+      200 Wilmot Rd. 
+      Deerfield, IL 60015 
+      Toll free: 1-800-925-4733 (In-store) 
+      Toll free: 1-877-250-5823 (Online)
     </para>
     <para>
       <ulink url="http://www.walgreens.com">www.walgreens.com</ulink>
@@ -18894,12 +18428,7 @@
       Toll free: 1-800-651-6000
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_530.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customerservice@
-      (<email>customerservice@weightwatchers.com</email>)weightwatchers.com
+      <email>customerservice@weightwatchers.com</email>
     </para>
     <para>
       <ulink url="http://www.weightwatchers.com">www.weightwatchers.com</ulink>
@@ -18908,33 +18437,11 @@
       Wells Fargo Company
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       Customer Service PO Box 560948 Charlotte, NC 28256 Toll free:
       1-800-869-3557 (General) TTY: 1-800-877-4833
     </para>
     <para>
       <ulink url="http://www.wellsfargo.com">www.wellsfargo.com</ulink>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_300.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_531.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_532.jpg" />
-        </imageobject>
-      </inlinemediaobject>
     </para>
     <para>
       Wendy’s International, Inc.
@@ -18954,12 +18461,7 @@
       1-800-222-5598 Toll free: 1-800-448-1492 (Fraud)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_533.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customeradvocatedept@ westernunion.com
-      (<email>customeradvocatedept@westernunion.com</email>)
+      <email>customeradvocatedept@westernunion.com</email>
     </para>
     <para>
       <ulink url="http://www.westernunion.com">www.westernunion.com</ulink>
@@ -18978,27 +18480,15 @@
       Whirlpool Corporation
     </para>
     <para>
-      Customer Service<literallayout>
-</literallayout> <literallayout>
-</literallayout>553 Benson Rd.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Benton Harbor, MI 49022<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-688-2002<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-344-1274 (Maytag)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-422-1230 (KitchenAid)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Customer Service 
+      553 Benson Rd. 
+      Benton Harbor, MI 49022 
+      Toll free: 1-800-688-2002 
+      Toll free: 1-800-344-1274 (Maytag) 
+      Toll free: 1-800-422-1230 (KitchenAid)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_534.jpg" />
-        </imageobject>
-      </inlinemediaobject>: whirlpool_customerexperience@ whirlpool.com
-      (<email>whirlpool_customerexperience@whirlpool.com</email>)
+      <email>whirlpool_customerexperience@whirlpool.com</email>
     </para>
     <para>
       <ulink url="http://www.whirlpool.com">www.whirlpool.com</ulink>
@@ -19010,12 +18500,7 @@
       550 Bowie St. Austin, TX 78703 512-542-0878
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_535.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customer.questions@
-      (<email>customer.questions@wholefoods.com</email>)wholefoods.com
+      <email>customer.questions@wholefoods.com</email>
     </para>
     <para>
       <ulink url="http://www.wholefoods.com">www.wholefoods.com</ulink>
@@ -19037,12 +18522,7 @@
       1-877-812-6235
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_536.jpg" />
-        </imageobject>
-      </inlinemediaobject>: CustomerService@
-      (<email>CustomerService@williams-sonoma.com</email>)williams-sonoma.com
+      <email>CustomerService@williams-sonoma.com</email>
     </para>
     <para>
       <ulink url="http://www.williams-sonoma.com">www.williams-sonoma.com</ulink>
@@ -19055,12 +18535,7 @@
       1-866-946-6349
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_537.jpg" />
-        </imageobject>
-      </inlinemediaobject>: Svc_WDCustResp@
-      (<email>Svc_WDCustResp@winn-dixie.com</email>)winn-dixie.com
+      <email>Svc_WDCustResp@winn-dixie.com</email>
     </para>
     <para>
       <ulink url="http://www.winn-dixie.com">www.winn-dixie.com</ulink>
@@ -19073,12 +18548,7 @@
       Toll free: 1-800-537-1885
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_538.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@winnabagoind.com
-      (<email>info@winnabagoind.com</email>)
+      <email>info@winnabagoind.com</email>
     </para>
     <para>
       <ulink url="http://www.winnebagoind.com">www.winnebagoind.com</ulink>
@@ -19091,12 +18561,7 @@
       free: 1-888-784-8571
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_539.jpg" />
-        </imageobject>
-      </inlinemediaobject>: wranglerweb@vfc.com
-      (<email>wranglerweb@vfc.com</email>)
+      <email>wranglerweb@vfc.com</email>
     </para>
     <para>
       <ulink url="http://www.wrangler.com">www.wrangler.com</ulink>
@@ -19111,9 +18576,9 @@
     <para>
       <ulink url="http://www.wyndhamworldwide.com">www.wyndhamworldwide.com</ulink>
     </para>
-    <para>
-      X
-    </para>
+      </sect1>
+      <sect1>
+        <title>X</title>
     <para>
       Xbox
     </para>
@@ -19134,44 +18599,26 @@
       Technical Support) Toll free: 1-800-275-9376
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_540.jpg" />
-        </imageobject>
-      </inlinemediaobject>: webmaster@xerox.com
-      (<email>webmaster@xerox.com</email>)
+      <email>webmaster@xerox.com</email>
     </para>
     <para>
       <ulink url="http://www.xerox.com">www.xerox.com</ulink>
     </para>
-    <para>
-      Y
-    </para>
+      </sect1>
+      <sect1>
+        <title>Y</title>
     <para>
       Yahoo! Online
     </para>
     <para>
-      Customer Care<literallayout>
-</literallayout> <literallayout>
-</literallayout>701 1st Ave.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Sunnyvale, CA 94089<literallayout>
-</literallayout> <literallayout>
-</literallayout>408-349-5070 (Customer Care)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-866-562-7219<literallayout>
-</literallayout> <literallayout>
-</literallayout>(Customer Care)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Customer Care 
+      701 1st Ave. 
+      Sunnyvale, CA 94089 
+      408-349-5070 (Customer Care) 
+      Toll free: 1-866-562-7219 (Customer Care)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_541.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cc-advoc@yahoo-inc.com
-      (<email>cc-advoc@yahoo-inc.com</email>)
+      <email>cc-advoc@yahoo-inc.com</email>
     </para>
     <para>
       <ulink url="http://www.yahoo.com">www.yahoo.com</ulink>
@@ -19191,26 +18638,19 @@
       YUM! Brands, Inc.
     </para>
     <para>
-      Customer Relations<literallayout>
-</literallayout> <literallayout>
-</literallayout>1900 Colonel Sanders Ln.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Louisville, KY 40213<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-225-5532 (KFC)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-948-8488 (Pizza Hut)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-822-6235 (Taco Bell)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      Customer Relations 
+      1900 Colonel Sanders Ln. 
+      Louisville, KY 40213 
+      Toll free: 1-800-225-5532 (KFC) 
+      Toll free: 1-800-948-8488 (Pizza Hut) 
+      Toll free: 1-800-822-6235 (Taco Bell)
     </para>
     <para>
       <ulink url="http://www.yum.com">www.yum.com</ulink>
     </para>
-    <para>
-      Z
-    </para>
+      </sect1>
+      <sect1>
+        <title>Z</title>
     <para>
       Zales Jewelers
     </para>
@@ -19219,12 +18659,7 @@
       1-800-311-5393
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_542.jpg" />
-        </imageobject>
-      </inlinemediaobject>: customersupport@zales.com
-      (<email>customersupport@zales.com</email>)
+      <email>customersupport@zales.com</email>
     </para>
     <para>
       <ulink url="http://www.zales.com">www.zales.com</ulink>
@@ -19237,11 +18672,7 @@
       89074 Toll free: 1-800-927-7671
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_543.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cs@zappos.com (<email>cs@zappos.com</email>)
+      <email>cs@zappos.com</email>
     </para>
     <para>
       <ulink url="http://www.zappos.com">www.zappos.com</ulink>
@@ -19257,56 +18688,14 @@
       <ulink url="http://www.zenith.com">www.zenith.com</ulink>
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_544.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_314.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_545.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_546.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_547.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_548.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_549.jpg" />
-        </imageobject>
-      </inlinemediaobject>
+      624 9th St., NW 
+      Washington, DC 20425 
+      202-376-8128 (Publications) 
+      Toll free: 1-800-552-6843 (Complaint Referrals) 
+      TTY: 1-800-877-8339 (Nationwide Complaint Referral)
     </para>
     <para>
-      624 9th St., NW<literallayout>
-</literallayout> <literallayout>
-</literallayout>Washington, DC 20425<literallayout>
-</literallayout> <literallayout>
-</literallayout>202-376-8128 (Publications)<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-552-6843 (Complaint Referrals)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-800-877-8339 (Nationwide Complaint Referral)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_550.jpg" />
-        </imageobject>
-      </inlinemediaobject>: referrals@usccr.gov
-      (<email>referrals@usccr.gov</email>)
+      <email>referrals@usccr.gov</email>
     </para>
     <para>
       <ulink url="http://www.usccr.gov">www.usccr.gov</ulink>
@@ -19316,23 +18705,11 @@
       agency charged with monitoring federal civil rights enforcement.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_551.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
       1700 G St., NW Washington, DC 20552 Toll free: 1-855-411-2372 TTY:
       1-855-729-2372
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_552.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@consumerfinance.gov
-      (<email>info@consumerfinance.gov</email>)
+      <email>info@consumerfinance.gov</email>
     </para>
     <para>
       <ulink url="http://www.consumerfinance.gov">www.consumerfinance.gov</ulink>
@@ -19347,29 +18724,13 @@
       consumers can understand their rights and responsibilities.
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_553.jpg" />
-        </imageobject>
-      </inlinemediaobject>
+      4330 East West Hwy. 
+      Bethesda, MD 20814 
+      Toll free: 1-800-638-2772 (8:00 am - 5:30 pm, ET) 
+      TTY: 1-800-638-8270
     </para>
     <para>
-      4330 East West Hwy.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Bethesda, MD 20814<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-800-638-2772 (8:00 am - 5:30 pm, ET)<literallayout>
-</literallayout> <literallayout>
-</literallayout>TTY: 1-800-638-8270<literallayout>
-</literallayout> <literallayout>
-</literallayout>
-    </para>
-    <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_554.jpg" />
-        </imageobject>
-      </inlinemediaobject>: info@cpsc.gov (<email>info@cpsc.gov</email>)
+      <email>info@cpsc.gov</email>
     </para>
     <para>
       <ulink url="http://www.cpsc.gov"><emphasis role="strong">www.cpsc.gov
