@@ -20774,8 +20774,7 @@
     </para>
         <para>
       <ulink url="http://www.sec.gov/complaint.shtml">www.sec.gov/complaint.shtml</ulink>
-      (Complaint
-      Form)</para>
+      (Complaint Form)</para>
      <para>
        <ulink url="http://www.investor.gov">www.investor.gov</ulink>
       (Investor Information)
@@ -25063,51 +25062,43 @@
     <para>
       <ulink url="audit.state.wy.us/banking">audit.state.wy.us/banking</ulink>
     </para>
+    </sect1>
+    </chapter>
+    <chapter id="state_insurance_regulators">
+      <title>State Insurance Regulators</title>
+      <sidebar>
+        <title>Contacting Your Local Insurance Regulator</title>
+        <para>The officials listed below enforce laws and regulations 
+          for each type of insurance. Many of these offices can also 
+          provide you with information to help you make informed 
+          insurance-buying decisions. See the the Insurance section 
+          in Part I of this Handbook for advice (p. 31).</para>
+        <para>
+          If you have a question or complaint about your insurance 
+          company’s policies, contact the company before you contact 
+          your state insurance regulator.
+        </para>
+      </sidebar>
+    <sect1>
+      <title>Alabama</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_845.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_846.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_847.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_848.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Alabama
-    </para>
-    <para>
-      Department of Insurance
+      <emphasis role="strong">Department of Insurance</emphasis>
     </para>
     <para>
       PO Box 303351 Montgomery, AL 36130-3351 334-241-4141 (Consumer
       Services) 334-269-3550
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_849.jpg" />
-        </imageobject>
-      </inlinemediaobject>: ConsumerServices@ insurance.alabama.gov
-      (<email>ConsumerServices@insurance.alabama.gov</email>)
+      <email>ConsumerServices@insurance.alabama.gov</email>
     </para>
     <para>
       <ulink url="http://www.aldoi.gov">www.aldoi.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Alaska</title>
     <para>
-      Alaska
-    </para>
-    <para>
-      Division of Insurance
+      <emphasis role="strong">Division of Insurance</emphasis>
     </para>
     <para>
       Department of Commerce, Community and Economic Development Robert
@@ -25116,63 +25107,48 @@
       907-465-5437
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_850.jpg" />
-        </imageobject>
-      </inlinemediaobject>: insurance@alaska.gov
-      (<email>insurance@alaska.gov</email>)
+      <email>insurance@alaska.gov</email>
     </para>
     <para>
       <ulink url="http://www.dced.state.ak.us/insurance">www.dced.state.ak.us/insurance</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Arizona</title>
     <para>
-      Arizona
-    </para>
-    <para>
-      Department of Insurance
+      <emphasis role="strong">Department of Insurance</emphasis>
     </para>
     <para>
       Consumer Affairs Division 2910 N. 44th St., Suite 210 Phoenix, AZ
       85018-7269 Toll free: 1-800-325-2548 (AZ)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_851.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumers@azinsurance.gov
-      (<email>consumers@azinsurance.gov</email>)
+      <email>consumers@azinsurance.gov</email>
     </para>
     <para>
       <ulink url="http://www.id.state.az.us">www.id.state.az.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Arkansas</title>
     <para>
-      Arkansas
-    </para>
-    <para>
-      Insurance Department
+      <emphasis role="strong">Insurance Department</emphasis>
     </para>
     <para>
       Consumer Services Division 1200 W. 3rd St. Little Rock, AR
       72201-1904
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_852.jpg" />
-        </imageobject>
-      </inlinemediaobject>: insurance.consumers@
-      (<email>insurance.consumers@arkansas.gov</email>)arkansas.gov
+      <email>insurance.consumers@arkansas.gov</email>
     </para>
     <para>
       <ulink url="http://www.insurance.arkansas.gov">www.insurance.arkansas.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>California</title>
     <para>
-      California
-    </para>
-    <para>
-      Department of Insurance
+      <emphasis role="strong">Department of Insurance</emphasis>
     </para>
     <para>
       Consumer Services Division 300 S. Spring St., South Tower Los
@@ -25192,93 +25168,75 @@
     <para>
       <ulink url="http://www.hmohelp.ca.gov">www.hmohelp.ca.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Colorado</title>
     <para>
-      Colorado
-    </para>
-    <para>
-      Division of Insurance
+      <emphasis role="strong">Division of Insurance</emphasis>
     </para>
     <para>
       1560 Broadway, Suite 850 Denver, CO 80202 Toll free:
       1-800-930-3745 (CO) TTY: 711
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_853.jpg" />
-        </imageobject>
-      </inlinemediaobject>: insurance@dora.state.co.us
-      (<email>insurance@dora.state.co.us</email>)
+      <email>insurance@dora.state.co.us</email>
     </para>
     <para>
       <ulink url="http://www.dora.state.co.us/Insurance">www.dora.state.co.us/Insurance</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Connecticut</title>
     <para>
-      Connecticut
-    </para>
-    <para>
-      Insurance Department
+      <emphasis role="strong">Insurance Department</emphasis>
     </para>
     <para>
       Consumer Affairs Division PO Box 816 Hartford, CT 06142-0816
       860-297-3900 Toll free: 1-800-203-3447 (CT)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_854.jpg" />
-        </imageobject>
-      </inlinemediaobject>: cid.ca@ct.gov (<email>cid.ca@ct.gov</email>)
+      <email>cid.ca@ct.gov</email>
     </para>
     <para>
       <ulink url="http://www.ct.gov/cid">www.ct.gov/cid</ulink>
     </para>
+    </sect1>
+    <sect1>
+     <title>Delaware</title>
     <para>
-      Delaware
-    </para>
-    <para>
-      Insurance Department
+      <emphasis role="strong">Insurance Department</emphasis>
     </para>
     <para>
       841 Silver Lake Blvd. Dover, DE 19904 302-674-7310 Toll free:
       1-800-282-8611
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_855.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumer@state.de.us
-      (<email>consumer@state.de.us</email>)
+      <email>consumer@state.de.us</email>
     </para>
     <para>
       <ulink url="http://www.delawareinsurance.gov">www.delawareinsurance.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>District Of Columbia</title>
     <para>
-      District Of Columbia
-    </para>
-    <para>
-      Department of Insurance, Securities and Banking
+      <emphasis role="strong">Department of Insurance, Securities and Banking</emphasis>
     </para>
     <para>
       Attn: Consumer Services Division 810 1st St., NE, Suite 701
       Washington, DC 20002
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_856.jpg" />
-        </imageobject>
-      </inlinemediaobject>: disb@dc.gov (<email>disb@dc.gov</email>)
+      <email>disb@dc.gov</email>
     </para>
     <para>
       <ulink url="http://www.disb.dc.gov">www.disb.dc.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Florida</title>
     <para>
-      Florida
-    </para>
-    <para>
-      Office of Insurance Regulation
+      <emphasis role="strong">Office of Insurance Regulation</emphasis>
     </para>
     <para>
       200 E. Gaines St. Tallahassee, FL 32399 850-413-3140
@@ -25286,52 +25244,42 @@
     <para>
       <ulink url="http://www.floir.com">www.floir.com</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Georgia</title>
     <para>
-      Georgia
-    </para>
-    <para>
-      Insurance and Safety Fire Commissioner
+      <emphasis role="strong">Insurance and Safety Fire Commissioner</emphasis>
     </para>
     <para>
       Two Martin Luther King, Jr. Dr. West Tower, Suite 704 Atlanta, GA
       30334 404-656-2070 Toll free: 1-800-656-2298 (GA)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_857.jpg" />
-        </imageobject>
-      </inlinemediaobject>: Consumer@oci.ga.gov
-      (<email>Consumer@oci.ga.gov</email>)
+      <email>Consumer@oci.ga.gov</email>
     </para>
     <para>
       <ulink url="http://www.gainsurance.org">www.gainsurance.org</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Hawaii</title>
     <para>
-      Hawaii
-    </para>
-    <para>
-      Department of Commerce and Consumer Affairs
+      <emphasis role="strong">Department of Commerce and Consumer Affairs</emphasis>
     </para>
     <para>
       Insurance Division PO Box 3614 Honolulu, HI 96811 808-586-2790
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_858.jpg" />
-        </imageobject>
-      </inlinemediaobject>: insurance@dcca.hawaii.gov
-      (<email>insurance@dcca.hawaii.gov</email>)
+      <email>insurance@dcca.hawaii.gov</email>
     </para>
     <para>
       <ulink url="http://www.hawaii.gov/dcca/ins">www.hawaii.gov/dcca/ins</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Idaho</title>
     <para>
-      Idaho
-    </para>
-    <para>
-      Department of Insurance
+      <emphasis role="strong">Department of Insurance</emphasis>
     </para>
     <para>
       Consumer s Bureau 700 W. State St. PO Box 83720 Boise, ID
@@ -25340,22 +25288,11 @@
     <para>
       <ulink url="http://www.doi.idaho.gov">www.doi.idaho.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Illinois</title>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_859.jpg" />
-        </imageobject>
-      </inlinemediaobject><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_860.jpg" />
-        </imageobject>
-      </inlinemediaobject>
-    </para>
-    <para>
-      Illinois
-    </para>
-    <para>
-      Division of Insurance-Springfield
+      <emphasis role="strong">Division of Insurance-Springfield</emphasis>
     </para>
     <para>
       320 W. Washington St. Springfield, IL 62767-0001 217-782-4515 Toll
@@ -25364,83 +25301,62 @@
       217-524-4872
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_861.jpg" />
-        </imageobject>
-      </inlinemediaobject>: doi.infodesk@illinois.gov
-      (<email>doi.infodesk@illinois.gov</email>)
+      <email>doi.infodesk@illinois.gov</email>
     </para>
     <para>
       <ulink url="http://www.insurance.illinois.gov">www.insurance.illinois.gov</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Indiana</title>
     <para>
-      Indiana
-    </para>
-    <para>
-      Department of Insurance Consumer Services Division
+      <emphasis role="strong">Department of Insurance Consumer Services Division</emphasis>
     </para>
     <para>
       311 W. Washington St., Suite 300 Indianapolis, IN 46204
       317-232-2395 Toll free: 1-800-622-4461 (IN)
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_862.jpg" />
-        </imageobject>
-      </inlinemediaobject>: consumerservices@idoi.in.gov
-      (<email>consumerservices@idoi.in.gov</email>)
+      <email>consumerservices@idoi.in.gov</email>
     </para>
     <para>
       <ulink url="http://www.in.gov/idoi">www.in.gov/idoi</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Iowa</title>
     <para>
-      Iowa
+      <emphasis role="strong">Division of Insurance</emphasis>
     </para>
     <para>
-      Division of Insurance
-    </para>
-    <para>
-      330 Maple St.<literallayout>
-</literallayout> <literallayout>
-</literallayout>Des Moines, IA 50319-0065<literallayout>
-</literallayout> <literallayout>
-</literallayout>515-281-6348<literallayout>
-</literallayout> <literallayout>
-</literallayout>Toll free: 1-877-955-1212 (IA)<literallayout>
-</literallayout> <literallayout>
-</literallayout>
+      330 Maple St. Des Moines, IA 50319-0065 
+      515-281-6348 
+      Toll free: 1-877-955-1212 (IA)
     </para>
     <para>
       <ulink url="http://www.iid.state.ia.us">www.iid.state.ia.us</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Kansas</title>
     <para>
-      Kansas
-    </para>
-    <para>
-      Insurance Department
+      <emphasis role="strong">Insurance Department</emphasis>
     </para>
     <para>
       Consumer Assistance Division 420 S.W. 9th St. Topeka, KS 66612
       785--296-7829 Toll free: 1-800-432-2484 (KS) TTY: 1-877-235-3151
     </para>
     <para>
-      <inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="images/pdf5131_img_863.jpg" />
-        </imageobject>
-      </inlinemediaobject>: commissioner@ksinsurance.org
-      (<email>commissioner@ksinsurance.org</email>)
+      <email>commissioner@ksinsurance.org</email>
     </para>
     <para>
       <ulink url="http://www.ksinsurance.org">www.ksinsurance.org</ulink>
     </para>
+    </sect1>
+    <sect1>
+      <title>Kentucky</title>
     <para>
-      Kentucky
-    </para>
-    <para>
-      Department of Insurance
+      <emphasis role="strong">Department of Insurance</emphasis>
     </para>
     <para>
       Consumer Protection and Education Division PO Box 517 Frankfort,
@@ -25450,85 +25366,22 @@
     <para>
       <ulink url="http:insurance.ky.gov">insurance.ky.gov</ulink>
     </para>
-    <informaltable>
-      <tgroup cols="0">
-        <colspec align="left" />
-        <colspec align="left" />
-        <tbody>
-          <row>
-            <entry>
-              Louisiana
-            </entry>
-            <entry>
-              Minnesota
-            </entry>
-          </row>
-          <row>
-            <entry>
-              Department of Insurance
-            </entry>
-            <entry>
-              Department of Commerce
-            </entry>
-          </row>
-          <row>
-            <entry>
-              PO Box 94214
-            </entry>
-            <entry>
-              Insurance Division
-            </entry>
-          </row>
-          <row>
-            <entry>
-              Baton Rouge, LA 70804-9214
-            </entry>
-            <entry>
-              85 7th Pl. E, Suite 500
-            </entry>
-          </row>
-          <row>
-            <entry>
-              225-342-5900
-            </entry>
-            <entry>
-              St. Paul, MN 55101
-            </entry>
-          </row>
-          <row>
-            <entry>
-              Toll free: 1-800-259-5300
-            </entry>
-            <entry>
-              651-296-4026
-            </entry>
-          </row>
-          <row>
-            <entry>
-              : consumeradvocacy@ldi.la.gov
-              (<email>consumeradvocacy@ldi.la.gov</email>)
-            </entry>
-            <entry>
-              Toll free: 1-800-657-3602 (MN)
-            </entry>
-          </row>
-          <row>
-            <entry>
-              <ulink url="http://www.ldi.state.la.us">www.ldi.state.la.us</ulink>
-            </entry>
-            <entry>
-              : general.commerce@state.mn.us
-              (<email>general.commerce@state.mn.us</email>)
-            </entry>
-          </row>
-          <row>
-            <entry>
-            </entry>
-            <entry>
-              <ulink url="http://www.insurance.mn.gov">www.insurance.mn.gov</ulink>
-            </entry>
-          </row>
-          <row>
+    </sect1>
+    <sect1>
+    <title>Louisiana</title>
+     <para>
+       <emphasis role="strong">Department of Insurance</emphasis>
+      </para>
+     <para>
+       PO Box 94214 Baton Rouge, LA 70804-9214 225-342-5900 Toll free: 1-800-259-5300
+      </para>
+      <para>
+        <email>consumeradvocacy@ldi.la.gov</email>
+      </para>
+      <para>
+         <ulink url="http://www.ldi.state.la.us">www.ldi.state.la.us</ulink>
+      </para>
+    </sect1>
             <entry>
               Maine
             </entry>
